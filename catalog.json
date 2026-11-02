@@ -1,0 +1,2707 @@
+{
+ "format": 1,
+ "generatedAt": "2026-11-02T11:02:07.070Z",
+ "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
+ "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
+ "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
+ "mods": [
+  {
+   "id": "atk-rs7-air-240",
+   "name": "atk rs7 air 240",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "versiya-bez-kolokolchika",
+     "name": "Без колокольчика",
+     "preview": null,
+     "video": null,
+     "audio": [
+      {
+       "label": null,
+       "path": "audio/atk-rs7-air-240/versiya-bez-kolokolchika/0.mp3?v=61d79da8c0"
+      }
+     ],
+     "files": [
+      {
+       "target": "x64/audio/sfx/PROLOGUE.rpf",
+       "size": 512,
+       "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "8035b2760da5892bd7e36284-PROLOGUE.rpf",
+         "size": 512,
+         "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 126003712,
+       "sha256": "ad408d2ce5166f4ae23764355b4f7477d5cdd926d7679a62ed57161c949b691c",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "ad408d2ce5166f4ae2376435-RESIDENT.rpf",
+         "size": 126003712,
+         "sha256": "ad408d2ce5166f4ae23764355b4f7477d5cdd926d7679a62ed57161c949b691c"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 8210432,
+       "sha256": "d2eca373ded8f34926b65d46dd6a37a7a70e9738ca0c05c4eda7a26f23facfd3",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "d2eca373ded8f34926b65d46-WEAPONS_PLAYER.rpf",
+         "size": 8210432,
+         "sha256": "d2eca373ded8f34926b65d46dd6a37a7a70e9738ca0c05c4eda7a26f23facfd3"
+        }
+       ]
+      }
+     ],
+     "options": []
+    },
+    {
+     "id": "versiya-s-kolokolchikom",
+     "name": "С колокольчиком",
+     "preview": null,
+     "video": null,
+     "audio": [
+      {
+       "label": null,
+       "path": "audio/atk-rs7-air-240/versiya-s-kolokolchikom/0.mp3?v=61d79da8c0"
+      }
+     ],
+     "files": [
+      {
+       "target": "x64/audio/sfx/PROLOGUE.rpf",
+       "size": 512,
+       "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "8035b2760da5892bd7e36284-PROLOGUE.rpf",
+         "size": 512,
+         "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 126003712,
+       "sha256": "de73a5ed56b804e52de9725a18e522d1cbbc54797eac99dc91152022e7681f1a",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "de73a5ed56b804e52de9725a-RESIDENT.rpf",
+         "size": 126003712,
+         "sha256": "de73a5ed56b804e52de9725a18e522d1cbbc54797eac99dc91152022e7681f1a"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 8210432,
+       "sha256": "d2eca373ded8f34926b65d46dd6a37a7a70e9738ca0c05c4eda7a26f23facfd3",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "d2eca373ded8f34926b65d46-WEAPONS_PLAYER.rpf",
+         "size": 8210432,
+         "sha256": "d2eca373ded8f34926b65d46dd6a37a7a70e9738ca0c05c4eda7a26f23facfd3"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "aula",
+   "name": "aula",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [
+    {
+     "label": null,
+     "path": "audio/aula/_/0.mp3?v=d09bd139ef"
+    }
+   ],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "x64/audio/sfx/PROLOGUE.rpf",
+       "size": 512,
+       "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "8035b2760da5892bd7e36284-PROLOGUE.rpf",
+         "size": 512,
+         "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 125314560,
+       "sha256": "ce0e87b8b9bd23d5f5e495691fcd15138dc51b9a0f370758a5d78d30d40e2a53",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "ce0e87b8b9bd23d5f5e49569-RESIDENT.rpf",
+         "size": 125314560,
+         "sha256": "ce0e87b8b9bd23d5f5e495691fcd15138dc51b9a0f370758a5d78d30d40e2a53"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 8343552,
+       "sha256": "33072ee325885d93252301226d1f948d24e33b4cca6e991d2d9bab20d084b449",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "33072ee325885d9325230122-WEAPONS_PLAYER.rpf",
+         "size": 8343552,
+         "sha256": "33072ee325885d93252301226d1f948d24e33b4cca6e991d2d9bab20d084b449"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "aula-2",
+   "name": "aula 2",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [
+    {
+     "label": null,
+     "path": "audio/aula-2/_/0.mp3?v=a79b4372d0"
+    }
+   ],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 124811264,
+       "sha256": "354a81f55dd904b07392551c3b790e19d2b517f490613a02206e36eda3fe48c9",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "354a81f55dd904b07392551c-RESIDENT.rpf",
+         "size": 124811264,
+         "sha256": "354a81f55dd904b07392551c3b790e19d2b517f490613a02206e36eda3fe48c9"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 7836160,
+       "sha256": "2feaff6095d9eb33b1e7330592a6b6a8182ce8e3e1da99830f1fbbb23405cad7",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "2feaff6095d9eb33b1e73305-WEAPONS_PLAYER.rpf",
+         "size": 7836160,
+         "sha256": "2feaff6095d9eb33b1e7330592a6b6a8182ce8e3e1da99830f1fbbb23405cad7"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "clickyhead",
+   "name": "clickyhead",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "versiya-bez-kolokolchika",
+     "name": "Без колокольчика",
+     "preview": null,
+     "video": null,
+     "audio": [
+      {
+       "label": null,
+       "path": "audio/clickyhead/versiya-bez-kolokolchika/0.mp3?v=daf078c347"
+      }
+     ],
+     "files": [
+      {
+       "target": "x64/audio/sfx/PROLOGUE.rpf",
+       "size": 46827520,
+       "sha256": "f4f504027ce4016d9d03ba9ce5b7c15cc84d25fb3b95cea35c6005880049e5f0",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "f4f504027ce4016d9d03ba9c-PROLOGUE.rpf",
+         "size": 46827520,
+         "sha256": "f4f504027ce4016d9d03ba9ce5b7c15cc84d25fb3b95cea35c6005880049e5f0"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 128224768,
+       "sha256": "8aaf40e166ecb270cba528ca4065814187ae19c51ad331ede897f94d0b6d7896",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "8aaf40e166ecb270cba528ca-RESIDENT.rpf",
+         "size": 128224768,
+         "sha256": "8aaf40e166ecb270cba528ca4065814187ae19c51ad331ede897f94d0b6d7896"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 6203904,
+       "sha256": "7bdef799f5a83559ffb00fcfe4c26f51c6b5245936c5d07d3d9f9984d4a91c28",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "7bdef799f5a83559ffb00fcf-WEAPONS_PLAYER.rpf",
+         "size": 6203904,
+         "sha256": "7bdef799f5a83559ffb00fcfe4c26f51c6b5245936c5d07d3d9f9984d4a91c28"
+        }
+       ]
+      }
+     ],
+     "options": []
+    },
+    {
+     "id": "versiya-c-kolokolchikom",
+     "name": "C колокольчиком",
+     "preview": null,
+     "video": null,
+     "audio": [
+      {
+       "label": null,
+       "path": "audio/clickyhead/versiya-c-kolokolchikom/0.mp3?v=daf078c347"
+      }
+     ],
+     "files": [
+      {
+       "target": "x64/audio/sfx/PROLOGUE.rpf",
+       "size": 46827520,
+       "sha256": "f4f504027ce4016d9d03ba9ce5b7c15cc84d25fb3b95cea35c6005880049e5f0",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "f4f504027ce4016d9d03ba9c-PROLOGUE.rpf",
+         "size": 46827520,
+         "sha256": "f4f504027ce4016d9d03ba9ce5b7c15cc84d25fb3b95cea35c6005880049e5f0"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 129992192,
+       "sha256": "8f0376918cf27d435177b3fdcbd72d5bf3fe770b2a795fb7df54deeb26d79cc6",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "8f0376918cf27d435177b3fd-RESIDENT.rpf",
+         "size": 129992192,
+         "sha256": "8f0376918cf27d435177b3fdcbd72d5bf3fe770b2a795fb7df54deeb26d79cc6"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 6203904,
+       "sha256": "7bdef799f5a83559ffb00fcfe4c26f51c6b5245936c5d07d3d9f9984d4a91c28",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "7bdef799f5a83559ffb00fcf-WEAPONS_PLAYER.rpf",
+         "size": 6203904,
+         "sha256": "7bdef799f5a83559ffb00fcfe4c26f51c6b5245936c5d07d3d9f9984d4a91c28"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "grinding",
+   "name": "grinding",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [
+    {
+     "label": null,
+     "path": "audio/grinding/_/0.mp3?v=03b007edef"
+    }
+   ],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 118644224,
+       "sha256": "4eddd44db8880695bdb9eb5ac05d525679ad4e053e3e44de35a10eec56e27204",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "4eddd44db8880695bdb9eb5a-RESIDENT.rpf",
+         "size": 118644224,
+         "sha256": "4eddd44db8880695bdb9eb5ac05d525679ad4e053e3e44de35a10eec56e27204"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 3999744,
+       "sha256": "c40b86801f4102c7020dc0a6919563b2c58cdf061b897618187b4ac7c7b50104",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "c40b86801f4102c7020dc0a6-WEAPONS_PLAYER.rpf",
+         "size": 3999744,
+         "sha256": "c40b86801f4102c7020dc0a6919563b2c58cdf061b897618187b4ac7c7b50104"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "kovaak-240",
+   "name": "kovaak 240",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "versiya-bez-kolokolchikom",
+     "name": "Без колокольчиком",
+     "preview": null,
+     "video": null,
+     "audio": [
+      {
+       "label": null,
+       "path": "audio/kovaak-240/versiya-bez-kolokolchikom/0.mp3?v=79acdbab73"
+      }
+     ],
+     "files": [
+      {
+       "target": "x64/audio/sfx/PROLOGUE.rpf",
+       "size": 512,
+       "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "8035b2760da5892bd7e36284-PROLOGUE.rpf",
+         "size": 512,
+         "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 123953152,
+       "sha256": "fe2fefab63501f6625cd0d95f3011dc41802ea009a433158b81e78e1db6c3188",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "fe2fefab63501f6625cd0d95-RESIDENT.rpf",
+         "size": 123953152,
+         "sha256": "fe2fefab63501f6625cd0d95f3011dc41802ea009a433158b81e78e1db6c3188"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 6113792,
+       "sha256": "7ff36b314707e3f9c0927d6a395051736d7e20ef8baabe029c7209afe443b29b",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "7ff36b314707e3f9c0927d6a-WEAPONS_PLAYER.rpf",
+         "size": 6113792,
+         "sha256": "7ff36b314707e3f9c0927d6a395051736d7e20ef8baabe029c7209afe443b29b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    },
+    {
+     "id": "versiya-s-kolokolchika",
+     "name": "С колокольчика",
+     "preview": null,
+     "video": null,
+     "audio": [
+      {
+       "label": null,
+       "path": "audio/kovaak-240/versiya-s-kolokolchika/0.mp3?v=79acdbab73"
+      }
+     ],
+     "files": [
+      {
+       "target": "x64/audio/sfx/PROLOGUE.rpf",
+       "size": 512,
+       "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "8035b2760da5892bd7e36284-PROLOGUE.rpf",
+         "size": 512,
+         "sha256": "8035b2760da5892bd7e36284e6f13055a25e38d5126ebc146ea791a9d8d388a0"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 123953152,
+       "sha256": "07a08138ad24c38290095eb633e026525516733c929dc2a03cf9cec5510605e9",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "07a08138ad24c38290095eb6-RESIDENT.rpf",
+         "size": 123953152,
+         "sha256": "07a08138ad24c38290095eb633e026525516733c929dc2a03cf9cec5510605e9"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 6113792,
+       "sha256": "7ff36b314707e3f9c0927d6a395051736d7e20ef8baabe029c7209afe443b29b",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "7ff36b314707e3f9c0927d6a-WEAPONS_PLAYER.rpf",
+         "size": 6113792,
+         "sha256": "7ff36b314707e3f9c0927d6a395051736d7e20ef8baabe029c7209afe443b29b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "loud",
+   "name": "loud",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [
+    {
+     "label": null,
+     "path": "audio/loud/_/0.mp3?v=97baddc8b5"
+    }
+   ],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "x64/audio/sfx/PROLOGUE.rpf",
+       "size": 512,
+       "sha256": "df914ed6fc129ab24c471eb3fc843f511b6b358af0ff235f9fbf9411a3bb0dba",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "df914ed6fc129ab24c471eb3-PROLOGUE.rpf",
+         "size": 512,
+         "sha256": "df914ed6fc129ab24c471eb3fc843f511b6b358af0ff235f9fbf9411a3bb0dba"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 131689984,
+       "sha256": "fd78db6557d132c8ee493427770640f201cb7886d659384cdb002889d7b313f2",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "fd78db6557d132c8ee493427-RESIDENT.rpf",
+         "size": 131689984,
+         "sha256": "fd78db6557d132c8ee493427770640f201cb7886d659384cdb002889d7b313f2"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 5294592,
+       "sha256": "7b783e7e4c8b7f45965ad823d08ba182dd6de305c83425bf4bc9aaf45b7b2758",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "7b783e7e4c8b7f45965ad823-WEAPONS_PLAYER.rpf",
+         "size": 5294592,
+         "sha256": "7b783e7e4c8b7f45965ad823d08ba182dd6de305c83425bf4bc9aaf45b7b2758"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "sauz",
+   "name": "sauz",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [
+    {
+     "label": null,
+     "path": "audio/sauz/_/0.mp3?v=227f66eed7"
+    }
+   ],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 131309056,
+       "sha256": "19b6a8b42a35f6b3a56fd8afa2ea2aed3393fd9d118c763b72a0deaab29351bd",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "19b6a8b42a35f6b3a56fd8af-RESIDENT.rpf",
+         "size": 131309056,
+         "sha256": "19b6a8b42a35f6b3a56fd8afa2ea2aed3393fd9d118c763b72a0deaab29351bd"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 5979136,
+       "sha256": "988aa1bdd073f7cfb4ca9b05c0023ca7d561ffe658bebe3a30767d9f0166596c",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "988aa1bdd073f7cfb4ca9b05-WEAPONS_PLAYER.rpf",
+         "size": 5979136,
+         "sha256": "988aa1bdd073f7cfb4ca9b05c0023ca7d561ffe658bebe3a30767d9f0166596c"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "simon",
+   "name": "simon",
+   "category": "sounds",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [
+    {
+     "label": null,
+     "path": "audio/simon/_/0.mp3?v=488f3dd225"
+    }
+   ],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "x64/audio/sfx/RESIDENT.rpf",
+       "size": 131765760,
+       "sha256": "2a7d3951defc076423dddfe614537764290f433781f8bc693c777676186653ed",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "2a7d3951defc076423dddfe6-RESIDENT.rpf",
+         "size": 131765760,
+         "sha256": "2a7d3951defc076423dddfe614537764290f433781f8bc693c777676186653ed"
+        }
+       ]
+      },
+      {
+       "target": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+       "size": 4660224,
+       "sha256": "5d6edb90431547137e3cda05ce49b0475ffcfd103eb226fa57cd1bb4b438e6f2",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "5d6edb90431547137e3cda05-WEAPONS_PLAYER.rpf",
+         "size": 4660224,
+         "sha256": "5d6edb90431547137e3cda05ce49b0475ffcfd103eb226fa57cd1bb4b438e6f2"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "black-liquid-skulls-240",
+   "name": "black liquid skulls 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/black-liquid-skulls-240.jpg?v=d301f01eda",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 244783104,
+       "sha256": "fd4e888ac3d6d73d85740e24cb5516ad2df0de639f0c74eb9cdb00064caf4e34",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "fd4e888ac3d6d73d85740e24-dlc.rpf",
+         "size": 244783104,
+         "sha256": "fd4e888ac3d6d73d85740e24cb5516ad2df0de639f0c74eb9cdb00064caf4e34"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 658765824,
+         "sha256": "a94ee07f42a165be68d76d1e4e6f2535d661a518eb34a14f55ce7196e197e00d",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "a94ee07f42a165be68d76d1e-dlc.rpf",
+           "size": 658765824,
+           "sha256": "a94ee07f42a165be68d76d1e4e6f2535d661a518eb34a14f55ce7196e197e00d"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "crimson-skull-240",
+   "name": "crimson skull 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/crimson-skull-240.jpg?v=2c2b05a0d3",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 132569600,
+       "sha256": "d2cf996f6dd3fd04242fa54a8cbdad4e184562a2e9f5a807d1ad87fd54a83ec8",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "d2cf996f6dd3fd04242fa54a-dlc.rpf",
+         "size": 132569600,
+         "sha256": "d2cf996f6dd3fd04242fa54a8cbdad4e184562a2e9f5a807d1ad87fd54a83ec8"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 795200512,
+         "sha256": "5995d609bd56e83bb5feb715585f3f6372538bbab0b1715ed2181e249b15a920",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "5995d609bd56e83bb5feb715-dlc.rpf",
+           "size": 795200512,
+           "sha256": "5995d609bd56e83bb5feb715585f3f6372538bbab0b1715ed2181e249b15a920"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glamour-queen",
+   "name": "glamour queen",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/glamour-queen.jpg?v=0ac402604b",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 83762176,
+       "sha256": "866ed6eba1c87c5899806ae625178a2f4a558b78602ed283be01271661552404",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "866ed6eba1c87c5899806ae6-dlc.rpf",
+         "size": 83762176,
+         "sha256": "866ed6eba1c87c5899806ae625178a2f4a558b78602ed283be01271661552404"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "glow",
+   "name": "Glow",
+   "category": "gunpacks",
+   "description": "Чёрное оружие с белыми надписями GLOW.",
+   "tags": [
+    "чёрный",
+    "белый"
+   ],
+   "editions": [
+    "legacy"
+   ],
+   "preview": "previews/glow.jpg?v=4f8eb4c3e6",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "original",
+     "name": "Обычный размер",
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 35764224,
+       "sha256": "a7387bdfca9db49efd25527ca9b567b896d13cdce5dfa796d362cafc4777dd52",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "a7387bdfca9db49efd25527c-dlc.rpf",
+         "size": 35764224,
+         "sha256": "a7387bdfca9db49efd25527ca9b567b896d13cdce5dfa796d362cafc4777dd52"
+        }
+       ]
+      }
+     ],
+     "options": []
+    },
+    {
+     "id": "small",
+     "name": "Уменьшенный",
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 35396608,
+       "sha256": "6d0aa03ea4d3e4c6909d91e1bfa94083b22ae61e903c996b7e8311a39f328053",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "6d0aa03ea4d3e4c6909d91e1-dlc.rpf",
+         "size": 35396608,
+         "sha256": "6d0aa03ea4d3e4c6909d91e1bfa94083b22ae61e903c996b7e8311a39f328053"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "glow-black-sakura",
+   "name": "glow black sakura",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/glow-black-sakura.jpg?v=a2d770ddb3",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 33558528,
+       "sha256": "879c676baf44d16c85dcabbbfda34c7fe83b5d04ded49f34d2ebdc5879f1e104",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "879c676baf44d16c85dcabbb-dlc.rpf",
+         "size": 33558528,
+         "sha256": "879c676baf44d16c85dcabbbfda34c7fe83b5d04ded49f34d2ebdc5879f1e104"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 693161984,
+         "sha256": "962d70c274d81472dd3553217a1df2ffbd289cdf924fded0b7151388c9f07ad4",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "962d70c274d81472dd355321-dlc.rpf",
+           "size": 693161984,
+           "sha256": "962d70c274d81472dd3553217a1df2ffbd289cdf924fded0b7151388c9f07ad4"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glow-darkweb",
+   "name": "glow darkweb",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/glow-darkweb.jpg?v=b0db4ff099",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 243706880,
+       "sha256": "724d59137ef2eee90d22d1f440a81007bd5de475105e19a7fd992816f09fdfed",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "724d59137ef2eee90d22d1f4-dlc.rpf",
+         "size": 243706880,
+         "sha256": "724d59137ef2eee90d22d1f440a81007bd5de475105e19a7fd992816f09fdfed"
+        }
+       ]
+      },
+      {
+       "target": "update/x64/dlcpacks/patchday8ng/dlc.rpf",
+       "size": 390499840,
+       "sha256": "cac064bb59d8b321e50dbce25521fc1345649d28aef936e508d5414e4d0ce88b",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "cac064bb59d8b321e50dbce2-dlc.rpf",
+         "size": 390499840,
+         "sha256": "cac064bb59d8b321e50dbce25521fc1345649d28aef936e508d5414e4d0ce88b"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 728642560,
+         "sha256": "766b48aecba7e0f4a30dd72956416dfa9ed90f7ae67424c70321ef6cde93ffe3",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "766b48aecba7e0f4a30dd729-dlc.rpf",
+           "size": 728642560,
+           "sha256": "766b48aecba7e0f4a30dd72956416dfa9ed90f7ae67424c70321ef6cde93ffe3"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "graff-bloody-tears-240",
+   "name": "graff bloody tears 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/graff-bloody-tears-240.jpg?v=27edfd1261",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 73607680,
+       "sha256": "a89dd2b6cd17f4ad151f6a0379a6d0401fc7f7b035204cfc6d9f0e273d900f40",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "a89dd2b6cd17f4ad151f6a03-dlc.rpf",
+         "size": 73607680,
+         "sha256": "a89dd2b6cd17f4ad151f6a0379a6d0401fc7f7b035204cfc6d9f0e273d900f40"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "graffiti-play-black",
+   "name": "graffiti play black",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/graffiti-play-black.jpg?v=2e5afe4616",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 103778304,
+       "sha256": "73c2ada7e91996dabefeec03dd4f9de148fba8134c4890421d7f4d3d0a1fb1e1",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "73c2ada7e91996dabefeec03-dlc.rpf",
+         "size": 103778304,
+         "sha256": "73c2ada7e91996dabefeec03dd4f9de148fba8134c4890421d7f4d3d0a1fb1e1"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 913810944,
+         "sha256": "e5e472fcbcdcbc8d0f40e80806688e4233b796d2348c9c704df449363357038c",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "e5e472fcbcdcbc8d0f40e808-dlc.rpf",
+           "size": 913810944,
+           "sha256": "e5e472fcbcdcbc8d0f40e80806688e4233b796d2348c9c704df449363357038c"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "halloween-240",
+   "name": "halloween 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/halloween-240.jpg?v=bc3a2bf954",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 61711360,
+       "sha256": "b532cdc4802c8ce8f8bd1df7ff35fad7054ca39b17255416dccf67758ec4a396",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "b532cdc4802c8ce8f8bd1df7-dlc.rpf",
+         "size": 61711360,
+         "sha256": "b532cdc4802c8ce8f8bd1df7ff35fad7054ca39b17255416dccf67758ec4a396"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 639763456,
+         "sha256": "6d258fc90f1dcf26b28f11c3a9a2df65419f9dd8c26566b3d5c14cef59e06b11",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "6d258fc90f1dcf26b28f11c3-dlc.rpf",
+           "size": 639763456,
+           "sha256": "6d258fc90f1dcf26b28f11c3a9a2df65419f9dd8c26566b3d5c14cef59e06b11"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kai-dragon",
+   "name": "kai dragon",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/kai-dragon.jpg?v=f5226a625a",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 48130048,
+       "sha256": "e64ed526d48b9a5766e9547f626f87439fbb239dca1c4b36c06e50e771e02bfd",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "e64ed526d48b9a5766e9547f-dlc.rpf",
+         "size": 48130048,
+         "sha256": "e64ed526d48b9a5766e9547f626f87439fbb239dca1c4b36c06e50e771e02bfd"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "kai-dragon-v2",
+   "name": "kai dragon v2",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/kai-dragon-v2.jpg?v=b08bda4f31",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 81124352,
+       "sha256": "fbe012be5a9d3c5d57fe864f025e3b59611ca3bbc94794f619783c23e3182ec6",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "fbe012be5a9d3c5d57fe864f-dlc.rpf",
+         "size": 81124352,
+         "sha256": "fbe012be5a9d3c5d57fe864f025e3b59611ca3bbc94794f619783c23e3182ec6"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "kai-gradient",
+   "name": "kai gradient",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/kai-gradient.jpg?v=e26302e596",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 25106944,
+       "sha256": "cfc86b8c638550c82782747945576d704e47d2378c3eec00fc96f486d12d57a9",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "cfc86b8c638550c827827479-dlc.rpf",
+         "size": 25106944,
+         "sha256": "cfc86b8c638550c82782747945576d704e47d2378c3eec00fc96f486d12d57a9"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "kai-lipstick",
+   "name": "kai lipstick",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/kai-lipstick.jpg?v=bdf227bb53",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 114556928,
+       "sha256": "66a0db8ee83854dfc392bba40fccfdd33b0c0aa654da2aa746a9d00c1793eb4c",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "66a0db8ee83854dfc392bba4-dlc.rpf",
+         "size": 114556928,
+         "sha256": "66a0db8ee83854dfc392bba40fccfdd33b0c0aa654da2aa746a9d00c1793eb4c"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "killa-neon-paint-v2",
+   "name": "killa neon paint v2",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/killa-neon-paint-v2.jpg?v=1c5ae49a90",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 58152448,
+       "sha256": "86c45be2854287fddfc3e68d31d370b9a07f4eb3194ed268cd7c9b852583d372",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "86c45be2854287fddfc3e68d-dlc.rpf",
+         "size": 58152448,
+         "sha256": "86c45be2854287fddfc3e68d31d370b9a07f4eb3194ed268cd7c9b852583d372"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "killa-realistic",
+   "name": "killa realistic",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/killa-realistic.jpg?v=c5fbef626a",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 189990400,
+       "sha256": "945a3e9da95c88a8429798fc3e08bc4889c09ade52a4bb1358ac59d91cb8a62e",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "945a3e9da95c88a8429798fc-dlc.rpf",
+         "size": 189990400,
+         "sha256": "945a3e9da95c88a8429798fc3e08bc4889c09ade52a4bb1358ac59d91cb8a62e"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 955561984,
+         "sha256": "3ee4eee70b6820e79e54124aa3a5b79249b935dde8f0229e35aab65d62586255",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "3ee4eee70b6820e79e54124a-dlc.rpf",
+           "size": 955561984,
+           "sha256": "3ee4eee70b6820e79e54124aa3a5b79249b935dde8f0229e35aab65d62586255"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "killa-redglass",
+   "name": "killa redglass",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/killa-redglass.jpg?v=e7f2701ff6",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 49803264,
+       "sha256": "bdef74e4088a733c5cbc99893d4df76d139ca2049042ac5b438947e1d5fd625b",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "bdef74e4088a733c5cbc9989-dlc.rpf",
+         "size": 49803264,
+         "sha256": "bdef74e4088a733c5cbc99893d4df76d139ca2049042ac5b438947e1d5fd625b"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 639088128,
+         "sha256": "bdbd452c80d4d29c02eae8044eb9e57fab5f8ea4c3fe61260abdf0bc231408ac",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "bdbd452c80d4d29c02eae804-dlc.rpf",
+           "size": 639088128,
+           "sha256": "bdbd452c80d4d29c02eae8044eb9e57fab5f8ea4c3fe61260abdf0bc231408ac"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "little-240",
+   "name": "little 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/little-240.jpg?v=8aa5d1c4cc",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 73681408,
+       "sha256": "5409f6db68c90fb1d17bdbd90369b2b3d30b05931fa71e60cd1bb419a13b2c43",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "5409f6db68c90fb1d17bdbd9-dlc.rpf",
+         "size": 73681408,
+         "sha256": "5409f6db68c90fb1d17bdbd90369b2b3d30b05931fa71e60cd1bb419a13b2c43"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 955561984,
+         "sha256": "43044f0d7abcf6f54e88e91998e56a15ce7a577efccb8a5e8611e7ec9c0c5e8c",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "43044f0d7abcf6f54e88e919-dlc.rpf",
+           "size": 955561984,
+           "sha256": "43044f0d7abcf6f54e88e91998e56a15ce7a577efccb8a5e8611e7ec9c0c5e8c"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nebula-killa",
+   "name": "nebula killa",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/nebula-killa.jpg?v=9a986bbf19",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 257596416,
+       "sha256": "2a1d6a2435089a32c0f7d9ce039ef7b5da42995607d19a69473fee54f4b61eab",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "2a1d6a2435089a32c0f7d9ce-dlc.rpf",
+         "size": 257596416,
+         "sha256": "2a1d6a2435089a32c0f7d9ce039ef7b5da42995607d19a69473fee54f4b61eab"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 697996288,
+         "sha256": "46879c6d9b21351af3d094e3815c15db18774bf23f36e9f1ba89f37bd1589d8c",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "46879c6d9b21351af3d094e3-dlc.rpf",
+           "size": 697996288,
+           "sha256": "46879c6d9b21351af3d094e3815c15db18774bf23f36e9f1ba89f37bd1589d8c"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neon-stroke-240",
+   "name": "neon stroke 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/neon-stroke-240.jpg?v=0db799fd06",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 158082560,
+       "sha256": "8df98ea6cc46f509708d5bc8c5bda1e6a327cb07318f1bb60547ff14cb743bdb",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "8df98ea6cc46f509708d5bc8-dlc.rpf",
+         "size": 158082560,
+         "sha256": "8df98ea6cc46f509708d5bc8c5bda1e6a327cb07318f1bb60547ff14cb743bdb"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "pink-wrap-240",
+   "name": "pink wrap 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/pink-wrap-240.jpg?v=bf3f93cd63",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 173545984,
+       "sha256": "a79f5b7f50702d2a365ccedd1ea97f6652e36f761e9465ac257b8467abb21d7b",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "a79f5b7f50702d2a365ccedd-dlc.rpf",
+         "size": 173545984,
+         "sha256": "a79f5b7f50702d2a365ccedd1ea97f6652e36f761e9465ac257b8467abb21d7b"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 694060544,
+         "sha256": "bf6f22838a68ad180dbbbcf1cbd8d160e6f25edab731130c5678356235d916a5",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "bf6f22838a68ad180dbbbcf1-dlc.rpf",
+           "size": 694060544,
+           "sha256": "bf6f22838a68ad180dbbbcf1cbd8d160e6f25edab731130c5678356235d916a5"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "silent-240",
+   "name": "silent 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/silent-240.jpg?v=f85e0f779f",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 136679424,
+       "sha256": "bf8e660fd5983620462d1c82c3ec3d3250da7078fc2d9f4c6e95c10ab722d76e",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "bf8e660fd5983620462d1c82-dlc.rpf",
+         "size": 136679424,
+         "sha256": "bf8e660fd5983620462d1c82c3ec3d3250da7078fc2d9f4c6e95c10ab722d76e"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 795813376,
+         "sha256": "3f9e926eb07fc4e9a1032e2793a136dd5cbe1dec8e8f632bb4c1ab14b0a585dc",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "3f9e926eb07fc4e9a1032e27-dlc.rpf",
+           "size": 795813376,
+           "sha256": "3f9e926eb07fc4e9a1032e2793a136dd5cbe1dec8e8f632bb4c1ab14b0a585dc"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "spider-man-240",
+   "name": "spider man 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/spider-man-240.jpg?v=9811d7b46a",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 387166208,
+       "sha256": "27932f09f361b21158de7cf5a001e3380730c1e08fb00c7dd1ce2aaa53629e89",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "27932f09f361b21158de7cf5-dlc.rpf",
+         "size": 387166208,
+         "sha256": "27932f09f361b21158de7cf5a001e3380730c1e08fb00c7dd1ce2aaa53629e89"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 795161088,
+         "sha256": "b639a03956e188e2b41a5f111f046109f2fed9041f9ddb69096afda5e2a73557",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "b639a03956e188e2b41a5f11-dlc.rpf",
+           "size": 795161088,
+           "sha256": "b639a03956e188e2b41a5f111f046109f2fed9041f9ddb69096afda5e2a73557"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "test-spider-man-240",
+   "name": "test spider man 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/test-spider-man-240.jpg?v=e9416d0ae7",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 194028032,
+       "sha256": "009e54dafe3dc186d09a5645432caea626a2ba50a8f167200900ae05e5db0069",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "009e54dafe3dc186d09a5645-dlc.rpf",
+         "size": 194028032,
+         "sha256": "009e54dafe3dc186d09a5645432caea626a2ba50a8f167200900ae05e5db0069"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 795688960,
+         "sha256": "94879d27effba114319e4cf939e0de0f4968e0ae0d607cdee3a2bccae159685a",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "94879d27effba114319e4cf9-dlc.rpf",
+           "size": 795688960,
+           "sha256": "94879d27effba114319e4cf939e0de0f4968e0ae0d607cdee3a2bccae159685a"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "white-by-vayronmods",
+   "name": "white by vayronmods",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/white-by-vayronmods.jpg?v=718fbb1329",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 60222976,
+       "sha256": "06a7032d19b5cba616e9e4ffcf1da5a4eda421d0fdad4909fde9653d6712d448",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "06a7032d19b5cba616e9e4ff-dlc.rpf",
+         "size": 60222976,
+         "sha256": "06a7032d19b5cba616e9e4ffcf1da5a4eda421d0fdad4909fde9653d6712d448"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 673225216,
+         "sha256": "ee2539599fdfbdf66e06680737f8cde27b8f3c1011de51e279a83f8d234ef777",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "ee2539599fdfbdf66e066807-dlc.rpf",
+           "size": 673225216,
+           "sha256": "ee2539599fdfbdf66e06680737f8cde27b8f3c1011de51e279a83f8d234ef777"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "white-liquid-skulls-240",
+   "name": "white liquid skulls 240",
+   "category": "gunpacks",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/white-liquid-skulls-240.jpg?v=36a00d6e73",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 244730368,
+       "sha256": "677aa49365121fbe8119ac23ea23d3872ddb4c7a194510d10ac0b7829288a020",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "677aa49365121fbe8119ac23-dlc.rpf",
+         "size": 244730368,
+         "sha256": "677aa49365121fbe8119ac23ea23d3872ddb4c7a194510d10ac0b7829288a020"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 658595328,
+         "sha256": "2465d98ef48ce41a8cc17010317704d531dc4996b3763920c9df54d93ebb5009",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "2465d98ef48ce41a8cc17010-dlc.rpf",
+           "size": 658595328,
+           "sha256": "2465d98ef48ce41a8cc17010317704d531dc4996b3763920c9df54d93ebb5009"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anteiku-v2",
+   "name": "anteiku v2",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/anteiku-v2.jpg?v=ee41a84e6c",
+   "video": "https://www.youtube.com/watch?v=EVQiOnQF1kk",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 2082057728,
+       "sha256": "a9e6815470271f2a40cbad26151935a0068d3f658e9393fd1859f4507cb2a7c7",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "a9e6815470271f2a40cbad26-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "479a321ca25e7b8bdc959f5698373b5dc923e7a3adb6bd8e2f35838dbbe937bf"
+        },
+        {
+         "name": "a9e6815470271f2a40cbad26-update.rpf.p02of02",
+         "size": 82057728,
+         "sha256": "27eef100bf5fef22f169e996f277276f959818967a92c7ed7ea0e5f6d1f49b6f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "ayato-traur",
+   "name": "ayato traur",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/ayato-traur.jpg?v=56238b24c5",
+   "video": "https://www.youtube.com/watch?v=Sghh6FEc99I",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 3043397120,
+       "sha256": "f47fec41c26014c6cfa1ebc044d84501d8547bbc782f2867fa6d5df15b402395",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "f47fec41c26014c6cfa1ebc0-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "8138b2fb319e0fce99319d6d190f56538d10743dd78f4d279dfd443c20716478"
+        },
+        {
+         "name": "f47fec41c26014c6cfa1ebc0-update.rpf.p02of02",
+         "size": 1043397120,
+         "sha256": "391860091e799347640023ab07237f6e5af1eec800c5b25f6c622c3bed22f40e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "bakugan-redux-v2",
+   "name": "bakugan redux v2",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/bakugan-redux-v2.jpg?v=8d856a672b",
+   "video": "https://www.youtube.com/watch?v=ndkKwmYvKX4",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1918949376,
+       "sha256": "24c4ed27097813a0eb28d63eb90244e953a0c69bd435fc2220f518a121cfb692",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "24c4ed27097813a0eb28d63e-update.rpf",
+         "size": 1918949376,
+         "sha256": "24c4ed27097813a0eb28d63eb90244e953a0c69bd435fc2220f518a121cfb692"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "blink-x-skye",
+   "name": "blink x skye",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 2417616896,
+       "sha256": "b977600061cd3c986da1ba33a3aa26e58a80c569ad66f5dffb1c6c9ea10ac1b9",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "b977600061cd3c986da1ba33-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "7586cb14945b054fd7ed97c6fdb5a401f5ec09d9abf85ed1b2dd1b6ee3c47609"
+        },
+        {
+         "name": "b977600061cd3c986da1ba33-update.rpf.p02of02",
+         "size": 417616896,
+         "sha256": "4ed6bbd58438e2e58c9bb05bd1d6887a69051a5679a45d17c33ead2bd20504c1"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "bublik-aura",
+   "name": "bublik aura",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/bublik-aura.jpg?v=e223f8b6ea",
+   "video": "https://www.youtube.com/watch?v=7mo-4oSPw40",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1712264192,
+       "sha256": "af3245ce77f6cf479986ed8c0499fc113c0c9bbc763ede61410d2c9a64fbba32",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "af3245ce77f6cf479986ed8c-update.rpf",
+         "size": 1712264192,
+         "sha256": "af3245ce77f6cf479986ed8c0499fc113c0c9bbc763ede61410d2c9a64fbba32"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "bublik-dark",
+   "name": "bublik dark",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/bublik-dark.jpg?v=84e2d9f349",
+   "video": "https://www.youtube.com/watch?v=xs4i5yyO7Wg&t=72s",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 2459554816,
+       "sha256": "da47765babb3458d4f786002770788812a134548efa462159129d691a2b8a2c0",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "da47765babb3458d4f786002-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "be034ce95329ad048d100ee5717b1b3014ea0e3767601aab88f040b22d42c89d"
+        },
+        {
+         "name": "da47765babb3458d4f786002-update.rpf.p02of02",
+         "size": 459554816,
+         "sha256": "647761472669abad9886ca80972fbcade51712d89d7191bf6965fdcea1b38872"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "bublik-fps-v2",
+   "name": "bublik fps v2",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/bublik-fps-v2.jpg?v=b026790cd9",
+   "video": "https://www.youtube.com/watch?v=OuqL5z2Y0KA&t=64s",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1245995520,
+       "sha256": "6b84e6c9824ea85e3d87a2e51ee718de750ebce9341a6eb7dda835df3d95aa5c",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "6b84e6c9824ea85e3d87a2e5-update.rpf",
+         "size": 1245995520,
+         "sha256": "6b84e6c9824ea85e3d87a2e51ee718de750ebce9341a6eb7dda835df3d95aa5c"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "bublik-vanila-v2",
+   "name": "bublik vanila v2",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/bublik-vanila-v2.jpg?v=1dfe55d266",
+   "video": "https://www.youtube.com/watch?v=6DZhIsbEfGM",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1493868032,
+       "sha256": "e350a535726cb055075e113dc2d623f805950d1dfa689a9d1bd053b2300ec34b",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "e350a535726cb055075e113d-update.rpf",
+         "size": 1493868032,
+         "sha256": "e350a535726cb055075e113dc2d623f805950d1dfa689a9d1bd053b2300ec34b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "cutting-feelings",
+   "name": "cutting feelings",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/cutting-feelings.jpg?v=245edcfeb9",
+   "video": "https://www.youtube.com/watch?v=wByV-VDAYCc",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 2890633216,
+       "sha256": "f7508ceee0bfe6fb30785c6f25595839436d463a72f504e043b2deab1db04f5d",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "f7508ceee0bfe6fb30785c6f-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "dc7ce0b4697442b46848869b0ebbfff852b82a6dbccd37e6d05984a45cc0faa3"
+        },
+        {
+         "name": "f7508ceee0bfe6fb30785c6f-update.rpf.p02of02",
+         "size": 890633216,
+         "sha256": "22455a1031cd33588c4b1172a6a3762b05465c2861dcb5d81117f47721991466"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "dissentry",
+   "name": "dissentry",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/dissentry.jpg?v=a594850eef",
+   "video": "https://www.youtube.com/watch?v=1xQZXarID78&t=3s",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1332538880,
+       "sha256": "7c2dd688175988bebe6a2608e8751e782f1dbd54b432cf6172dff0cb08ee88d4",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "7c2dd688175988bebe6a2608-update.rpf",
+         "size": 1332538880,
+         "sha256": "7c2dd688175988bebe6a2608e8751e782f1dbd54b432cf6172dff0cb08ee88d4"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "dissentry-v2",
+   "name": "dissentry v2",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/dissentry-v2.jpg?v=cc7f4240b4",
+   "video": "https://www.youtube.com/watch?v=lAtOBzyDYfI",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 856879104,
+       "sha256": "c24c637d68f54759f87bde41ec9565f3824f639c978772b4d5350fb2e30daa33",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "c24c637d68f54759f87bde41-update.rpf",
+         "size": 856879104,
+         "sha256": "c24c637d68f54759f87bde41ec9565f3824f639c978772b4d5350fb2e30daa33"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "glek",
+   "name": "glek",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/glek.jpg?v=d0f90a733d",
+   "video": "https://www.youtube.com/watch?v=JluzbGSYm7c",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 4293434368,
+       "sha256": "fcd141606cced1c53767261a7891fffbb5714b804f7057373d6e78c6b9019423",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "fcd141606cced1c53767261a-update.rpf.p01of03",
+         "size": 2000000000,
+         "sha256": "74c60b4a244780223343819191d16987386e409985548a40083ee89c1c5e660f"
+        },
+        {
+         "name": "fcd141606cced1c53767261a-update.rpf.p02of03",
+         "size": 2000000000,
+         "sha256": "15381b34c1569d02912bb028bc217c8c3d6e0a7e15110ccff49f8b93bef7bb79"
+        },
+        {
+         "name": "fcd141606cced1c53767261a-update.rpf.p03of03",
+         "size": 293434368,
+         "sha256": "08ab2b110da3c3a40c77527de49bcc75241b8c1ec654aab81da4c7076bf443ac"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "godmode",
+   "name": "godmode",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/godmode.jpg?v=5e50080575",
+   "video": "https://www.youtube.com/watch?v=Q46URbO88Ug",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1564772352,
+       "sha256": "e2a00c1cd776f5f650c89ee8c7c590dbec14ef034c881ae32a91fd0dd2ab01e3",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "e2a00c1cd776f5f650c89ee8-update.rpf",
+         "size": 1564772352,
+         "sha256": "e2a00c1cd776f5f650c89ee8c7c590dbec14ef034c881ae32a91fd0dd2ab01e3"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "monochrome-v2",
+   "name": "monochrome v2",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/monochrome-v2.jpg?v=21439a8153",
+   "video": "https://www.youtube.com/watch?v=hbpgLeFUxr0",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1481894400,
+       "sha256": "35f9afb9a2358c414dd7f42771d02ab813c467ecf0440b3c0158721df4141832",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "35f9afb9a2358c414dd7f427-update.rpf",
+         "size": 1481894400,
+         "sha256": "35f9afb9a2358c414dd7f42771d02ab813c467ecf0440b3c0158721df4141832"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  },
+  {
+   "id": "nate-unholly-fps-boost",
+   "name": "nate. unholly fps boost",
+   "category": "redux",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/nate-unholly-fps-boost.jpg?v=b78db73b62",
+   "video": "https://www.youtube.com/watch?v=WhrKg3uEu1g",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 3045043712,
+       "sha256": "3d878000fc608378c876ad44ebfaffa4f539a91664314eeb971ddc97b7415301",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "3d878000fc608378c876ad44-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "e0fe99e06e31f213836cb59f5caa93a91b9c1ef0c30a1de6dd6cc4a4d78a4d80"
+        },
+        {
+         "name": "3d878000fc608378c876ad44-update.rpf.p02of02",
+         "size": 1045043712,
+         "sha256": "321613360f358fb761c5c81eac3c6ae3be083a0baf5ab4a62b139d4bda8f4268"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ]
+  }
+ ]
+}
