@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-03T01:27:40.669Z",
+ "generatedAt": "2026-11-03T21:09:17.681Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -128,7 +128,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "aula",
@@ -199,7 +200,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "aula-2",
@@ -257,7 +259,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "clickyhead",
@@ -382,7 +385,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "grinding",
@@ -440,7 +444,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "kovaak-240",
@@ -565,7 +570,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "loud",
@@ -636,7 +642,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "sauz",
@@ -694,7 +701,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "simon",
@@ -752,7 +760,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "black-liquid-skulls-240",
@@ -812,6 +821,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -872,6 +885,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "red"
    ]
   },
   {
@@ -912,6 +929,11 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black",
+    "silver",
+    "red"
    ]
   },
   {
@@ -977,6 +999,9 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black"
    ]
   },
   {
@@ -1037,6 +1062,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -1110,6 +1139,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -1150,6 +1183,10 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -1210,6 +1247,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -1270,6 +1311,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "red"
    ]
   },
   {
@@ -1310,6 +1355,10 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black",
+    "red"
    ]
   },
   {
@@ -1350,6 +1399,9 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black"
    ]
   },
   {
@@ -1390,6 +1442,10 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black",
+    "red"
    ]
   },
   {
@@ -1430,6 +1486,11 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black",
+    "white",
+    "red"
    ]
   },
   {
@@ -1470,6 +1531,10 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -1530,6 +1595,9 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black"
    ]
   },
   {
@@ -1590,6 +1658,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -1650,6 +1722,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -1710,6 +1786,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "purple"
    ]
   },
   {
@@ -1750,6 +1830,9 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "black"
    ]
   },
   {
@@ -1810,6 +1893,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "white",
+    "pink"
    ]
   },
   {
@@ -1870,6 +1957,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "white"
    ]
   },
   {
@@ -1930,6 +2021,11 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "white",
+    "red"
    ]
   },
   {
@@ -1990,6 +2086,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -2050,6 +2150,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "white"
    ]
   },
   {
@@ -2110,6 +2214,10 @@
       }
      ]
     }
+   ],
+   "filters": [
+    "black",
+    "silver"
    ]
   },
   {
@@ -2155,7 +2263,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "ayato-traur",
@@ -2200,6 +2309,9 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "dark"
    ]
   },
   {
@@ -2240,6 +2352,9 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "warm"
    ]
   },
   {
@@ -2253,8 +2368,8 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
-   "video": null,
+   "preview": "previews/blink-x-skye.jpg?v=88a6c22cc3",
+   "video": "https://www.youtube.com/watch?v=EkLSRto3x14",
    "audio": [],
    "variants": [
     {
@@ -2285,7 +2400,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "bublik-aura",
@@ -2325,7 +2441,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "bublik-dark",
@@ -2370,7 +2487,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "bublik-fps-v2",
@@ -2410,6 +2528,10 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "warm",
+    "fps"
    ]
   },
   {
@@ -2450,6 +2572,10 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "warm",
+    "bright"
    ]
   },
   {
@@ -2490,7 +2616,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "dissentry-v2",
@@ -2530,6 +2657,10 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "warm",
+    "bright"
    ]
   },
   {
@@ -2580,7 +2711,8 @@
      ],
      "options": []
     }
-   ]
+   ],
+   "filters": []
   },
   {
    "id": "godmode",
@@ -2620,6 +2752,10 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "warm",
+    "bright"
    ]
   },
   {
@@ -2660,6 +2796,9 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "warm"
    ]
   },
   {
@@ -2705,6 +2844,9 @@
      ],
      "options": []
     }
+   ],
+   "filters": [
+    "fps"
    ]
   }
  ]
