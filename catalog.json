@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-03T23:06:55.854Z",
+ "generatedAt": "2026-11-03T23:15:02.695Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -762,6 +762,49 @@
     }
    ],
    "filters": []
+  },
+  {
+   "id": "161",
+   "name": "161",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/161.jpg?v=5e654b1068",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 50835968,
+       "sha256": "f4cea06e8baf243c58322b76e4db06d526bb55a0f9dfa024c395afc9608b4197",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "f4cea06e8baf243c58322b76-dlc.rpf",
+         "size": 50835968,
+         "sha256": "f4cea06e8baf243c58322b76e4db06d526bb55a0f9dfa024c395afc9608b4197"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "black"
+   ]
   },
   {
    "id": "black-liquid-skulls-240",
@@ -1888,6 +1931,49 @@
    ]
   },
   {
+   "id": "rag",
+   "name": "rag",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/rag.jpg?v=0cc7186c48",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 27865600,
+       "sha256": "0921d79f75be04b36dd7ff217cf95851e54dc244e75c3c135dede00d195037b2",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "0921d79f75be04b36dd7ff21-dlc.rpf",
+         "size": 27865600,
+         "sha256": "0921d79f75be04b36dd7ff217cf95851e54dc244e75c3c135dede00d195037b2"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "white"
+   ]
+  },
+  {
    "id": "silent-240",
    "name": "silent 240",
    "category": "gunpacks",
@@ -2076,6 +2162,49 @@
    "filters": [
     "black",
     "red"
+   ]
+  },
+  {
+   "id": "usa",
+   "name": "usa",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/usa.jpg?v=6babeb5c72",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 112494592,
+       "sha256": "c5bf8edfd7773af0b6dbe80fe04f6f1d1729bdc0c5cdb7e77e7fe6e2ac8cc80f",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "c5bf8edfd7773af0b6dbe80f-dlc.rpf",
+         "size": 112494592,
+         "sha256": "c5bf8edfd7773af0b6dbe80fe04f6f1d1729bdc0c5cdb7e77e7fe6e2ac8cc80f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "black"
    ]
   },
   {

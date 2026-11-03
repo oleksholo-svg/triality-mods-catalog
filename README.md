@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 104. Обновлено: 2026-11-03T23:06:55.854Z.
+Модов: 107. Обновлено: 2026-11-03T23:15:02.695Z.
 
 ## sounds
 
@@ -18,6 +18,7 @@
 
 ## gunpacks
 
+- 161
 - black liquid skulls 240
 - crimson skull 240
 - glamour queen
@@ -38,9 +39,11 @@
 - nebula killa
 - neon stroke 240
 - pink wrap 240
+- rag
 - silent 240
 - spider man 240
 - test spider man 240
+- usa
 - white by vayronmods
 - white liquid skulls 240
 
