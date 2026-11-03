@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-03T23:15:02.695Z",
+ "generatedAt": "2026-11-03T23:27:50.752Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -867,6 +867,92 @@
    ],
    "filters": [
     "white",
+    "black"
+   ]
+  },
+  {
+   "id": "by-vegas",
+   "name": "by vegas",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/by-vegas.jpg?v=60a990fffd",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 7559168,
+       "sha256": "a1ad9c818cf4353acb6f14e5349085789b486c4942b419bc00556bc8775828ba",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "a1ad9c818cf4353acb6f14e5-dlc.rpf",
+         "size": 7559168,
+         "sha256": "a1ad9c818cf4353acb6f14e5349085789b486c4942b419bc00556bc8775828ba"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "charms-week",
+   "name": "charms week",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/charms-week.jpg?v=6dbacb4d2f",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 51368448,
+       "sha256": "64f48062c7484e5de79661f150bc4b3dee225455a44d9d1fccc9d3491f20042d",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "64f48062c7484e5de79661f1-dlc.rpf",
+         "size": 51368448,
+         "sha256": "64f48062c7484e5de79661f150bc4b3dee225455a44d9d1fccc9d3491f20042d"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
     "black"
    ]
   },
@@ -2037,6 +2123,49 @@
    ]
   },
   {
+   "id": "snake-240",
+   "name": "snake 240",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/snake-240.jpg?v=7fffb59dc2",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 364497408,
+       "sha256": "ab2dde0d7503fd408f9001bee9fd8d065ad04d164d4d6c0e740f758b32289950",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "ab2dde0d7503fd408f9001be-dlc.rpf",
+         "size": 364497408,
+         "sha256": "ab2dde0d7503fd408f9001bee9fd8d065ad04d164d4d6c0e740f758b32289950"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "black"
+   ]
+  },
+  {
    "id": "spider-man-240",
    "name": "spider man 240",
    "category": "gunpacks",
@@ -2162,6 +2291,49 @@
    "filters": [
     "black",
     "red"
+   ]
+  },
+  {
+   "id": "thorsight",
+   "name": "thorsight",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/thorsight.jpg?v=0ba3a0880e",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 21440000,
+       "sha256": "93c575324df6ae46fefa14519412495a56c7c3cd60cb7508b29be8d4fe535dd7",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "93c575324df6ae46fefa1451-dlc.rpf",
+         "size": 21440000,
+         "sha256": "93c575324df6ae46fefa14519412495a56c7c3cd60cb7508b29be8d4fe535dd7"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "black"
    ]
   },
   {
@@ -5080,8 +5252,8 @@
    "filters": []
   },
   {
-   "id": "yukee-10000mb",
-   "name": "Yukee -10000MB",
+   "id": "yukee-10000mb-fps",
+   "name": "Yukee -10000MB fps",
    "category": "settings",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -5121,8 +5293,8 @@
    "filters": []
   },
   {
-   "id": "yukee-3000mb",
-   "name": "Yukee -3000MB",
+   "id": "yukee-3000mb-fps",
+   "name": "Yukee -3000MB fps",
    "category": "settings",
    "publisher": "oleksholo-svg",
    "description": "",

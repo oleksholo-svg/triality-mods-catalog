@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 107. Обновлено: 2026-11-03T23:15:02.695Z.
+Модов: 111. Обновлено: 2026-11-03T23:27:50.752Z.
 
 ## sounds
 
@@ -20,6 +20,8 @@
 
 - 161
 - black liquid skulls 240
+- by vegas
+- charms week
 - crimson skull 240
 - glamour queen
 - Glow
@@ -41,8 +43,10 @@
 - pink wrap 240
 - rag
 - silent 240
+- snake 240
 - spider man 240
 - test spider man 240
+- thorsight
 - usa
 - white by vayronmods
 - white liquid skulls 240
@@ -118,7 +122,7 @@
 - Solo Cartel
 - Tetsuya Vex
 - Yakai Cartel
-- Yukee -10000MB
-- Yukee -3000MB
+- Yukee -10000MB fps
+- Yukee -3000MB fps
 - Yukee на графику
 - Yukiko Vex
