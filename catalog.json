@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-02T11:02:07.070Z",
+ "generatedAt": "2026-11-03T01:27:40.669Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -9,6 +9,7 @@
    "id": "atk-rs7-air-240",
    "name": "atk rs7 air 240",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -133,6 +134,7 @@
    "id": "aula",
    "name": "aula",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -203,6 +205,7 @@
    "id": "aula-2",
    "name": "aula 2",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -260,6 +263,7 @@
    "id": "clickyhead",
    "name": "clickyhead",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -384,6 +388,7 @@
    "id": "grinding",
    "name": "grinding",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -441,6 +446,7 @@
    "id": "kovaak-240",
    "name": "kovaak 240",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -565,6 +571,7 @@
    "id": "loud",
    "name": "loud",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -635,6 +642,7 @@
    "id": "sauz",
    "name": "sauz",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -692,6 +700,7 @@
    "id": "simon",
    "name": "simon",
    "category": "sounds",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -749,13 +758,14 @@
    "id": "black-liquid-skulls-240",
    "name": "black liquid skulls 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/black-liquid-skulls-240.jpg?v=d301f01eda",
+   "preview": "previews/black-liquid-skulls-240.jpg?v=af1fdcc067",
    "video": null,
    "audio": [],
    "variants": [
@@ -808,13 +818,14 @@
    "id": "crimson-skull-240",
    "name": "crimson skull 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/crimson-skull-240.jpg?v=2c2b05a0d3",
+   "preview": "previews/crimson-skull-240.jpg?v=b711a053ee",
    "video": null,
    "audio": [],
    "variants": [
@@ -867,13 +878,14 @@
    "id": "glamour-queen",
    "name": "glamour queen",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/glamour-queen.jpg?v=0ac402604b",
+   "preview": "previews/glamour-queen.jpg?v=5b88e38fd3",
    "video": null,
    "audio": [],
    "variants": [
@@ -906,6 +918,7 @@
    "id": "glow",
    "name": "Glow",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "Чёрное оружие с белыми надписями GLOW.",
    "tags": [
     "чёрный",
@@ -914,7 +927,7 @@
    "editions": [
     "legacy"
    ],
-   "preview": "previews/glow.jpg?v=4f8eb4c3e6",
+   "preview": "previews/glow.jpg?v=74ff309906",
    "video": null,
    "audio": [],
    "variants": [
@@ -970,13 +983,14 @@
    "id": "glow-black-sakura",
    "name": "glow black sakura",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/glow-black-sakura.jpg?v=a2d770ddb3",
+   "preview": "previews/glow-black-sakura.jpg?v=b943da4d56",
    "video": null,
    "audio": [],
    "variants": [
@@ -1029,13 +1043,14 @@
    "id": "glow-darkweb",
    "name": "glow darkweb",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/glow-darkweb.jpg?v=b0db4ff099",
+   "preview": "previews/glow-darkweb.jpg?v=ea6c3a1bd1",
    "video": null,
    "audio": [],
    "variants": [
@@ -1101,13 +1116,14 @@
    "id": "graff-bloody-tears-240",
    "name": "graff bloody tears 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/graff-bloody-tears-240.jpg?v=27edfd1261",
+   "preview": "previews/graff-bloody-tears-240.jpg?v=909442330e",
    "video": null,
    "audio": [],
    "variants": [
@@ -1140,13 +1156,14 @@
    "id": "graffiti-play-black",
    "name": "graffiti play black",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/graffiti-play-black.jpg?v=2e5afe4616",
+   "preview": "previews/graffiti-play-black.jpg?v=6ce3b0eb61",
    "video": null,
    "audio": [],
    "variants": [
@@ -1199,13 +1216,14 @@
    "id": "halloween-240",
    "name": "halloween 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/halloween-240.jpg?v=bc3a2bf954",
+   "preview": "previews/halloween-240.jpg?v=b9e2d58f11",
    "video": null,
    "audio": [],
    "variants": [
@@ -1258,13 +1276,14 @@
    "id": "kai-dragon",
    "name": "kai dragon",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/kai-dragon.jpg?v=f5226a625a",
+   "preview": "previews/kai-dragon.jpg?v=f81bee2bac",
    "video": null,
    "audio": [],
    "variants": [
@@ -1297,13 +1316,14 @@
    "id": "kai-dragon-v2",
    "name": "kai dragon v2",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/kai-dragon-v2.jpg?v=b08bda4f31",
+   "preview": "previews/kai-dragon-v2.jpg?v=8cb6f7ad2f",
    "video": null,
    "audio": [],
    "variants": [
@@ -1336,13 +1356,14 @@
    "id": "kai-gradient",
    "name": "kai gradient",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/kai-gradient.jpg?v=e26302e596",
+   "preview": "previews/kai-gradient.jpg?v=6c27d18556",
    "video": null,
    "audio": [],
    "variants": [
@@ -1375,13 +1396,14 @@
    "id": "kai-lipstick",
    "name": "kai lipstick",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/kai-lipstick.jpg?v=bdf227bb53",
+   "preview": "previews/kai-lipstick.jpg?v=1f55335363",
    "video": null,
    "audio": [],
    "variants": [
@@ -1414,13 +1436,14 @@
    "id": "killa-neon-paint-v2",
    "name": "killa neon paint v2",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/killa-neon-paint-v2.jpg?v=1c5ae49a90",
+   "preview": "previews/killa-neon-paint-v2.jpg?v=1382ea1086",
    "video": null,
    "audio": [],
    "variants": [
@@ -1453,13 +1476,14 @@
    "id": "killa-realistic",
    "name": "killa realistic",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/killa-realistic.jpg?v=c5fbef626a",
+   "preview": "previews/killa-realistic.jpg?v=37f6c5040a",
    "video": null,
    "audio": [],
    "variants": [
@@ -1512,13 +1536,14 @@
    "id": "killa-redglass",
    "name": "killa redglass",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/killa-redglass.jpg?v=e7f2701ff6",
+   "preview": "previews/killa-redglass.jpg?v=6eaa1feab8",
    "video": null,
    "audio": [],
    "variants": [
@@ -1571,13 +1596,14 @@
    "id": "little-240",
    "name": "little 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/little-240.jpg?v=8aa5d1c4cc",
+   "preview": "previews/little-240.jpg?v=6359b8a86c",
    "video": null,
    "audio": [],
    "variants": [
@@ -1630,13 +1656,14 @@
    "id": "nebula-killa",
    "name": "nebula killa",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/nebula-killa.jpg?v=9a986bbf19",
+   "preview": "previews/nebula-killa.jpg?v=62e40f2e39",
    "video": null,
    "audio": [],
    "variants": [
@@ -1689,13 +1716,14 @@
    "id": "neon-stroke-240",
    "name": "neon stroke 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/neon-stroke-240.jpg?v=0db799fd06",
+   "preview": "previews/neon-stroke-240.jpg?v=c37ea2af12",
    "video": null,
    "audio": [],
    "variants": [
@@ -1728,13 +1756,14 @@
    "id": "pink-wrap-240",
    "name": "pink wrap 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/pink-wrap-240.jpg?v=bf3f93cd63",
+   "preview": "previews/pink-wrap-240.jpg?v=4f890907fb",
    "video": null,
    "audio": [],
    "variants": [
@@ -1787,13 +1816,14 @@
    "id": "silent-240",
    "name": "silent 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/silent-240.jpg?v=f85e0f779f",
+   "preview": "previews/silent-240.jpg?v=3eed39dea8",
    "video": null,
    "audio": [],
    "variants": [
@@ -1846,13 +1876,14 @@
    "id": "spider-man-240",
    "name": "spider man 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/spider-man-240.jpg?v=9811d7b46a",
+   "preview": "previews/spider-man-240.jpg?v=13f59e6d32",
    "video": null,
    "audio": [],
    "variants": [
@@ -1905,13 +1936,14 @@
    "id": "test-spider-man-240",
    "name": "test spider man 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/test-spider-man-240.jpg?v=e9416d0ae7",
+   "preview": "previews/test-spider-man-240.jpg?v=51938d956e",
    "video": null,
    "audio": [],
    "variants": [
@@ -1964,13 +1996,14 @@
    "id": "white-by-vayronmods",
    "name": "white by vayronmods",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/white-by-vayronmods.jpg?v=718fbb1329",
+   "preview": "previews/white-by-vayronmods.jpg?v=57e8d752cd",
    "video": null,
    "audio": [],
    "variants": [
@@ -2023,13 +2056,14 @@
    "id": "white-liquid-skulls-240",
    "name": "white liquid skulls 240",
    "category": "gunpacks",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/white-liquid-skulls-240.jpg?v=36a00d6e73",
+   "preview": "previews/white-liquid-skulls-240.jpg?v=80df0d4ae6",
    "video": null,
    "audio": [],
    "variants": [
@@ -2082,13 +2116,14 @@
    "id": "anteiku-v2",
    "name": "anteiku v2",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/anteiku-v2.jpg?v=ee41a84e6c",
+   "preview": "previews/anteiku-v2.jpg?v=2b91dd9b8f",
    "video": "https://www.youtube.com/watch?v=EVQiOnQF1kk",
    "audio": [],
    "variants": [
@@ -2126,13 +2161,14 @@
    "id": "ayato-traur",
    "name": "ayato traur",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/ayato-traur.jpg?v=56238b24c5",
+   "preview": "previews/ayato-traur.jpg?v=2ab54401cc",
    "video": "https://www.youtube.com/watch?v=Sghh6FEc99I",
    "audio": [],
    "variants": [
@@ -2170,13 +2206,14 @@
    "id": "bakugan-redux-v2",
    "name": "bakugan redux v2",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/bakugan-redux-v2.jpg?v=8d856a672b",
+   "preview": "previews/bakugan-redux-v2.jpg?v=0c88510103",
    "video": "https://www.youtube.com/watch?v=ndkKwmYvKX4",
    "audio": [],
    "variants": [
@@ -2209,6 +2246,7 @@
    "id": "blink-x-skye",
    "name": "blink x skye",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
@@ -2253,13 +2291,14 @@
    "id": "bublik-aura",
    "name": "bublik aura",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/bublik-aura.jpg?v=e223f8b6ea",
+   "preview": "previews/bublik-aura.jpg?v=4720d158b3",
    "video": "https://www.youtube.com/watch?v=7mo-4oSPw40",
    "audio": [],
    "variants": [
@@ -2292,13 +2331,14 @@
    "id": "bublik-dark",
    "name": "bublik dark",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/bublik-dark.jpg?v=84e2d9f349",
+   "preview": "previews/bublik-dark.jpg?v=3e9b4e6cdb",
    "video": "https://www.youtube.com/watch?v=xs4i5yyO7Wg&t=72s",
    "audio": [],
    "variants": [
@@ -2336,13 +2376,14 @@
    "id": "bublik-fps-v2",
    "name": "bublik fps v2",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/bublik-fps-v2.jpg?v=b026790cd9",
+   "preview": "previews/bublik-fps-v2.jpg?v=9b33c4b662",
    "video": "https://www.youtube.com/watch?v=OuqL5z2Y0KA&t=64s",
    "audio": [],
    "variants": [
@@ -2375,13 +2416,14 @@
    "id": "bublik-vanila-v2",
    "name": "bublik vanila v2",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/bublik-vanila-v2.jpg?v=1dfe55d266",
+   "preview": "previews/bublik-vanila-v2.jpg?v=c0f3fe3bde",
    "video": "https://www.youtube.com/watch?v=6DZhIsbEfGM",
    "audio": [],
    "variants": [
@@ -2411,60 +2453,17 @@
    ]
   },
   {
-   "id": "cutting-feelings",
-   "name": "cutting feelings",
-   "category": "redux",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/cutting-feelings.jpg?v=245edcfeb9",
-   "video": "https://www.youtube.com/watch?v=wByV-VDAYCc",
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "update/update.rpf",
-       "size": 2890633216,
-       "sha256": "f7508ceee0bfe6fb30785c6f25595839436d463a72f504e043b2deab1db04f5d",
-       "mustExist": true,
-       "parts": [
-        {
-         "name": "f7508ceee0bfe6fb30785c6f-update.rpf.p01of02",
-         "size": 2000000000,
-         "sha256": "dc7ce0b4697442b46848869b0ebbfff852b82a6dbccd37e6d05984a45cc0faa3"
-        },
-        {
-         "name": "f7508ceee0bfe6fb30785c6f-update.rpf.p02of02",
-         "size": 890633216,
-         "sha256": "22455a1031cd33588c4b1172a6a3762b05465c2861dcb5d81117f47721991466"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ]
-  },
-  {
    "id": "dissentry",
    "name": "dissentry",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/dissentry.jpg?v=a594850eef",
+   "preview": "previews/dissentry.jpg?v=fab1f7ca21",
    "video": "https://www.youtube.com/watch?v=1xQZXarID78&t=3s",
    "audio": [],
    "variants": [
@@ -2497,13 +2496,14 @@
    "id": "dissentry-v2",
    "name": "dissentry v2",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/dissentry-v2.jpg?v=cc7f4240b4",
+   "preview": "previews/dissentry-v2.jpg?v=7f465e0eb4",
    "video": "https://www.youtube.com/watch?v=lAtOBzyDYfI",
    "audio": [],
    "variants": [
@@ -2536,13 +2536,14 @@
    "id": "glek",
    "name": "glek",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/glek.jpg?v=d0f90a733d",
+   "preview": "previews/glek.jpg?v=2baf1e1a90",
    "video": "https://www.youtube.com/watch?v=JluzbGSYm7c",
    "audio": [],
    "variants": [
@@ -2585,13 +2586,14 @@
    "id": "godmode",
    "name": "godmode",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/godmode.jpg?v=5e50080575",
+   "preview": "previews/godmode.jpg?v=8ab2583f3c",
    "video": "https://www.youtube.com/watch?v=Q46URbO88Ug",
    "audio": [],
    "variants": [
@@ -2624,13 +2626,14 @@
    "id": "monochrome-v2",
    "name": "monochrome v2",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/monochrome-v2.jpg?v=21439a8153",
+   "preview": "previews/monochrome-v2.jpg?v=8d4e7a7578",
    "video": "https://www.youtube.com/watch?v=hbpgLeFUxr0",
    "audio": [],
    "variants": [
@@ -2663,13 +2666,14 @@
    "id": "nate-unholly-fps-boost",
    "name": "nate. unholly fps boost",
    "category": "redux",
+   "publisher": "oleksholo-svg",
    "description": "",
    "tags": [],
    "editions": [
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/nate-unholly-fps-boost.jpg?v=b78db73b62",
+   "preview": "previews/nate-unholly-fps-boost.jpg?v=005b81167f",
    "video": "https://www.youtube.com/watch?v=WhrKg3uEu1g",
    "audio": [],
    "variants": [

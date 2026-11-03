@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 49. Обновлено: 2026-11-02T11:02:07.070Z.
+Модов: 48. Обновлено: 2026-11-03T01:27:40.669Z.
 
 ## sounds
 
@@ -54,7 +54,6 @@
 - bublik dark
 - bublik fps v2
 - bublik vanila v2
-- cutting feelings
 - dissentry
 - dissentry v2
 - glek
