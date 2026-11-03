@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-03T21:09:17.681Z",
+ "generatedAt": "2026-11-03T21:46:38.939Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -823,8 +823,8 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "white",
+    "black"
    ]
   },
   {
@@ -931,9 +931,7 @@
     }
    ],
    "filters": [
-    "black",
-    "silver",
-    "red"
+    "pink"
    ]
   },
   {
@@ -941,11 +939,8 @@
    "name": "Glow",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
-   "description": "Чёрное оружие с белыми надписями GLOW.",
-   "tags": [
-    "чёрный",
-    "белый"
-   ],
+   "description": "",
+   "tags": [],
    "editions": [
     "legacy"
    ],
@@ -1064,8 +1059,8 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "white",
+    "black"
    ]
   },
   {
@@ -1141,8 +1136,7 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "white"
    ]
   },
   {
@@ -1185,8 +1179,7 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "white"
    ]
   },
   {
@@ -1249,8 +1242,8 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "white",
+    "black"
    ]
   },
   {
@@ -1357,8 +1350,7 @@
     }
    ],
    "filters": [
-    "black",
-    "red"
+    "black"
    ]
   },
   {
@@ -1488,9 +1480,8 @@
     }
    ],
    "filters": [
-    "black",
     "white",
-    "red"
+    "pink"
    ]
   },
   {
@@ -1533,8 +1524,7 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "black"
    ]
   },
   {
@@ -1660,8 +1650,7 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "black"
    ]
   },
   {
@@ -1724,8 +1713,8 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "white",
+    "black"
    ]
   },
   {
@@ -1788,7 +1777,6 @@
     }
    ],
    "filters": [
-    "black",
     "purple"
    ]
   },
@@ -1895,7 +1883,6 @@
     }
    ],
    "filters": [
-    "white",
     "pink"
    ]
   },
@@ -1959,7 +1946,6 @@
     }
    ],
    "filters": [
-    "black",
     "white"
    ]
   },
@@ -2023,9 +2009,8 @@
     }
    ],
    "filters": [
-    "black",
     "white",
-    "red"
+    "black"
    ]
   },
   {
@@ -2089,7 +2074,7 @@
    ],
    "filters": [
     "black",
-    "silver"
+    "red"
    ]
   },
   {
@@ -2152,7 +2137,6 @@
     }
    ],
    "filters": [
-    "black",
     "white"
    ]
   },
@@ -2216,8 +2200,8 @@
     }
    ],
    "filters": [
-    "black",
-    "silver"
+    "white",
+    "black"
    ]
   },
   {
@@ -2310,9 +2294,7 @@
      "options": []
     }
    ],
-   "filters": [
-    "dark"
-   ]
+   "filters": []
   },
   {
    "id": "bakugan-redux-v2",
@@ -2353,9 +2335,7 @@
      "options": []
     }
    ],
-   "filters": [
-    "warm"
-   ]
+   "filters": []
   },
   {
    "id": "blink-x-skye",
@@ -2530,7 +2510,6 @@
     }
    ],
    "filters": [
-    "warm",
     "fps"
    ]
   },
@@ -2573,10 +2552,7 @@
      "options": []
     }
    ],
-   "filters": [
-    "warm",
-    "bright"
-   ]
+   "filters": []
   },
   {
    "id": "dissentry",
@@ -2658,10 +2634,7 @@
      "options": []
     }
    ],
-   "filters": [
-    "warm",
-    "bright"
-   ]
+   "filters": []
   },
   {
    "id": "glek",
@@ -2753,10 +2726,7 @@
      "options": []
     }
    ],
-   "filters": [
-    "warm",
-    "bright"
-   ]
+   "filters": []
   },
   {
    "id": "monochrome-v2",
@@ -2797,9 +2767,7 @@
      "options": []
     }
    ],
-   "filters": [
-    "warm"
-   ]
+   "filters": []
   },
   {
    "id": "nate-unholly-fps-boost",
