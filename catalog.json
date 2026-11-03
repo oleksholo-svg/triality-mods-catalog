@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-03T21:46:38.939Z",
+ "generatedAt": "2026-11-03T23:06:55.854Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -1650,7 +1650,8 @@
     }
    ],
    "filters": [
-    "black"
+    "white",
+    "red"
    ]
   },
   {
@@ -2816,6 +2817,2302 @@
    "filters": [
     "fps"
    ]
+  },
+  {
+   "id": "angel-absolute",
+   "name": "Angel Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2433,
+       "sha256": "02e652e3b14834a144a7fb7b11af15f56d0b336d16b670d71626e568394748e0",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "02e652e3b14834a144a7fb7b-settings.xml",
+         "size": 2433,
+         "sha256": "02e652e3b14834a144a7fb7b11af15f56d0b336d16b670d71626e568394748e0"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "ava-absolute",
+   "name": "Ava Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2437,
+       "sha256": "b22336142aee8edb19eab5c644460b64a92ab6f3e37e6325f9c2952d39d33090",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "b22336142aee8edb19eab5c6-settings.xml",
+         "size": 2437,
+         "sha256": "b22336142aee8edb19eab5c644460b64a92ab6f3e37e6325f9c2952d39d33090"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "boston-cortez",
+   "name": "Boston Cortez",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2440,
+       "sha256": "fb5ad11199a4dd4404b1f516e600591884d368ec6669a5750ee85bcd6c688cfa",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "fb5ad11199a4dd4404b1f516-settings.xml",
+         "size": 2440,
+         "sha256": "fb5ad11199a4dd4404b1f516e600591884d368ec6669a5750ee85bcd6c688cfa"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "bublik-na-grafiku",
+   "name": "Bublik на графику",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2420,
+       "sha256": "4460d3a41b984d0ccbfc5f9ccec791862e72058e5ba52c51168a90a2991a808f",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "4460d3a41b984d0ccbfc5f9c-settings.xml",
+         "size": 2420,
+         "sha256": "4460d3a41b984d0ccbfc5f9ccec791862e72058e5ba52c51168a90a2991a808f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "bublik-na-fps",
+   "name": "Bublik на fps",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2438,
+       "sha256": "8d2776d72472783136785d434f5b7781ebb8761f15d1621a2f3f34f12522661c",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "8d2776d72472783136785d43-settings.xml",
+         "size": 2438,
+         "sha256": "8d2776d72472783136785d434f5b7781ebb8761f15d1621a2f3f34f12522661c"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "dava-cortez",
+   "name": "Dava Cortez",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2434,
+       "sha256": "b96a25c73fcb7102428dcee8780eb3be0cba4988d1d27f88f086d594f14ae59e",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "b96a25c73fcb7102428dcee8-settings.xml",
+         "size": 2434,
+         "sha256": "b96a25c73fcb7102428dcee8780eb3be0cba4988d1d27f88f086d594f14ae59e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "fiend-absolute",
+   "name": "Fiend Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2429,
+       "sha256": "bfa5bb74eb925f1447d1a531fcb8f74b958b73cb576b2e4207d0260f807d6a7a",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "bfa5bb74eb925f1447d1a531-settings.xml",
+         "size": 2429,
+         "sha256": "bfa5bb74eb925f1447d1a531fcb8f74b958b73cb576b2e4207d0260f807d6a7a"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "fifty-gucci",
+   "name": "Fifty Gucci",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2442,
+       "sha256": "ef50b53d3387ce2d5ecbc70315185edbdf2fb419571abb5385a3c47b86b81aa8",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "ef50b53d3387ce2d5ecbc703-settings.xml",
+         "size": 2442,
+         "sha256": "ef50b53d3387ce2d5ecbc70315185edbdf2fb419571abb5385a3c47b86b81aa8"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "gualteri-absolute",
+   "name": "Gualteri Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2428,
+       "sha256": "68b1bd10ae50dc35706ff83555df7f4e5935c00b762d173a6779b9d8923a509b",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "68b1bd10ae50dc35706ff835-settings.xml",
+         "size": 2428,
+         "sha256": "68b1bd10ae50dc35706ff83555df7f4e5935c00b762d173a6779b9d8923a509b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "hefner-vex",
+   "name": "Hefner Vex",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2437,
+       "sha256": "1fe50644b6f1052a265a656044c5a6714ead829d5557160ee20c7da939fa65ec",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "1fe50644b6f1052a265a6560-settings.xml",
+         "size": 2437,
+         "sha256": "1fe50644b6f1052a265a656044c5a6714ead829d5557160ee20c7da939fa65ec"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "hen-epileptic",
+   "name": "Hen Epileptic",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2428,
+       "sha256": "9bb77e593fdf887e53ead5e5dd0627a56e8e746a78618cf482b044165333c19d",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "9bb77e593fdf887e53ead5e5-settings.xml",
+         "size": 2428,
+         "sha256": "9bb77e593fdf887e53ead5e5dd0627a56e8e746a78618cf482b044165333c19d"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "holi-absolute",
+   "name": "Holi Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2437,
+       "sha256": "efd769b48d7b8bf999f3c63173b8a4f1952af92fa0e97ead7b6d5c82aa545fdf",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "efd769b48d7b8bf999f3c631-settings.xml",
+         "size": 2437,
+         "sha256": "efd769b48d7b8bf999f3c63173b8a4f1952af92fa0e97ead7b6d5c82aa545fdf"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "hopper-absolute",
+   "name": "Hopper Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2432,
+       "sha256": "7abd196fb9b5cb005009f5c487aa84a11b54c4bb64bd89c9fee3944b5cb19f2a",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "7abd196fb9b5cb005009f5c4-settings.xml",
+         "size": 2432,
+         "sha256": "7abd196fb9b5cb005009f5c487aa84a11b54c4bb64bd89c9fee3944b5cb19f2a"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "hunter-gucci",
+   "name": "Hunter Gucci",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2444,
+       "sha256": "8f7a5461874dc64537196ec3b90172d7d261afe304f7f5fd605052c475c2cfe9",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "8f7a5461874dc64537196ec3-settings.xml",
+         "size": 2444,
+         "sha256": "8f7a5461874dc64537196ec3b90172d7d261afe304f7f5fd605052c475c2cfe9"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "hyperkry-allegri",
+   "name": "Hyperkry Allegri",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2440,
+       "sha256": "058c5a7f6e1ee114b199d14aad4766e376191fbfd460a69e6831094bd9db83d3",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "058c5a7f6e1ee114b199d14a-settings.xml",
+         "size": 2440,
+         "sha256": "058c5a7f6e1ee114b199d14aad4766e376191fbfd460a69e6831094bd9db83d3"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "injity-fiend",
+   "name": "Injity Fiend",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2425,
+       "sha256": "71d5314cfdee8e82194708f745360d13ff9e7c2e0d280642acccc41033f7d5fc",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "71d5314cfdee8e82194708f7-settings.xml",
+         "size": 2425,
+         "sha256": "71d5314cfdee8e82194708f745360d13ff9e7c2e0d280642acccc41033f7d5fc"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "jaic-absolute",
+   "name": "Jaic Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2440,
+       "sha256": "35b65cb0576a99a3789d6f3638826307ba377fd7f661cd3afe7c12ca6f5c4b2e",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "35b65cb0576a99a3789d6f36-settings.xml",
+         "size": 2440,
+         "sha256": "35b65cb0576a99a3789d6f3638826307ba377fd7f661cd3afe7c12ca6f5c4b2e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "jesus-absolute",
+   "name": "Jesus Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2442,
+       "sha256": "5c38fd9e2c402c21d0063a10d5c815ffb2f1d82292319bfb2e3a849cd6c48a6b",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "5c38fd9e2c402c21d0063a10-settings.xml",
+         "size": 2442,
+         "sha256": "5c38fd9e2c402c21d0063a10d5c815ffb2f1d82292319bfb2e3a849cd6c48a6b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "jivelin-absolute",
+   "name": "Jivelin Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2444,
+       "sha256": "2780ce19b8a8fab6a18537dc6ec30a024fda5f17d2c4ce35011315f8836561e1",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "2780ce19b8a8fab6a18537dc-settings.xml",
+         "size": 2444,
+         "sha256": "2780ce19b8a8fab6a18537dc6ec30a024fda5f17d2c4ce35011315f8836561e1"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "jivelin-cartel",
+   "name": "Jivelin Cartel",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2444,
+       "sha256": "2780ce19b8a8fab6a18537dc6ec30a024fda5f17d2c4ce35011315f8836561e1",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "2780ce19b8a8fab6a18537dc-settings.xml",
+         "size": 2444,
+         "sha256": "2780ce19b8a8fab6a18537dc6ec30a024fda5f17d2c4ce35011315f8836561e1"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "jon-gucci",
+   "name": "Jon Gucci",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2432,
+       "sha256": "a87c6bca55e98271b036c1f95dbeb755feeace45ae59660d6347d54d37a6a78b",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "a87c6bca55e98271b036c1f9-settings.xml",
+         "size": 2432,
+         "sha256": "a87c6bca55e98271b036c1f95dbeb755feeace45ae59660d6347d54d37a6a78b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "kiroki",
+   "name": "Kiroki",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2440,
+       "sha256": "c6b51b5f722c551bb7f3f079126e0435f178d667d93024738d0cd91e3e47c00f",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "c6b51b5f722c551bb7f3f079-settings.xml",
+         "size": 2440,
+         "sha256": "c6b51b5f722c551bb7f3f079126e0435f178d667d93024738d0cd91e3e47c00f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "kraken-absolute",
+   "name": "Kraken Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2441,
+       "sha256": "e3452231bff4bf9430b6ada47f7176dd6609f10f305237ab4a77fce01197b350",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "e3452231bff4bf9430b6ada4-settings.xml",
+         "size": 2441,
+         "sha256": "e3452231bff4bf9430b6ada47f7176dd6609f10f305237ab4a77fce01197b350"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "kraken-cartel",
+   "name": "Kraken Cartel",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2441,
+       "sha256": "e3452231bff4bf9430b6ada47f7176dd6609f10f305237ab4a77fce01197b350",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "e3452231bff4bf9430b6ada4-settings.xml",
+         "size": 2441,
+         "sha256": "e3452231bff4bf9430b6ada47f7176dd6609f10f305237ab4a77fce01197b350"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "kurfut-absolute",
+   "name": "Kurfut Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2441,
+       "sha256": "489c20e299cee4843ca7062f89e73307a42e954159b7ebc1776c0be288817f4e",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "489c20e299cee4843ca7062f-settings.xml",
+         "size": 2441,
+         "sha256": "489c20e299cee4843ca7062f89e73307a42e954159b7ebc1776c0be288817f4e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "kvinsik-fiend",
+   "name": "Kvinsik Fiend",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2429,
+       "sha256": "35bc709427b76b922831dba109a00ca77eb194a01dc7980096c8f9385b8aaae4",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "35bc709427b76b922831dba1-settings.xml",
+         "size": 2429,
+         "sha256": "35bc709427b76b922831dba109a00ca77eb194a01dc7980096c8f9385b8aaae4"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "lis-absolute",
+   "name": "Lis Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2431,
+       "sha256": "5f37e6340801ca244b6b63086f987c4de8a142a05153b5b1926db6c3e51561a8",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "5f37e6340801ca244b6b6308-settings.xml",
+         "size": 2431,
+         "sha256": "5f37e6340801ca244b6b63086f987c4de8a142a05153b5b1926db6c3e51561a8"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "lucas-cortez",
+   "name": "Lucas Cortez",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2437,
+       "sha256": "66760001bce95ec91c6f4432850d617ec69d6cb9d22d22fd590ef7e7a0accbe5",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "66760001bce95ec91c6f4432-settings.xml",
+         "size": 2437,
+         "sha256": "66760001bce95ec91c6f4432850d617ec69d6cb9d22d22fd590ef7e7a0accbe5"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "mentally-cortez",
+   "name": "Mentally Cortez",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2431,
+       "sha256": "9cc9683c344370030950c5b77a3d0640f878c2d9ceccf09c7856e41728251caf",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "9cc9683c344370030950c5b7-settings.xml",
+         "size": 2431,
+         "sha256": "9cc9683c344370030950c5b77a3d0640f878c2d9ceccf09c7856e41728251caf"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "mice-gucci",
+   "name": "Mice Gucci",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2441,
+       "sha256": "65deb8b030dc88c8070d93840979609cdee943e877785236958f3f898e2614f6",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "65deb8b030dc88c8070d9384-settings.xml",
+         "size": 2441,
+         "sha256": "65deb8b030dc88c8070d93840979609cdee943e877785236958f3f898e2614f6"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "michael-fiend",
+   "name": "Michael Fiend",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2441,
+       "sha256": "86d76006f9a68223580e3c033537db268ba13b584d8df3bf5b69c46ec2d7fad2",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "86d76006f9a68223580e3c03-settings.xml",
+         "size": 2441,
+         "sha256": "86d76006f9a68223580e3c033537db268ba13b584d8df3bf5b69c46ec2d7fad2"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "morty-allegri",
+   "name": "Morty Allegri",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2444,
+       "sha256": "8f7a5461874dc64537196ec3b90172d7d261afe304f7f5fd605052c475c2cfe9",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "8f7a5461874dc64537196ec3-settings.xml",
+         "size": 2444,
+         "sha256": "8f7a5461874dc64537196ec3b90172d7d261afe304f7f5fd605052c475c2cfe9"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "omarikz-fiend",
+   "name": "Omarikz Fiend",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2436,
+       "sha256": "5d8b0d37a0253173e1d55b353f8f600249a8dfc8de8b1222ff83651a877de9b7",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "5d8b0d37a0253173e1d55b35-settings.xml",
+         "size": 2436,
+         "sha256": "5d8b0d37a0253173e1d55b353f8f600249a8dfc8de8b1222ff83651a877de9b7"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "omen-fiend",
+   "name": "Omen Fiend",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2427,
+       "sha256": "b609c30e0d922a29a84f7e902c3b7d6535e3635dcbddac3e296468cdc069f007",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "b609c30e0d922a29a84f7e90-settings.xml",
+         "size": 2427,
+         "sha256": "b609c30e0d922a29a84f7e902c3b7d6535e3635dcbddac3e296468cdc069f007"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "pacho-cortez",
+   "name": "Pacho Cortez",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2443,
+       "sha256": "d8c8648d9510fd15fb229c11c7f4d910e7d549ee4dc557021da9e11d8dd25ffa",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "d8c8648d9510fd15fb229c11-settings.xml",
+         "size": 2443,
+         "sha256": "d8c8648d9510fd15fb229c11c7f4d910e7d549ee4dc557021da9e11d8dd25ffa"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "pain-absolute",
+   "name": "Pain Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2432,
+       "sha256": "4adcf4ff3ffe068182e52b7eb0170f028ac87a1fd417da865d5b04d0766e3d2d",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "4adcf4ff3ffe068182e52b7e-settings.xml",
+         "size": 2432,
+         "sha256": "4adcf4ff3ffe068182e52b7eb0170f028ac87a1fd417da865d5b04d0766e3d2d"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "panch-cortez",
+   "name": "Panch Cortez",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2440,
+       "sha256": "ae9b2e85f3e74a265176739880b1358dfdac7885a05492fce1de5e902c7e7ab7",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "ae9b2e85f3e74a2651767398-settings.xml",
+         "size": 2440,
+         "sha256": "ae9b2e85f3e74a265176739880b1358dfdac7885a05492fce1de5e902c7e7ab7"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "plugger-absolute",
+   "name": "Plugger Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2435,
+       "sha256": "f7542b3605940dfcb35107e4c379309394d936c4d91459b930620503af3f1e9c",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "f7542b3605940dfcb35107e4-settings.xml",
+         "size": 2435,
+         "sha256": "f7542b3605940dfcb35107e4c379309394d936c4d91459b930620503af3f1e9c"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "ranel-absolute",
+   "name": "Ranel Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2428,
+       "sha256": "32a48b81dea2b99b348d2d0e5aed7e1137072e892ff0063a0329bf32f3237340",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "32a48b81dea2b99b348d2d0e-settings.xml",
+         "size": 2428,
+         "sha256": "32a48b81dea2b99b348d2d0e5aed7e1137072e892ff0063a0329bf32f3237340"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "ranel-cartel",
+   "name": "Ranel Cartel",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2428,
+       "sha256": "32a48b81dea2b99b348d2d0e5aed7e1137072e892ff0063a0329bf32f3237340",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "32a48b81dea2b99b348d2d0e-settings.xml",
+         "size": 2428,
+         "sha256": "32a48b81dea2b99b348d2d0e5aed7e1137072e892ff0063a0329bf32f3237340"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "raskolov-absolute",
+   "name": "Raskolov Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2428,
+       "sha256": "1243bee270a809b35a4dcb8a24f8b18dd1355d09a69aba0e12275bd449c72ddd",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "1243bee270a809b35a4dcb8a-settings.xml",
+         "size": 2428,
+         "sha256": "1243bee270a809b35a4dcb8a24f8b18dd1355d09a69aba0e12275bd449c72ddd"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "ray-vex",
+   "name": "Ray Vex",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2439,
+       "sha256": "0b44cef2f43cc4666d2006b86e7d237fae45adc6ce84ee61b9a9f016c8fc70fd",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "0b44cef2f43cc4666d2006b8-settings.xml",
+         "size": 2439,
+         "sha256": "0b44cef2f43cc4666d2006b86e7d237fae45adc6ce84ee61b9a9f016c8fc70fd"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "rikud-gucci",
+   "name": "Rikud Gucci",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2442,
+       "sha256": "0b0c94eb3dbbd40163047304bdbfd70dfd2125b9773d19841b2414b287c92a34",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "0b0c94eb3dbbd40163047304-settings.xml",
+         "size": 2442,
+         "sha256": "0b0c94eb3dbbd40163047304bdbfd70dfd2125b9773d19841b2414b287c92a34"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "saint-gucci",
+   "name": "Saint Gucci",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2443,
+       "sha256": "a0d17d56e490524d6f131a59f640fb3cd3f126d1c697a42fce3fc5e1b36bae75",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "a0d17d56e490524d6f131a59-settings.xml",
+         "size": 2443,
+         "sha256": "a0d17d56e490524d6f131a59f640fb3cd3f126d1c697a42fce3fc5e1b36bae75"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "shevik-gucci",
+   "name": "Shevik Gucci",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2441,
+       "sha256": "88f6a9705adc714f444f07a305674d28f9e4f7ea928f8e9d58cb7a1314305c5a",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "88f6a9705adc714f444f07a3-settings.xml",
+         "size": 2441,
+         "sha256": "88f6a9705adc714f444f07a305674d28f9e4f7ea928f8e9d58cb7a1314305c5a"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "silhouette-absolute",
+   "name": "Silhouette Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2442,
+       "sha256": "a96646faf155f588106316f05f6db356907585da61734d7989ad436f3a89420f",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "a96646faf155f588106316f0-settings.xml",
+         "size": 2442,
+         "sha256": "a96646faf155f588106316f05f6db356907585da61734d7989ad436f3a89420f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "silhouette-cartel",
+   "name": "Silhouette Cartel",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2442,
+       "sha256": "a96646faf155f588106316f05f6db356907585da61734d7989ad436f3a89420f",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "a96646faf155f588106316f0-settings.xml",
+         "size": 2442,
+         "sha256": "a96646faf155f588106316f05f6db356907585da61734d7989ad436f3a89420f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "sistim-allegri",
+   "name": "Sistim Allegri",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2426,
+       "sha256": "af9d573bbc024c672242c43e26b9f6952df10fca1baf095d598df28324c87263",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "af9d573bbc024c672242c43e-settings.xml",
+         "size": 2426,
+         "sha256": "af9d573bbc024c672242c43e26b9f6952df10fca1baf095d598df28324c87263"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "solo-absolute",
+   "name": "Solo Absolute",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2448,
+       "sha256": "d2fd7397d977d175bc9c17137347debdc1c1995def9d65ccb6f3bb976fe9ce12",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "d2fd7397d977d175bc9c1713-settings.xml",
+         "size": 2448,
+         "sha256": "d2fd7397d977d175bc9c17137347debdc1c1995def9d65ccb6f3bb976fe9ce12"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "solo-cartel",
+   "name": "Solo Cartel",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2449,
+       "sha256": "6d627ec86cebe29be3a65ba776c357a199ee57553bba1eafe63a62d5e58daa7e",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "6d627ec86cebe29be3a65ba7-settings.xml",
+         "size": 2449,
+         "sha256": "6d627ec86cebe29be3a65ba776c357a199ee57553bba1eafe63a62d5e58daa7e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "tetsuya-vex",
+   "name": "Tetsuya Vex",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2430,
+       "sha256": "0b122e8addfa4a0963d4ced5d10b85697bbd2869bfea4fd7b5abed89328aa436",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "0b122e8addfa4a0963d4ced5-settings.xml",
+         "size": 2430,
+         "sha256": "0b122e8addfa4a0963d4ced5d10b85697bbd2869bfea4fd7b5abed89328aa436"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "yakai-cartel",
+   "name": "Yakai Cartel",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2441,
+       "sha256": "6bb1d72f39d0fdb582e9090ff97164e301be4eb7c243bea833bcdd1690c4158b",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "6bb1d72f39d0fdb582e9090f-settings.xml",
+         "size": 2441,
+         "sha256": "6bb1d72f39d0fdb582e9090ff97164e301be4eb7c243bea833bcdd1690c4158b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "yukee-10000mb",
+   "name": "Yukee -10000MB",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2447,
+       "sha256": "ddf41462130737a7a86da66008b25d88b5edad78bf8ff58232e2da87e82a69d6",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "ddf41462130737a7a86da660-settings.xml",
+         "size": 2447,
+         "sha256": "ddf41462130737a7a86da66008b25d88b5edad78bf8ff58232e2da87e82a69d6"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "yukee-3000mb",
+   "name": "Yukee -3000MB",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2443,
+       "sha256": "82b628050e9f2c16ade9ff04e49cc820592ca0f0621624d71e9977c615ec62d5",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "82b628050e9f2c16ade9ff04-settings.xml",
+         "size": 2443,
+         "sha256": "82b628050e9f2c16ade9ff04e49cc820592ca0f0621624d71e9977c615ec62d5"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "yukee-na-grafiku",
+   "name": "Yukee на графику",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2428,
+       "sha256": "b3d16b8ed2325fe6e41dfa32250ab9c4a4c573dc422414aa4dba9d11be21cb01",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "b3d16b8ed2325fe6e41dfa32-settings.xml",
+         "size": 2428,
+         "sha256": "b3d16b8ed2325fe6e41dfa32250ab9c4a4c573dc422414aa4dba9d11be21cb01"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "yukiko-vex",
+   "name": "Yukiko Vex",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2442,
+       "sha256": "db59935ff1a13ad123e48ed440089b3915e6768dad303360233cadee5175bd2e",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "db59935ff1a13ad123e48ed4-settings.xml",
+         "size": 2442,
+         "sha256": "db59935ff1a13ad123e48ed440089b3915e6768dad303360233cadee5175bd2e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
   }
  ]
 }
