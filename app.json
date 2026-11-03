@@ -1,10 +1,10 @@
 {
-  "version": "0.1.12",
-  "name": "TrialityMods-Setup-0.1.12.exe",
-  "size": 134532818,
-  "sha256": "09b9882a9bbe3d85cab1f9c9fa314a8dea73a1f84fd812fbc596b31fc0067274",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.12.exe",
+  "version": "0.1.13",
+  "name": "TrialityMods-Setup-0.1.13.exe",
+  "size": 134532858,
+  "sha256": "08fb376b19f6b7d043f59a79e28ca2d0800ec3e6026ab89b89a85a141e69631a",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.13.exe",
   "notes": "",
-  "date": "2026-11-03T23:29:18.751Z",
+  "date": "2026-11-03T23:44:29.801Z",
   "kind": "setup"
 }
