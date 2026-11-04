@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-04T11:42:43.862Z",
+ "generatedAt": "2026-11-04T14:25:19.189Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -5457,8 +5457,1160 @@
    "filters": []
   },
   {
-   "id": "1",
-   "name": "1",
+   "id": "pak-1-belyy-1",
+   "name": "Белый 1",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111421,
+       "sha256": "41ccc3addfbf9a97ebc23046cd3cab42157b97eabef6f70725b4029b4c46561f",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "41ccc3addfbf9a97ebc23046-hud_reticle.gfx",
+         "size": 111421,
+         "sha256": "41ccc3addfbf9a97ebc23046cd3cab42157b97eabef6f70725b4029b4c46561f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-1-belyy-2",
+   "name": "Белый 2",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111594,
+       "sha256": "d855d4b072ab798f4d9dd8f28776fab3cde4db7a63fd94339bde20933d7965c2",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "d855d4b072ab798f4d9dd8f2-hud_reticle.gfx",
+         "size": 111594,
+         "sha256": "d855d4b072ab798f4d9dd8f28776fab3cde4db7a63fd94339bde20933d7965c2"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-1-belyy-3",
+   "name": "Белый 3",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 112167,
+       "sha256": "9ffa5c30b5808bd45f7e81d33bac212a742e036308ac834f7e9c42b86b41160f",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "9ffa5c30b5808bd45f7e81d3-hud_reticle.gfx",
+         "size": 112167,
+         "sha256": "9ffa5c30b5808bd45f7e81d33bac212a742e036308ac834f7e9c42b86b41160f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-1-belyy-4",
+   "name": "Белый 4",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111420,
+       "sha256": "f219d7c472deaeae11ee6b3cc64bdeffde99802638078da29ae107cab2a840c5",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "f219d7c472deaeae11ee6b3c-hud_reticle.gfx",
+         "size": 111420,
+         "sha256": "f219d7c472deaeae11ee6b3cc64bdeffde99802638078da29ae107cab2a840c5"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-1-belyy-5",
+   "name": "Белый 5",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111686,
+       "sha256": "3095dd676a7e2aafe6e1b7ac6af7abdcd25faf77780932dde9441140a6bbd179",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "3095dd676a7e2aafe6e1b7ac-hud_reticle.gfx",
+         "size": 111686,
+         "sha256": "3095dd676a7e2aafe6e1b7ac6af7abdcd25faf77780932dde9441140a6bbd179"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-1-belyy-6",
+   "name": "Белый 6",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111496,
+       "sha256": "56409d8636beba77e44624751a7c1fefc6c4178f0b41e6175c681f7d05410154",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "56409d8636beba77e4462475-hud_reticle.gfx",
+         "size": 111496,
+         "sha256": "56409d8636beba77e44624751a7c1fefc6c4178f0b41e6175c681f7d05410154"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-1-belyy-7",
+   "name": "Белый 7",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111434,
+       "sha256": "db5fdcace6eba2e4de725610ec3248e31deb18fe6c81ffc1e4414933af93c525",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "db5fdcace6eba2e4de725610-hud_reticle.gfx",
+         "size": 111434,
+         "sha256": "db5fdcace6eba2e4de725610ec3248e31deb18fe6c81ffc1e4414933af93c525"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-1-belyy-8",
+   "name": "Белый 8",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111450,
+       "sha256": "8b8a5a4ecb7387ae5e62c86a8b7b62cb031c8b961409939b4e9e46eeb8887f53",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "8b8a5a4ecb7387ae5e62c86a-hud_reticle.gfx",
+         "size": 111450,
+         "sha256": "8b8a5a4ecb7387ae5e62c86a8b7b62cb031c8b961409939b4e9e46eeb8887f53"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-1-biryuzovyy-1",
+   "name": "Бирюзовый 1",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111421,
+       "sha256": "cac49d18d92bc4d5dfd19ad7ab479fdae4854a09529c1e2a7abd94e5bfdcd3cc",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "cac49d18d92bc4d5dfd19ad7-hud_reticle.gfx",
+         "size": 111421,
+         "sha256": "cac49d18d92bc4d5dfd19ad7ab479fdae4854a09529c1e2a7abd94e5bfdcd3cc"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "cyan"
+   ]
+  },
+  {
+   "id": "pak-1-biryuzovyy-2",
+   "name": "Бирюзовый 2",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111594,
+       "sha256": "60752bf5f4e405afd760d3b30c24e00a64784fed4a2382fae191fdc03897cf54",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "60752bf5f4e405afd760d3b3-hud_reticle.gfx",
+         "size": 111594,
+         "sha256": "60752bf5f4e405afd760d3b30c24e00a64784fed4a2382fae191fdc03897cf54"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "cyan"
+   ]
+  },
+  {
+   "id": "pak-1-biryuzovyy-3",
+   "name": "Бирюзовый 3",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 112167,
+       "sha256": "970c833ebb2b5972e385acc4948821d8462c34af4099e85bb48d2a878aa12576",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "970c833ebb2b5972e385acc4-hud_reticle.gfx",
+         "size": 112167,
+         "sha256": "970c833ebb2b5972e385acc4948821d8462c34af4099e85bb48d2a878aa12576"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "cyan"
+   ]
+  },
+  {
+   "id": "pak-1-biryuzovyy-4",
+   "name": "Бирюзовый 4",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111420,
+       "sha256": "e64feff4135d65dc240ecf301981bbceb4e57b6691888d2ae6c371e5ebac5286",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "e64feff4135d65dc240ecf30-hud_reticle.gfx",
+         "size": 111420,
+         "sha256": "e64feff4135d65dc240ecf301981bbceb4e57b6691888d2ae6c371e5ebac5286"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "cyan"
+   ]
+  },
+  {
+   "id": "pak-1-biryuzovyy-5",
+   "name": "Бирюзовый 5",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111686,
+       "sha256": "b1cd6a89470b1d3eb78a1bb379280e5b83af3fac5acad6b4d09e323e9aa9b48b",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "b1cd6a89470b1d3eb78a1bb3-hud_reticle.gfx",
+         "size": 111686,
+         "sha256": "b1cd6a89470b1d3eb78a1bb379280e5b83af3fac5acad6b4d09e323e9aa9b48b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "cyan"
+   ]
+  },
+  {
+   "id": "pak-1-biryuzovyy-6",
+   "name": "Бирюзовый 6",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111496,
+       "sha256": "148afa84a7ba8b501d57e610f5d7b9368ced808ee5fd41bb526e645e0c351a55",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "148afa84a7ba8b501d57e610-hud_reticle.gfx",
+         "size": 111496,
+         "sha256": "148afa84a7ba8b501d57e610f5d7b9368ced808ee5fd41bb526e645e0c351a55"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "cyan"
+   ]
+  },
+  {
+   "id": "pak-1-biryuzovyy-7",
+   "name": "Бирюзовый 7",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111434,
+       "sha256": "db5fdcace6eba2e4de725610ec3248e31deb18fe6c81ffc1e4414933af93c525",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "db5fdcace6eba2e4de725610-hud_reticle.gfx",
+         "size": 111434,
+         "sha256": "db5fdcace6eba2e4de725610ec3248e31deb18fe6c81ffc1e4414933af93c525"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "cyan"
+   ]
+  },
+  {
+   "id": "pak-1-biryuzovyy-8",
+   "name": "Бирюзовый 8",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111450,
+       "sha256": "a4b03c9019b55c786c3aad63a89a662f994177f1be769160905508183af9626f",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "a4b03c9019b55c786c3aad63-hud_reticle.gfx",
+         "size": 111450,
+         "sha256": "a4b03c9019b55c786c3aad63a89a662f994177f1be769160905508183af9626f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "cyan"
+   ]
+  },
+  {
+   "id": "pak-1-chernyy-1",
+   "name": "Чёрный 1",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111421,
+       "sha256": "9360553d801b8c7796397782f1d19dbfbec902e2ca3bb9ef2a05076a2acbb3d8",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "9360553d801b8c7796397782-hud_reticle.gfx",
+         "size": 111421,
+         "sha256": "9360553d801b8c7796397782f1d19dbfbec902e2ca3bb9ef2a05076a2acbb3d8"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "pak-1-chernyy-2",
+   "name": "Чёрный 2",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111594,
+       "sha256": "e158a0d35d3cfa8821923178964d5a34ed21fc9b2b2372541c794175dca3ac2d",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "e158a0d35d3cfa8821923178-hud_reticle.gfx",
+         "size": 111594,
+         "sha256": "e158a0d35d3cfa8821923178964d5a34ed21fc9b2b2372541c794175dca3ac2d"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "pak-1-chernyy-3",
+   "name": "Чёрный 3",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 112167,
+       "sha256": "a5dc2b76160cdd4860105f7d11f9db5ce04b084e2cc54611a8a23f66b78e9143",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "a5dc2b76160cdd4860105f7d-hud_reticle.gfx",
+         "size": 112167,
+         "sha256": "a5dc2b76160cdd4860105f7d11f9db5ce04b084e2cc54611a8a23f66b78e9143"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "pak-1-chernyy-4",
+   "name": "Чёрный 4",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111420,
+       "sha256": "43c92dddffa104c81dcafc17caac39b75a7b1fe52e1a11b7c39b1cdee4e8d8ae",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "43c92dddffa104c81dcafc17-hud_reticle.gfx",
+         "size": 111420,
+         "sha256": "43c92dddffa104c81dcafc17caac39b75a7b1fe52e1a11b7c39b1cdee4e8d8ae"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "pak-1-chernyy-5",
+   "name": "Чёрный 5",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111686,
+       "sha256": "080f2f8e2ac4464b095001d21243631c887c1b2f7cdcc3f0fcb6d51e9cfc049a",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "080f2f8e2ac4464b095001d2-hud_reticle.gfx",
+         "size": 111686,
+         "sha256": "080f2f8e2ac4464b095001d21243631c887c1b2f7cdcc3f0fcb6d51e9cfc049a"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "pak-1-chernyy-6",
+   "name": "Чёрный 6",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111496,
+       "sha256": "b174983bdf9e23ea2eb73a5a5e7c769682b880cabdac8ff76d139c6160bfbcd9",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "b174983bdf9e23ea2eb73a5a-hud_reticle.gfx",
+         "size": 111496,
+         "sha256": "b174983bdf9e23ea2eb73a5a5e7c769682b880cabdac8ff76d139c6160bfbcd9"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "pak-1-chernyy-7",
+   "name": "Чёрный 7",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111434,
+       "sha256": "12b4436217ef2d551d9e6bda0151b1945472dda04952635a7f3e86bacd679cbd",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "12b4436217ef2d551d9e6bda-hud_reticle.gfx",
+         "size": 111434,
+         "sha256": "12b4436217ef2d551d9e6bda0151b1945472dda04952635a7f3e86bacd679cbd"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "pak-1-chernyy-8",
+   "name": "Чёрный 8",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111450,
+       "sha256": "c3ca7e69b8bc0f693a702c02556e3409bbadce0294c3249f01fc701139a5d04d",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "c3ca7e69b8bc0f693a702c02-hud_reticle.gfx",
+         "size": 111450,
+         "sha256": "c3ca7e69b8bc0f693a702c02556e3409bbadce0294c3249f01fc701139a5d04d"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
+  },
+  {
+   "id": "pak-2-belyy-1",
+   "name": "Белый 1",
    "category": "crosshairs",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -5495,11 +6647,18 @@
      "options": []
     }
    ],
-   "filters": []
+   "pack": {
+    "name": "Пак 2",
+    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
   },
   {
-   "id": "2",
-   "name": "2",
+   "id": "pak-2-belyy-2",
+   "name": "Белый 2",
    "category": "crosshairs",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -5536,11 +6695,18 @@
      "options": []
     }
    ],
-   "filters": []
+   "pack": {
+    "name": "Пак 2",
+    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
   },
   {
-   "id": "3",
-   "name": "3",
+   "id": "pak-2-belyy-3",
+   "name": "Белый 3",
    "category": "crosshairs",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -5577,52 +6743,18 @@
      "options": []
     }
    ],
-   "filters": []
+   "pack": {
+    "name": "Пак 2",
+    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
   },
   {
-   "id": "4",
-   "name": "4",
-   "category": "crosshairs",
-   "publisher": "oleksholo-svg",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": null,
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "hud_reticle.gfx",
-       "size": 111923,
-       "sha256": "4f41e09f865b30bafbbafa328e54234a3806734662dc419b04ad923999e48bf6",
-       "mustExist": false,
-       "parts": [
-        {
-         "name": "4f41e09f865b30bafbbafa32-hud_reticle.gfx",
-         "size": 111923,
-         "sha256": "4f41e09f865b30bafbbafa328e54234a3806734662dc419b04ad923999e48bf6"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "filters": []
-  },
-  {
-   "id": "5",
-   "name": "5",
+   "id": "pak-2-belyy-5",
+   "name": "Белый 5",
    "category": "crosshairs",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -5659,7 +6791,62 @@
      "options": []
     }
    ],
-   "filters": []
+   "pack": {
+    "name": "Пак 2",
+    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
+   "id": "pak-2-chernyy-4",
+   "name": "Чёрный 4",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111923,
+       "sha256": "4f41e09f865b30bafbbafa328e54234a3806734662dc419b04ad923999e48bf6",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "4f41e09f865b30bafbbafa32-hud_reticle.gfx",
+         "size": 111923,
+         "sha256": "4f41e09f865b30bafbbafa328e54234a3806734662dc419b04ad923999e48bf6"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 2",
+    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
+    "description": ""
+   },
+   "filters": [
+    "black"
+   ]
   }
  ]
 }
