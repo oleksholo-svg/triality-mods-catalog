@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-04T10:01:12.957Z",
+ "generatedAt": "2026-11-04T10:09:35.315Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -4627,6 +4627,47 @@
          "name": "ae9b2e85f3e74a2651767398-settings.xml",
          "size": 2440,
          "sha256": "ae9b2e85f3e74a265176739880b1358dfdac7885a05492fce1de5e902c7e7ab7"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "pepez",
+   "name": "Pepez",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2423,
+       "sha256": "74a9591149b4ec52f0626a635cb6e41af1de0ef13c3c7509c7bb34306c90bced",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "74a9591149b4ec52f0626a63-settings.xml",
+         "size": 2423,
+         "sha256": "74a9591149b4ec52f0626a635cb6e41af1de0ef13c3c7509c7bb34306c90bced"
         }
        ]
       }

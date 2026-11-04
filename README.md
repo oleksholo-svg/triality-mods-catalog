@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 113. Обновлено: 2026-11-04T10:01:12.957Z.
+Модов: 114. Обновлено: 2026-11-04T10:09:35.315Z.
 
 ## sounds
 
@@ -107,6 +107,7 @@
 - Pacho Cortez
 - Pain Absolute
 - Panch Cortez
+- Pepez
 - Plugger Absolute
 - Ranel Absolute
 - Ranel Cartel
