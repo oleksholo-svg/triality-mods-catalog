@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-03T23:27:50.752Z",
+ "generatedAt": "2026-11-04T10:01:12.957Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -953,7 +953,7 @@
     }
    ],
    "filters": [
-    "black"
+    "white"
    ]
   },
   {
@@ -5406,6 +5406,88 @@
          "name": "db59935ff1a13ad123e48ed4-settings.xml",
          "size": 2442,
          "sha256": "db59935ff1a13ad123e48ed440089b3915e6768dad303360233cadee5175bd2e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "proverka",
+   "name": "Проверка",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111923,
+       "sha256": "4f41e09f865b30bafbbafa328e54234a3806734662dc419b04ad923999e48bf6",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "4f41e09f865b30bafbbafa32-hud_reticle.gfx",
+         "size": 111923,
+         "sha256": "4f41e09f865b30bafbbafa328e54234a3806734662dc419b04ad923999e48bf6"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "tochka",
+   "name": "Точка",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 113358,
+       "sha256": "801970866dcb11949e0482ca590507661a032008d16f3a5a2d5f3ad6e024be98",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "801970866dcb11949e0482ca-hud_reticle.gfx",
+         "size": 113358,
+         "sha256": "801970866dcb11949e0482ca590507661a032008d16f3a5a2d5f3ad6e024be98"
         }
        ]
       }
