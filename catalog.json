@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-04T10:09:35.315Z",
+ "generatedAt": "2026-11-04T11:42:43.862Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -5457,8 +5457,131 @@
    "filters": []
   },
   {
-   "id": "proverka",
-   "name": "Проверка",
+   "id": "1",
+   "name": "1",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 113358,
+       "sha256": "801970866dcb11949e0482ca590507661a032008d16f3a5a2d5f3ad6e024be98",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "801970866dcb11949e0482ca-hud_reticle.gfx",
+         "size": 113358,
+         "sha256": "801970866dcb11949e0482ca590507661a032008d16f3a5a2d5f3ad6e024be98"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "2",
+   "name": "2",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 111670,
+       "sha256": "e1b3d753d601e1dd8a56a58fa7ce58ed941abcf17e1aabe32ee9220cb7686e2b",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "e1b3d753d601e1dd8a56a58f-hud_reticle.gfx",
+         "size": 111670,
+         "sha256": "e1b3d753d601e1dd8a56a58fa7ce58ed941abcf17e1aabe32ee9220cb7686e2b"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "3",
+   "name": "3",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 143622,
+       "sha256": "712ef1f0146d9bda13b045c0051a06d2d4fc6d3f6e7ad60ef2af655e8c34e453",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "712ef1f0146d9bda13b045c0-hud_reticle.gfx",
+         "size": 143622,
+         "sha256": "712ef1f0146d9bda13b045c0051a06d2d4fc6d3f6e7ad60ef2af655e8c34e453"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "4",
+   "name": "4",
    "category": "crosshairs",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -5498,8 +5621,8 @@
    "filters": []
   },
   {
-   "id": "tochka",
-   "name": "Точка",
+   "id": "5",
+   "name": "5",
    "category": "crosshairs",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -5521,14 +5644,14 @@
      "files": [
       {
        "target": "hud_reticle.gfx",
-       "size": 113358,
-       "sha256": "801970866dcb11949e0482ca590507661a032008d16f3a5a2d5f3ad6e024be98",
+       "size": 162186,
+       "sha256": "62b9c9049281bea04c254853f2a9ca7921917d1533020a2cf73e89dc3280eaf3",
        "mustExist": false,
        "parts": [
         {
-         "name": "801970866dcb11949e0482ca-hud_reticle.gfx",
-         "size": 113358,
-         "sha256": "801970866dcb11949e0482ca590507661a032008d16f3a5a2d5f3ad6e024be98"
+         "name": "62b9c9049281bea04c254853-hud_reticle.gfx",
+         "size": 162186,
+         "sha256": "62b9c9049281bea04c254853f2a9ca7921917d1533020a2cf73e89dc3280eaf3"
         }
        ]
       }
