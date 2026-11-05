@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-04T15:17:19.118Z",
+ "generatedAt": "2026-11-05T07:34:49.818Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -6859,7 +6859,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/perekrestie-belyy.jpg?v=a896367d95",
    "video": null,
    "audio": [],
    "variants": [
