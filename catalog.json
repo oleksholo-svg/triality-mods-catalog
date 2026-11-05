@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-05T07:34:49.818Z",
+ "generatedAt": "2026-11-05T07:38:36.927Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -5467,7 +5467,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-belyy-1.jpg?v=eab7dda85f",
    "video": null,
    "audio": [],
    "variants": [
@@ -5515,7 +5515,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-belyy-2.jpg?v=10d2905317",
    "video": null,
    "audio": [],
    "variants": [
@@ -5563,7 +5563,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-belyy-3.jpg?v=8e1ca66fda",
    "video": null,
    "audio": [],
    "variants": [
@@ -5611,7 +5611,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-belyy-4.jpg?v=86bf6d49a4",
    "video": null,
    "audio": [],
    "variants": [
@@ -5659,7 +5659,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-belyy-5.jpg?v=dd056558aa",
    "video": null,
    "audio": [],
    "variants": [
@@ -5707,7 +5707,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-belyy-6.jpg?v=fc66baff14",
    "video": null,
    "audio": [],
    "variants": [
@@ -5755,7 +5755,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-belyy-7.jpg?v=6b62b258c8",
    "video": null,
    "audio": [],
    "variants": [
@@ -5803,7 +5803,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-belyy-8.jpg?v=978956661a",
    "video": null,
    "audio": [],
    "variants": [
@@ -5851,7 +5851,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-biryuzovyy-1.jpg?v=eab7dda85f",
    "video": null,
    "audio": [],
    "variants": [
@@ -5899,7 +5899,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-biryuzovyy-2.jpg?v=10d2905317",
    "video": null,
    "audio": [],
    "variants": [
@@ -5947,7 +5947,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-biryuzovyy-3.jpg?v=8e1ca66fda",
    "video": null,
    "audio": [],
    "variants": [
@@ -5995,7 +5995,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-biryuzovyy-4.jpg?v=86bf6d49a4",
    "video": null,
    "audio": [],
    "variants": [
@@ -6043,7 +6043,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-biryuzovyy-5.jpg?v=dd056558aa",
    "video": null,
    "audio": [],
    "variants": [
@@ -6091,7 +6091,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-biryuzovyy-6.jpg?v=fc66baff14",
    "video": null,
    "audio": [],
    "variants": [
@@ -6139,7 +6139,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-biryuzovyy-7.jpg?v=6b62b258c8",
    "video": null,
    "audio": [],
    "variants": [
@@ -6187,7 +6187,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-biryuzovyy-8.jpg?v=978956661a",
    "video": null,
    "audio": [],
    "variants": [
@@ -6235,7 +6235,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-chernyy-1.jpg?v=017f829d6b",
    "video": null,
    "audio": [],
    "variants": [
@@ -6283,7 +6283,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-chernyy-2.jpg?v=d769e120e6",
    "video": null,
    "audio": [],
    "variants": [
@@ -6331,7 +6331,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-chernyy-3.jpg?v=02b9858a07",
    "video": null,
    "audio": [],
    "variants": [
@@ -6379,7 +6379,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-chernyy-4.jpg?v=7dae522502",
    "video": null,
    "audio": [],
    "variants": [
@@ -6427,7 +6427,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-chernyy-5.jpg?v=ebb9a7f49b",
    "video": null,
    "audio": [],
    "variants": [
@@ -6475,7 +6475,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-chernyy-6.jpg?v=8dd4497fb0",
    "video": null,
    "audio": [],
    "variants": [
@@ -6523,7 +6523,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-chernyy-7.jpg?v=bea1729efa",
    "video": null,
    "audio": [],
    "variants": [
@@ -6571,7 +6571,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-1-chernyy-8.jpg?v=9e1649024b",
    "video": null,
    "audio": [],
    "variants": [
@@ -6619,7 +6619,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-2-belyy-1.jpg?v=1e3ee8c27b",
    "video": null,
    "audio": [],
    "variants": [
@@ -6667,7 +6667,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-2-belyy-2.jpg?v=034c00a7bd",
    "video": null,
    "audio": [],
    "variants": [
@@ -6715,7 +6715,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-2-belyy-3.jpg?v=3ba5b5fd4f",
    "video": null,
    "audio": [],
    "variants": [
@@ -6763,7 +6763,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-2-belyy-5.jpg?v=d12cfc2063",
    "video": null,
    "audio": [],
    "variants": [
@@ -6811,7 +6811,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": null,
+   "preview": "previews/pak-2-chernyy-4.jpg?v=9ffce04486",
    "video": null,
    "audio": [],
    "variants": [
