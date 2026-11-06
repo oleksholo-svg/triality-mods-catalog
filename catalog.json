@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-05T08:01:29.319Z",
+ "generatedAt": "2026-11-06T08:53:36.836Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -6846,54 +6846,6 @@
    },
    "filters": [
     "black"
-   ]
-  },
-  {
-   "id": "perekrestie-belyy",
-   "name": "Белый",
-   "category": "crosshairs",
-   "publisher": "oleksholo-svg",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/perekrestie-belyy.jpg?v=a896367d95",
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "hud_reticle.gfx",
-       "size": 162186,
-       "sha256": "62b9c9049281bea04c254853f2a9ca7921917d1533020a2cf73e89dc3280eaf3",
-       "mustExist": false,
-       "parts": [
-        {
-         "name": "62b9c9049281bea04c254853-hud_reticle.gfx",
-         "size": 162186,
-         "sha256": "62b9c9049281bea04c254853f2a9ca7921917d1533020a2cf73e89dc3280eaf3"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "pack": {
-    "name": "Перекрестие",
-    "video": null,
-    "description": ""
-   },
-   "filters": [
-    "white"
    ]
   }
  ]
