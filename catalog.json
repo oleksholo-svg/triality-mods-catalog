@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-06T08:53:36.836Z",
+ "generatedAt": "2026-11-06T08:58:51.393Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -2014,49 +2014,6 @@
    ],
    "filters": [
     "pink"
-   ]
-  },
-  {
-   "id": "rag",
-   "name": "rag",
-   "category": "gunpacks",
-   "publisher": "oleksholo-svg",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/rag.jpg?v=0cc7186c48",
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
-       "size": 27865600,
-       "sha256": "0921d79f75be04b36dd7ff217cf95851e54dc244e75c3c135dede00d195037b2",
-       "mustExist": true,
-       "parts": [
-        {
-         "name": "0921d79f75be04b36dd7ff21-dlc.rpf",
-         "size": 27865600,
-         "sha256": "0921d79f75be04b36dd7ff217cf95851e54dc244e75c3c135dede00d195037b2"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "filters": [
-    "white"
    ]
   },
   {
