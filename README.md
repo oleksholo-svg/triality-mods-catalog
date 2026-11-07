@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 225. Обновлено: 2026-11-07T00:59:16.939Z.
+Модов: 226. Обновлено: 2026-11-07T19:16:41.003Z.
 
 ## sounds
 
@@ -120,6 +120,7 @@
 - Sistim Allegri
 - Solo Absolute
 - Solo Cartel
+- Terry TRC72
 - Tetsuya Vex
 - Yakai Cartel
 - Yukee -10000MB fps

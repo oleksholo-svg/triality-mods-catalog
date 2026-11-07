@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-07T00:59:16.939Z",
+ "generatedAt": "2026-11-07T19:16:41.003Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -5158,6 +5158,47 @@
          "name": "6d627ec86cebe29be3a65ba7-settings.xml",
          "size": 2449,
          "sha256": "6d627ec86cebe29be3a65ba776c357a199ee57553bba1eafe63a62d5e58daa7e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "terry-trc72",
+   "name": "Terry TRC72",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2354,
+       "sha256": "a348b46a6c3e7bfb31a2cb728e98b52515dee398f606928217622fffa42d8f76",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "a348b46a6c3e7bfb31a2cb72-settings.xml",
+         "size": 2354,
+         "sha256": "a348b46a6c3e7bfb31a2cb728e98b52515dee398f606928217622fffa42d8f76"
         }
        ]
       }
