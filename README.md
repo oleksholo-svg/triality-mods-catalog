@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 140. Обновлено: 2026-11-06T08:58:51.393Z.
+Модов: 225. Обновлено: 2026-11-07T00:59:16.939Z.
 
 ## sounds
 
@@ -158,3 +158,91 @@
 - Белый 3
 - Белый 5
 - Чёрный 4
+
+## originals
+
+- common
+- mpairraces
+- mpapartment
+- mpassault
+- mpbiker
+- mpchristmas2
+- mpchristmas2017
+- mpchristmas2018
+- mpexecutive
+- mpg9ec
+- mpgunrunning
+- mphalloween
+- mpheist
+- mpheist3
+- mpimportexport
+- mpjanuary2016
+- mplowrider
+- mplowrider2
+- mpluxe
+- mpluxe2
+- mppatchesng
+- mpreplay
+- mpsmuggler
+- mpspecialraces
+- mpstunt
+- mpsum
+- mpsum2
+- mpvalentines2
+- mpvinewood
+- mpxmas_604490
+- patchday10ng
+- patchday11ng
+- patchday12ng
+- patchday13ng
+- patchday14ng
+- patchday15ng
+- patchday16ng
+- patchday17ng
+- patchday18ng
+- patchday19ng
+- patchday1ng
+- patchday20ng
+- patchday21ng
+- patchday22ng
+- patchday23ng
+- patchday24ng
+- patchday25ng
+- patchday26ng
+- patchday27g9ecng
+- patchday27ng
+- patchday28g9ecng
+- patchday2bng
+- patchday2ng
+- patchday3ng
+- patchday4ng
+- patchday5ng
+- patchday6ng
+- patchday7ng
+- patchday8ng
+- patchday9ng
+- patchdayg9ecng
+- update
+- x64a
+- x64b
+- x64c
+- x64d
+- x64e
+- x64f
+- x64g
+- x64h
+- x64i
+- x64j
+- x64k
+- x64l
+- x64m
+- x64n
+- x64o
+- x64p
+- x64q
+- x64r
+- x64s
+- x64t
+- x64u
+- x64v
+- x64w
