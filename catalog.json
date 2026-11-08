@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-07T19:16:41.003Z",
+ "generatedAt": "2026-11-08T17:21:27.261Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -1611,6 +1611,69 @@
    "filters": [
     "white",
     "pink"
+   ]
+  },
+  {
+   "id": "killa-black-eyes",
+   "name": "killa black eyes",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 99219456,
+       "sha256": "1c9bfb5ffd9574671433875cb1b6435f5c71d7183ed76a6119ae5c5e1613c992",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "1c9bfb5ffd9574671433875c-dlc.rpf",
+         "size": 99219456,
+         "sha256": "1c9bfb5ffd9574671433875cb1b6435f5c71d7183ed76a6119ae5c5e1613c992"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 732461056,
+         "sha256": "c522073737977dfabcb75d7d42b1ad6d06113c6a044b0fe52c6385348eb5dd97",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "c522073737977dfabcb75d7d-dlc.rpf",
+           "size": 732461056,
+           "sha256": "c522073737977dfabcb75d7d42b1ad6d06113c6a044b0fe52c6385348eb5dd97"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "filters": [
+    "white"
    ]
   },
   {

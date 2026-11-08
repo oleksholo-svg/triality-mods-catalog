@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 226. Обновлено: 2026-11-07T19:16:41.003Z.
+Модов: 227. Обновлено: 2026-11-08T17:21:27.261Z.
 
 ## sounds
 
@@ -34,6 +34,7 @@
 - kai dragon v2
 - kai gradient
 - kai lipstick
+- killa black eyes
 - killa neon paint v2
 - killa realistic
 - killa redglass
