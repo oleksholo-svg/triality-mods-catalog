@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-08T17:21:27.261Z",
+ "generatedAt": "2026-11-08T21:32:37.104Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -1018,6 +1018,69 @@
    "filters": [
     "black",
     "red"
+   ]
+  },
+  {
+   "id": "denim-240",
+   "name": "denim 240",
+   "category": "gunpacks",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/denim-240.jpg?v=8ec3bffc18",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 27140096,
+       "sha256": "ce9f0a12fd5a7d7b52108d768b05cf7e6282e6eef09aa1add2eade5d1bd07202",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "ce9f0a12fd5a7d7b52108d76-dlc.rpf",
+         "size": 27140096,
+         "sha256": "ce9f0a12fd5a7d7b52108d768b05cf7e6282e6eef09aa1add2eade5d1bd07202"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 643176960,
+         "sha256": "5961b0c7ff5404cd62bde8baac2810c4c2e6d72d6909bd1618fb40b1e6d7b21c",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "5961b0c7ff5404cd62bde8ba-dlc.rpf",
+           "size": 643176960,
+           "sha256": "5961b0c7ff5404cd62bde8baac2810c4c2e6d72d6909bd1618fb40b1e6d7b21c"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "filters": [
+    "black"
    ]
   },
   {

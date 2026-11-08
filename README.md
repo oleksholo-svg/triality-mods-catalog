@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 227. Обновлено: 2026-11-08T17:21:27.261Z.
+Модов: 228. Обновлено: 2026-11-08T21:32:37.104Z.
 
 ## sounds
 
@@ -23,6 +23,7 @@
 - by vegas
 - charms week
 - crimson skull 240
+- denim 240
 - glamour queen
 - Glow
 - glow black sakura
