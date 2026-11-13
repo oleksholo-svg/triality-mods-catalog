@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 228. Обновлено: 2026-11-08T21:32:37.104Z.
+Модов: 228. Обновлено: 2026-11-13T03:49:26.938Z.
 
 ## sounds
 
@@ -19,38 +19,38 @@
 ## gunpacks
 
 - 161
-- black liquid skulls 240
-- by vegas
-- charms week
-- crimson skull 240
-- denim 240
-- glamour queen
+- Black Liquid Skulls 240
+- by Vegas
+- Charms Week
+- Crimson Skull 240
+- Denim 240
+- Glamour Queen
 - Glow
-- glow black sakura
-- glow darkweb
-- graff bloody tears 240
-- graffiti play black
-- halloween 240
-- kai dragon
-- kai dragon v2
-- kai gradient
-- kai lipstick
-- killa black eyes
-- killa neon paint v2
-- killa realistic
-- killa redglass
-- little 240
-- nebula killa
-- neon stroke 240
-- pink wrap 240
-- silent 240
-- snake 240
-- spider man 240
-- test spider man 240
-- thorsight
-- usa
-- white by vayronmods
-- white liquid skulls 240
+- Glow Black Sakura
+- Glow Darkweb
+- Graff Bloody Tears 240
+- Graffiti Play Black
+- Halloween 240
+- Kai Dragon
+- Kai Dragon v2
+- Kai Gradient
+- Kai Lipstick
+- Killa Black Eyes
+- Killa Neon Paint v2
+- Killa Realistic
+- Killa Redglass
+- Little 240
+- Nebula Killa
+- Neon Stroke 240
+- Pink Wrap 240
+- Silent 240
+- Snake 240
+- Spider Man 240
+- Test Spider Man 240
+- Thorsight
+- Usa
+- White by Vayronmods
+- White Liquid Skulls 240
 
 ## redux
 

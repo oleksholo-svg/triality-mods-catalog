@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-08T21:32:37.104Z",
+ "generatedAt": "2026-11-13T03:49:26.938Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -808,7 +808,7 @@
   },
   {
    "id": "black-liquid-skulls-240",
-   "name": "black liquid skulls 240",
+   "name": "Black Liquid Skulls 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -872,7 +872,7 @@
   },
   {
    "id": "by-vegas",
-   "name": "by vegas",
+   "name": "by Vegas",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -915,7 +915,7 @@
   },
   {
    "id": "charms-week",
-   "name": "charms week",
+   "name": "Charms Week",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -958,7 +958,7 @@
   },
   {
    "id": "crimson-skull-240",
-   "name": "crimson skull 240",
+   "name": "Crimson Skull 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1022,7 +1022,7 @@
   },
   {
    "id": "denim-240",
-   "name": "denim 240",
+   "name": "Denim 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1031,7 +1031,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/denim-240.jpg?v=8ec3bffc18",
+   "preview": "previews/denim-240.jpg?v=12293359c8",
    "video": null,
    "audio": [],
    "variants": [
@@ -1085,7 +1085,7 @@
   },
   {
    "id": "glamour-queen",
-   "name": "glamour queen",
+   "name": "Glamour Queen",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1193,7 +1193,7 @@
   },
   {
    "id": "glow-black-sakura",
-   "name": "glow black sakura",
+   "name": "Glow Black Sakura",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1257,7 +1257,7 @@
   },
   {
    "id": "glow-darkweb",
-   "name": "glow darkweb",
+   "name": "Glow Darkweb",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1333,7 +1333,7 @@
   },
   {
    "id": "graff-bloody-tears-240",
-   "name": "graff bloody tears 240",
+   "name": "Graff Bloody Tears 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1376,7 +1376,7 @@
   },
   {
    "id": "graffiti-play-black",
-   "name": "graffiti play black",
+   "name": "Graffiti Play Black",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1440,7 +1440,7 @@
   },
   {
    "id": "halloween-240",
-   "name": "halloween 240",
+   "name": "Halloween 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1449,7 +1449,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/halloween-240.jpg?v=b9e2d58f11",
+   "preview": "previews/halloween-240.jpg?v=e23f93ab79",
    "video": null,
    "audio": [],
    "variants": [
@@ -1504,7 +1504,7 @@
   },
   {
    "id": "kai-dragon",
-   "name": "kai dragon",
+   "name": "Kai Dragon",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1547,7 +1547,7 @@
   },
   {
    "id": "kai-dragon-v2",
-   "name": "kai dragon v2",
+   "name": "Kai Dragon v2",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1590,7 +1590,7 @@
   },
   {
    "id": "kai-gradient",
-   "name": "kai gradient",
+   "name": "Kai Gradient",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1634,7 +1634,7 @@
   },
   {
    "id": "kai-lipstick",
-   "name": "kai lipstick",
+   "name": "Kai Lipstick",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1678,7 +1678,7 @@
   },
   {
    "id": "killa-black-eyes",
-   "name": "killa black eyes",
+   "name": "Killa Black Eyes",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1741,7 +1741,7 @@
   },
   {
    "id": "killa-neon-paint-v2",
-   "name": "killa neon paint v2",
+   "name": "Killa Neon Paint v2",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1784,7 +1784,7 @@
   },
   {
    "id": "killa-realistic",
-   "name": "killa realistic",
+   "name": "Killa Realistic",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1847,7 +1847,7 @@
   },
   {
    "id": "killa-redglass",
-   "name": "killa redglass",
+   "name": "Killa Redglass",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1911,7 +1911,7 @@
   },
   {
    "id": "little-240",
-   "name": "little 240",
+   "name": "Little 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -1975,7 +1975,7 @@
   },
   {
    "id": "nebula-killa",
-   "name": "nebula killa",
+   "name": "Nebula Killa",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2038,7 +2038,7 @@
   },
   {
    "id": "neon-stroke-240",
-   "name": "neon stroke 240",
+   "name": "Neon Stroke 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2081,7 +2081,7 @@
   },
   {
    "id": "pink-wrap-240",
-   "name": "pink wrap 240",
+   "name": "Pink Wrap 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2144,7 +2144,7 @@
   },
   {
    "id": "silent-240",
-   "name": "silent 240",
+   "name": "Silent 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2207,7 +2207,7 @@
   },
   {
    "id": "snake-240",
-   "name": "snake 240",
+   "name": "Snake 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2250,7 +2250,7 @@
   },
   {
    "id": "spider-man-240",
-   "name": "spider man 240",
+   "name": "Spider Man 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2314,7 +2314,7 @@
   },
   {
    "id": "test-spider-man-240",
-   "name": "test spider man 240",
+   "name": "Test Spider Man 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2378,7 +2378,7 @@
   },
   {
    "id": "thorsight",
-   "name": "thorsight",
+   "name": "Thorsight",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2421,7 +2421,7 @@
   },
   {
    "id": "usa",
-   "name": "usa",
+   "name": "Usa",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2464,7 +2464,7 @@
   },
   {
    "id": "white-by-vayronmods",
-   "name": "white by vayronmods",
+   "name": "White by Vayronmods",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2527,7 +2527,7 @@
   },
   {
    "id": "white-liquid-skulls-240",
-   "name": "white liquid skulls 240",
+   "name": "White Liquid Skulls 240",
    "category": "gunpacks",
    "publisher": "oleksholo-svg",
    "description": "",
