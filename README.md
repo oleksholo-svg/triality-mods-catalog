@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 228. Обновлено: 2026-11-14T17:16:06.159Z.
+Модов: 234. Обновлено: 2026-11-14T20:24:58.418Z.
 
 ## sounds
 
@@ -22,6 +22,7 @@
 - Black Sandpaper 240
 - Glow X-ray
 - Nightmare
+- Twilight Garden 240
 - 161
 - Black Liquid Skulls 240
 - by Vegas
@@ -58,6 +59,11 @@
 
 ## redux
 
+- Fps Boost Ever 240 v25
+- Gloomy v2
+- Halloween v27 240
+- The Saddest v3
+- Waka 25mb version B&W
 - anteiku v2
 - ayato traur
 - bakugan redux v2

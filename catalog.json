@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-14T17:16:06.159Z",
+ "generatedAt": "2026-11-14T20:24:58.418Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -217,6 +217,292 @@
    "filters": [
     "black"
    ]
+  },
+  {
+   "id": "twilight-garden-240",
+   "name": "Twilight Garden 240",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/twilight-garden-240.jpg?v=89e8ec2d0d",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 313909248,
+       "sha256": "9080156dc2cb9f3d1ee8608bd75945691f33134c64bb4df3115c9b6fc0c73b7c",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "9080156dc2cb9f3d1ee8608b-dlc.rpf",
+         "size": 313909248,
+         "sha256": "9080156dc2cb9f3d1ee8608bd75945691f33134c64bb4df3115c9b6fc0c73b7c"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 666333184,
+         "sha256": "110730bcc33b22ee43808d289b27c3d7c134f59cb9f3ee3117440e2fdc624276",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "110730bcc33b22ee43808d28-dlc.rpf",
+           "size": 666333184,
+           "sha256": "110730bcc33b22ee43808d289b27c3d7c134f59cb9f3ee3117440e2fdc624276"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "filters": [
+    "purple",
+    "pink"
+   ]
+  },
+  {
+   "id": "fps-boost-ever-240-v25",
+   "name": "Fps Boost Ever 240 v25",
+   "category": "redux",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/fps-boost-ever-240-v25.jpg?v=0138f2327e",
+   "video": "https://www.youtube.com/watch?v=nHbxE7x85kE&t=96s",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 2696956928,
+       "sha256": "92f3aeae3dc382f1de3f2193c68d909ff79337fa55629091858e378918f8a2e0",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "92f3aeae3dc382f1de3f2193-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "580bb727304d15b50f44bb5cc0ed6fcf32b244046f40bf3d24961a1575be6440"
+        },
+        {
+         "name": "92f3aeae3dc382f1de3f2193-update.rpf.p02of02",
+         "size": 696956928,
+         "sha256": "4e0697a8ae11ee694e5592d088835aa95f133d437b5a95556df8e62bb195e0bf"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "fps"
+   ]
+  },
+  {
+   "id": "gloomy-v2",
+   "name": "Gloomy v2",
+   "category": "redux",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/gloomy-v2.jpg?v=8cd84a86e5",
+   "video": "https://www.youtube.com/watch?v=u0ClbI7lbfo",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 3125761536,
+       "sha256": "7ba919e78534756553d2f9ca2efcf08b1c9fc8d9b6a76d35917617090b0d9c20",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "7ba919e78534756553d2f9ca-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "037c3be992f960b6a249249f8adb5c0699193df52e665fdcf7b2f2454ddd0508"
+        },
+        {
+         "name": "7ba919e78534756553d2f9ca-update.rpf.p02of02",
+         "size": 1125761536,
+         "sha256": "58fe33c42332a9ab5f62d5bd4562bc7f9cc6a7d345f56431ca1371322d4a5cf4"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "halloween-v27-240",
+   "name": "Halloween v27 240",
+   "category": "redux",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/halloween-v27-240.jpg?v=6aa4216657",
+   "video": "https://www.youtube.com/watch?v=Etz1n3piCf4",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1609283584,
+       "sha256": "34d7fa667db87d1862b3877e665f149bcd78b5c6dc6fb4c620e3193f4d3930bd",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "34d7fa667db87d1862b3877e-update.rpf",
+         "size": 1609283584,
+         "sha256": "34d7fa667db87d1862b3877e665f149bcd78b5c6dc6fb4c620e3193f4d3930bd"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "the-saddest-v3",
+   "name": "The Saddest v3",
+   "category": "redux",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/the-saddest-v3.jpg?v=8d9e2ea88b",
+   "video": "https://www.youtube.com/watch?v=M3IhxTBcP6o",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 3388435456,
+       "sha256": "821329733838394744ef10f8d4442874432fdf721689848f7488334a5379dd76",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "821329733838394744ef10f8-update.rpf.p01of02",
+         "size": 2000000000,
+         "sha256": "2f1f009893a4fecbf4e0ac28d85d668a0f06c3c9d148202a5f8fcce253bc7176"
+        },
+        {
+         "name": "821329733838394744ef10f8-update.rpf.p02of02",
+         "size": 1388435456,
+         "sha256": "54a3362fd1b6f878b7f8b10912c83748fee4a1d4ef4836e46fa097d96f5a098e"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "waka-25mb-version-b-w",
+   "name": "Waka 25mb version B&W",
+   "category": "redux",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/waka-25mb-version-b-w.jpg?v=93617ccbb6",
+   "video": "https://www.youtube.com/watch?v=DomIaLmxNC8",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 267624960,
+       "sha256": "878e571eb1e342f34c5789bad85864a895e00face3c9b2e424e13256a8d3de77",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "878e571eb1e342f34c5789ba-update.rpf",
+         "size": 267624960,
+         "sha256": "878e571eb1e342f34c5789bad85864a895e00face3c9b2e424e13256a8d3de77"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
   },
   {
    "id": "atk-rs7-air-240",
