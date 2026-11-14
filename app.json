@@ -1,10 +1,10 @@
 {
-  "version": "0.1.31",
-  "name": "TrialityMods-Setup-0.1.31.exe",
-  "size": 136463794,
-  "sha256": "b32bfd6b353a2a18327c97a9c0ed9deab2a54318500a3e9b26538388b506384a",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.31.exe",
-  "notes": "Приложение открывается на весь экран\nУбрана надпись «Администратор»\nОкно обновления с «Что нового»",
-  "date": "2026-11-14T05:30:23.669Z",
+  "version": "0.1.32",
+  "name": "TrialityMods-Setup-0.1.32.exe",
+  "size": 136464695,
+  "sha256": "00eca7abb3d403d618e4bbad618dbe7a6942c76afd5222183510f12d3049a0d2",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.32.exe",
+  "notes": "Окно бета-теста с кнопкой в Discord для проблем\nОбновлён текст благодарности авторам модов",
+  "date": "2026-11-14T05:51:31.896Z",
   "kind": "setup"
 }
