@@ -1,13 +1,13 @@
 {
  "format": 1,
- "generatedAt": "2026-11-14T17:03:05.636Z",
+ "generatedAt": "2026-11-14T17:16:06.159Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
  "mods": [
   {
-   "id": "240-black-sandpaper-gunpack",
-   "name": "240 BLACK SANDPAPER GUNPACK",
+   "id": "black-deftones-240",
+   "name": "Black Deftones 240",
    "category": "gunpacks",
    "publisher": "veybertic601",
    "description": "",
@@ -16,7 +16,71 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/240-black-sandpaper-gunpack.jpg?v=6fdf7ca4f1",
+   "preview": "previews/black-deftones-240.jpg?v=4796132d59",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 45305856,
+       "sha256": "b7831dadf6f9cd3b19dcb483af849e9d6993519e1756bfa95073e2b94e9a6ce9",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "b7831dadf6f9cd3b19dcb483-dlc.rpf",
+         "size": 45305856,
+         "sha256": "b7831dadf6f9cd3b19dcb483af849e9d6993519e1756bfa95073e2b94e9a6ce9"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 783217664,
+         "sha256": "5a8b4eddcddac27ea64dfdbdf7854d8be9f20bfaf795dfd07fc8fff84dadab4f",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "5a8b4eddcddac27ea64dfdbd-dlc.rpf",
+           "size": 783217664,
+           "sha256": "5a8b4eddcddac27ea64dfdbdf7854d8be9f20bfaf795dfd07fc8fff84dadab4f"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "filters": [
+    "black",
+    "white"
+   ]
+  },
+  {
+   "id": "black-sandpaper-240",
+   "name": "Black Sandpaper 240",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/black-sandpaper-240.jpg?v=6fdf7ca4f1",
    "video": null,
    "audio": [],
    "variants": [

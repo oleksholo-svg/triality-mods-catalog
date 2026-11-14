@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 227. Обновлено: 2026-11-14T17:03:05.636Z.
+Модов: 228. Обновлено: 2026-11-14T17:16:06.159Z.
 
 ## sounds
 
@@ -18,7 +18,8 @@
 
 ## gunpacks
 
-- 240 BLACK SANDPAPER GUNPACK
+- Black Deftones 240
+- Black Sandpaper 240
 - Glow X-ray
 - Nightmare
 - 161
