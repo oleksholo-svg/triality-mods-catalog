@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-14T22:24:44.054Z",
+ "generatedAt": "2026-11-14T22:36:18.113Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -3521,6 +3521,47 @@
          "name": "ef50b53d3387ce2d5ecbc703-settings.xml",
          "size": 2442,
          "sha256": "ef50b53d3387ce2d5ecbc70315185edbdf2fb419571abb5385a3c47b86b81aa8"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
+   "id": "gnev",
+   "name": "GNEV",
+   "category": "settings",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": null,
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "settings.xml",
+       "size": 2421,
+       "sha256": "1ef47537fb27308b6b4278d8527909a50d26ccc0a133765c6beefbd8e9221ecd",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "1ef47537fb27308b6b4278d8-settings.xml",
+         "size": 2421,
+         "sha256": "1ef47537fb27308b6b4278d8527909a50d26ccc0a133765c6beefbd8e9221ecd"
         }
        ]
       }

@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 236. Обновлено: 2026-11-14T22:24:44.054Z.
+Модов: 237. Обновлено: 2026-11-14T22:36:18.113Z.
 
 ## sounds
 
@@ -89,6 +89,7 @@
 - Dava Cortez
 - Fiend Absolute
 - Fifty Gucci
+- GNEV
 - Gualteri Absolute
 - Hefner Vex
 - Hen Epileptic
