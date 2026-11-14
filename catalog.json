@@ -1,10 +1,53 @@
 {
  "format": 1,
- "generatedAt": "2026-11-13T03:49:26.938Z",
+ "generatedAt": "2026-11-14T03:15:14.107Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
  "mods": [
+  {
+   "id": "glow-x-ray",
+   "name": "Glow X-ray",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/glow-x-ray.jpg?v=a89a201d9f",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 185386496,
+       "sha256": "96e36893fedf6c3298baba34b73b70911ba22a142bac2104ba391495033558ee",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "96e36893fedf6c3298baba34-dlc.rpf",
+         "size": 185386496,
+         "sha256": "96e36893fedf6c3298baba34b73b70911ba22a142bac2104ba391495033558ee"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "black"
+   ]
+  },
   {
    "id": "atk-rs7-air-240",
    "name": "atk rs7 air 240",
