@@ -1,10 +1,10 @@
 {
-  "version": "0.1.32",
-  "name": "TrialityMods-Setup-0.1.32.exe",
-  "size": 136464695,
-  "sha256": "00eca7abb3d403d618e4bbad618dbe7a6942c76afd5222183510f12d3049a0d2",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.32.exe",
-  "notes": "Окно бета-теста с кнопкой в Discord для проблем\nОбновлён текст благодарности авторам модов",
-  "date": "2026-11-14T05:51:31.896Z",
+  "version": "0.1.33",
+  "name": "TrialityMods-Setup-0.1.33.exe",
+  "size": 136465520,
+  "sha256": "7032051669d30eb9ec917dbcb420de6d6574a79542c1207f5773650772d4090a",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.33.exe",
+  "notes": "Новая версия теперь видна почти сразу после выхода, без ожидания\nПриложение проверяет обновления при запуске, каждые 5 минут и когда возвращаешься в окно\nКак только вышла новая версия, сразу появляется окно с «Что нового»",
+  "date": "2026-11-14T06:04:15.043Z",
   "kind": "setup"
 }
