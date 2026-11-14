@@ -1,10 +1,73 @@
 {
  "format": 1,
- "generatedAt": "2026-11-14T16:50:31.013Z",
+ "generatedAt": "2026-11-14T17:03:05.636Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
  "mods": [
+  {
+   "id": "240-black-sandpaper-gunpack",
+   "name": "240 BLACK SANDPAPER GUNPACK",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/240-black-sandpaper-gunpack.jpg?v=6fdf7ca4f1",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 200454144,
+       "sha256": "f3ce8dffd51ba037cecea087542f04a100ca6ee1c1676fd3f1ba483e3f0336eb",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "f3ce8dffd51ba037cecea087-dlc.rpf",
+         "size": 200454144,
+         "sha256": "f3ce8dffd51ba037cecea087542f04a100ca6ee1c1676fd3f1ba483e3f0336eb"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 803070976,
+         "sha256": "0727aff8bc0fd0dd3e687488da0b752a3654b9ea28930d2261916e09d665a027",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "0727aff8bc0fd0dd3e687488-dlc.rpf",
+           "size": 803070976,
+           "sha256": "0727aff8bc0fd0dd3e687488da0b752a3654b9ea28930d2261916e09d665a027"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "filters": [
+    "black"
+   ]
+  },
   {
    "id": "glow-x-ray",
    "name": "Glow X-ray",
