@@ -1,10 +1,10 @@
 {
-  "version": "0.1.33",
-  "name": "TrialityMods-Setup-0.1.33.exe",
-  "size": 136465520,
-  "sha256": "7032051669d30eb9ec917dbcb420de6d6574a79542c1207f5773650772d4090a",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.33.exe",
-  "notes": "Новая версия теперь видна почти сразу после выхода, без ожидания\nПриложение проверяет обновления при запуске, каждые 5 минут и когда возвращаешься в окно\nКак только вышла новая версия, сразу появляется окно с «Что нового»",
-  "date": "2026-11-14T06:04:15.043Z",
+  "version": "0.1.34",
+  "name": "TrialityMods-Setup-0.1.34.exe",
+  "size": 136872739,
+  "sha256": "cae38567d22ca8aa0ba8849dda9393baaa34d0883eb740310da79da68c1f9e83",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.34.exe",
+  "notes": "Добавлен белорусский язык\nИнтерфейс и документы полностью переведены на белорусский\nЯзык можно выбрать при первом запуске и в настройках\nДабаўлена беларуская мова\nІнтэрфейс і дакументы цалкам перакладзены на беларускую\nМову можна выбраць пры першым запуску і ў наладах",
+  "date": "2026-11-14T22:51:04.678Z",
   "kind": "setup"
 }
