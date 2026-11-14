@@ -1,53 +1,10 @@
 {
  "format": 1,
- "generatedAt": "2026-11-14T03:15:14.107Z",
+ "generatedAt": "2026-11-14T07:47:42.463Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
  "mods": [
-  {
-   "id": "glow-x-ray",
-   "name": "Glow X-ray",
-   "category": "gunpacks",
-   "publisher": "veybertic601",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/glow-x-ray.jpg?v=a89a201d9f",
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
-       "size": 185386496,
-       "sha256": "96e36893fedf6c3298baba34b73b70911ba22a142bac2104ba391495033558ee",
-       "mustExist": true,
-       "parts": [
-        {
-         "name": "96e36893fedf6c3298baba34-dlc.rpf",
-         "size": 185386496,
-         "sha256": "96e36893fedf6c3298baba34b73b70911ba22a142bac2104ba391495033558ee"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "filters": [
-    "black"
-   ]
-  },
   {
    "id": "atk-rs7-air-240",
    "name": "atk rs7 air 240",
@@ -3199,7 +3156,7 @@
   },
   {
    "id": "nate-unholly-fps-boost",
-   "name": "nate. unholly fps boost",
+   "name": "Nate. unholly fps boost",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -6008,6 +5965,54 @@
    ]
   },
   {
+   "id": "pak-1-belyy-9",
+   "name": "Белый 9",
+   "category": "crosshairs",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/pak-1-belyy-9.jpg?v=e7adafc018",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "hud_reticle.gfx",
+       "size": 162186,
+       "sha256": "62b9c9049281bea04c254853f2a9ca7921917d1533020a2cf73e89dc3280eaf3",
+       "mustExist": false,
+       "parts": [
+        {
+         "name": "62b9c9049281bea04c254853-hud_reticle.gfx",
+         "size": 162186,
+         "sha256": "62b9c9049281bea04c254853f2a9ca7921917d1533020a2cf73e89dc3280eaf3"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "pack": {
+    "name": "Пак 1",
+    "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
+    "description": ""
+   },
+   "filters": [
+    "white"
+   ]
+  },
+  {
    "id": "pak-1-biryuzovyy-1",
    "name": "Бирюзовый 1",
    "category": "crosshairs",
@@ -6769,246 +6774,6 @@
    "pack": {
     "name": "Пак 1",
     "video": "https://www.youtube.com/watch?v=d9Kkpe2yyt0&t=234s",
-    "description": ""
-   },
-   "filters": [
-    "black"
-   ]
-  },
-  {
-   "id": "pak-2-belyy-1",
-   "name": "Белый 1",
-   "category": "crosshairs",
-   "publisher": "oleksholo-svg",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/pak-2-belyy-1.jpg?v=ed2fcdd970",
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "hud_reticle.gfx",
-       "size": 113358,
-       "sha256": "801970866dcb11949e0482ca590507661a032008d16f3a5a2d5f3ad6e024be98",
-       "mustExist": false,
-       "parts": [
-        {
-         "name": "801970866dcb11949e0482ca-hud_reticle.gfx",
-         "size": 113358,
-         "sha256": "801970866dcb11949e0482ca590507661a032008d16f3a5a2d5f3ad6e024be98"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "pack": {
-    "name": "Пак 2",
-    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
-    "description": ""
-   },
-   "filters": [
-    "white"
-   ]
-  },
-  {
-   "id": "pak-2-belyy-2",
-   "name": "Белый 2",
-   "category": "crosshairs",
-   "publisher": "oleksholo-svg",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/pak-2-belyy-2.jpg?v=461cfac00f",
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "hud_reticle.gfx",
-       "size": 111670,
-       "sha256": "e1b3d753d601e1dd8a56a58fa7ce58ed941abcf17e1aabe32ee9220cb7686e2b",
-       "mustExist": false,
-       "parts": [
-        {
-         "name": "e1b3d753d601e1dd8a56a58f-hud_reticle.gfx",
-         "size": 111670,
-         "sha256": "e1b3d753d601e1dd8a56a58fa7ce58ed941abcf17e1aabe32ee9220cb7686e2b"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "pack": {
-    "name": "Пак 2",
-    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
-    "description": ""
-   },
-   "filters": [
-    "white"
-   ]
-  },
-  {
-   "id": "pak-2-belyy-3",
-   "name": "Белый 3",
-   "category": "crosshairs",
-   "publisher": "oleksholo-svg",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/pak-2-belyy-3.jpg?v=ed09e43467",
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "hud_reticle.gfx",
-       "size": 143622,
-       "sha256": "712ef1f0146d9bda13b045c0051a06d2d4fc6d3f6e7ad60ef2af655e8c34e453",
-       "mustExist": false,
-       "parts": [
-        {
-         "name": "712ef1f0146d9bda13b045c0-hud_reticle.gfx",
-         "size": 143622,
-         "sha256": "712ef1f0146d9bda13b045c0051a06d2d4fc6d3f6e7ad60ef2af655e8c34e453"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "pack": {
-    "name": "Пак 2",
-    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
-    "description": ""
-   },
-   "filters": [
-    "white"
-   ]
-  },
-  {
-   "id": "pak-2-belyy-5",
-   "name": "Белый 5",
-   "category": "crosshairs",
-   "publisher": "oleksholo-svg",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/pak-2-belyy-5.jpg?v=e7adafc018",
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "hud_reticle.gfx",
-       "size": 162186,
-       "sha256": "62b9c9049281bea04c254853f2a9ca7921917d1533020a2cf73e89dc3280eaf3",
-       "mustExist": false,
-       "parts": [
-        {
-         "name": "62b9c9049281bea04c254853-hud_reticle.gfx",
-         "size": 162186,
-         "sha256": "62b9c9049281bea04c254853f2a9ca7921917d1533020a2cf73e89dc3280eaf3"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "pack": {
-    "name": "Пак 2",
-    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
-    "description": ""
-   },
-   "filters": [
-    "white"
-   ]
-  },
-  {
-   "id": "pak-2-chernyy-4",
-   "name": "Чёрный 4",
-   "category": "crosshairs",
-   "publisher": "oleksholo-svg",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/pak-2-chernyy-4.jpg?v=999fef5c07",
-   "video": null,
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "hud_reticle.gfx",
-       "size": 111923,
-       "sha256": "4f41e09f865b30bafbbafa328e54234a3806734662dc419b04ad923999e48bf6",
-       "mustExist": false,
-       "parts": [
-        {
-         "name": "4f41e09f865b30bafbbafa32-hud_reticle.gfx",
-         "size": 111923,
-         "sha256": "4f41e09f865b30bafbbafa328e54234a3806734662dc419b04ad923999e48bf6"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "pack": {
-    "name": "Пак 2",
-    "video": "https://www.youtube.com/watch?v=h-0he5ruNzI",
     "description": ""
    },
    "filters": [
@@ -10559,6 +10324,49 @@
     }
    ],
    "filters": []
+  },
+  {
+   "id": "glow-x-ray",
+   "name": "Glow X-ray",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/glow-x-ray.jpg?v=a89a201d9f",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 185386496,
+       "sha256": "96e36893fedf6c3298baba34b73b70911ba22a142bac2104ba391495033558ee",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "96e36893fedf6c3298baba34-dlc.rpf",
+         "size": 185386496,
+         "sha256": "96e36893fedf6c3298baba34b73b70911ba22a142bac2104ba391495033558ee"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "black"
+   ]
   }
  ]
 }
