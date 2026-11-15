@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 239. Обновлено: 2026-11-14T23:21:41.071Z.
+Модов: 238. Обновлено: 2026-11-15T00:06:35.797Z.
 
 ## sounds
 
@@ -64,7 +64,6 @@
 - Halloween v27 240
 - The Saddest v3
 - Type London by Sinkies
-- Waka 25mb version B&W
 - anteiku v2
 - ayato traur
 - bakugan redux v2
@@ -82,7 +81,7 @@
 
 ## settings
 
-- settings
+- Maximillian Triality
 - Angel Absolute
 - Ava Absolute
 - Boston Cortez

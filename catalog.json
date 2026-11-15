@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-14T23:21:41.071Z",
+ "generatedAt": "2026-11-15T00:06:35.797Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -510,49 +510,8 @@
    "filters": []
   },
   {
-   "id": "waka-25mb-version-b-w",
-   "name": "Waka 25mb version B&W",
-   "category": "redux",
-   "publisher": "veybertic601",
-   "description": "",
-   "tags": [],
-   "editions": [
-    "legacy",
-    "enhanced"
-   ],
-   "preview": "previews/waka-25mb-version-b-w.jpg?v=93617ccbb6",
-   "video": "https://www.youtube.com/watch?v=DomIaLmxNC8",
-   "audio": [],
-   "variants": [
-    {
-     "id": "default",
-     "name": null,
-     "preview": null,
-     "video": null,
-     "audio": [],
-     "files": [
-      {
-       "target": "update/update.rpf",
-       "size": 267624960,
-       "sha256": "878e571eb1e342f34c5789bad85864a895e00face3c9b2e424e13256a8d3de77",
-       "mustExist": true,
-       "parts": [
-        {
-         "name": "878e571eb1e342f34c5789ba-update.rpf",
-         "size": 267624960,
-         "sha256": "878e571eb1e342f34c5789bad85864a895e00face3c9b2e424e13256a8d3de77"
-        }
-       ]
-      }
-     ],
-     "options": []
-    }
-   ],
-   "filters": []
-  },
-  {
-   "id": "settings",
-   "name": "settings",
+   "id": "maximillian-triality",
+   "name": "Maximillian Triality",
    "category": "settings",
    "publisher": "veybertic601",
    "description": "",
