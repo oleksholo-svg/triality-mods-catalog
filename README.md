@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 241. Обновлено: 2026-11-15T12:13:43.628Z.
+Модов: 242. Обновлено: 2026-11-15T15:42:20.055Z.
 
 ## sounds
 
@@ -66,15 +66,16 @@
 - Ayato traur
 - Bakugan redux v2
 - Blink x skye
-- bublik competitive v2
-- bublik dark
-- bublik fps v2
-- bublik vanila v2
-- dissentry
-- dissentry v2
-- glek
-- godmode
-- monochrome v2
+- Bublik aura
+- Bublik competitive v2
+- Bublik dark
+- Bublik fps v2
+- Bublik vanila v2
+- Dissentry
+- Dissentry v2
+- Glek
+- Godmode
+- Monochrome v2
 - Nate. unholly fps boost
 - Fps Boost Ever 240 v25
 - Gloomy v2

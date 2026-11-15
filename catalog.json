@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-15T12:13:43.628Z",
+ "generatedAt": "2026-11-15T15:42:20.055Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -2769,8 +2769,8 @@
    "filters": []
   },
   {
-   "id": "bublik-competitive-v2",
-   "name": "bublik competitive v2",
+   "id": "bublik-aura",
+   "name": "Bublik aura",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2779,15 +2779,15 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/bublik-competitive-v2.jpg?v=7a3390cf2c",
-   "video": "https://www.youtube.com/watch?v=acMEpAZbdm8&t=173s",
+   "preview": "previews/bublik-aura.jpg?v=4720d158b3",
+   "video": "https://www.youtube.com/watch?v=7mo-4oSPw40",
    "audio": [],
    "variants": [
     {
-     "id": "bublik-aura",
-     "name": "Bublik aura",
-     "preview": "previews/bublik-competitive-v2--bublik-aura.jpg?v=4720d158b3",
-     "video": "https://www.youtube.com/watch?v=7mo-4oSPw40",
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
      "audio": [],
      "files": [
       {
@@ -2810,8 +2810,49 @@
    "filters": []
   },
   {
+   "id": "bublik-competitive-v2",
+   "name": "Bublik competitive v2",
+   "category": "redux",
+   "publisher": "oleksholo-svg",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/bublik-competitive-v2.jpg?v=7a3390cf2c",
+   "video": "https://www.youtube.com/watch?v=acMEpAZbdm8&t=173s",
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/update.rpf",
+       "size": 1866510336,
+       "sha256": "fdae66c2d42f16f9cd1fdb1da7d398f67d8444aa91c2963ec153aedf1b889be9",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "fdae66c2d42f16f9cd1fdb1d-update.rpf",
+         "size": 1866510336,
+         "sha256": "fdae66c2d42f16f9cd1fdb1da7d398f67d8444aa91c2963ec153aedf1b889be9"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": []
+  },
+  {
    "id": "bublik-dark",
-   "name": "bublik dark",
+   "name": "Bublik dark",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2857,7 +2898,7 @@
   },
   {
    "id": "bublik-fps-v2",
-   "name": "bublik fps v2",
+   "name": "Bublik fps v2",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2900,7 +2941,7 @@
   },
   {
    "id": "bublik-vanila-v2",
-   "name": "bublik vanila v2",
+   "name": "Bublik vanila v2",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2941,7 +2982,7 @@
   },
   {
    "id": "dissentry",
-   "name": "dissentry",
+   "name": "Dissentry",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -2982,7 +3023,7 @@
   },
   {
    "id": "dissentry-v2",
-   "name": "dissentry v2",
+   "name": "Dissentry v2",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -3023,7 +3064,7 @@
   },
   {
    "id": "glek",
-   "name": "glek",
+   "name": "Glek",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -3074,7 +3115,7 @@
   },
   {
    "id": "godmode",
-   "name": "godmode",
+   "name": "Godmode",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
@@ -3115,7 +3156,7 @@
   },
   {
    "id": "monochrome-v2",
-   "name": "monochrome v2",
+   "name": "Monochrome v2",
    "category": "redux",
    "publisher": "oleksholo-svg",
    "description": "",
