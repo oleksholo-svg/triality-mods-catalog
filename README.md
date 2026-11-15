@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 255. Обновлено: 2026-11-15T16:37:15.656Z.
+Модов: 256. Обновлено: 2026-11-15T16:45:48.831Z.
 
 ## sounds
 
@@ -31,6 +31,7 @@
 - Killa Pink Hologramm
 - Killa Silence Gradient
 - Killa White Liquid
+- Lanaykin
 - Lighthouse Killa
 - Marble Killa
 - Nightmare

@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-15T16:37:15.656Z",
+ "generatedAt": "2026-11-15T16:45:48.831Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -850,6 +850,73 @@
    ],
    "filters": [
     "white"
+   ]
+  },
+  {
+   "id": "lanaykin",
+   "name": "Lanaykin",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/lanaykin.jpg?v=b9df646338",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "original",
+     "name": "Original",
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 86390272,
+       "sha256": "bb1440d17fd1df9240e46a231b06e1b25b6914e26f29ed5ebcfc60981240a0b2",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "bb1440d17fd1df9240e46a23-dlc.rpf",
+         "size": 86390272,
+         "sha256": "bb1440d17fd1df9240e46a231b06e1b25b6914e26f29ed5ebcfc60981240a0b2"
+        }
+       ]
+      }
+     ],
+     "options": []
+    },
+    {
+     "id": "small",
+     "name": "Small",
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 90990080,
+       "sha256": "f2ae655e275b074b3470c0574b841ff2a8d4f4e009faa955bfb62452fbb41c6f",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "f2ae655e275b074b3470c057-dlc.rpf",
+         "size": 90990080,
+         "sha256": "f2ae655e275b074b3470c0574b841ff2a8d4f4e009faa955bfb62452fbb41c6f"
+        }
+       ]
+      }
+     ],
+     "options": []
+    }
+   ],
+   "filters": [
+    "white",
+    "pink"
    ]
   },
   {
