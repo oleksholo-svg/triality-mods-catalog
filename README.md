@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 238. Обновлено: 2026-11-15T00:06:35.797Z.
+Модов: 241. Обновлено: 2026-11-15T02:38:43.144Z.
 
 ## sounds
 
@@ -20,7 +20,10 @@
 
 - Black Deftones 240
 - Black Sandpaper 240
+- Ghost Killa
 - Glow X-ray
+- Killa Pink Hologramm
+- Killa Silence Gradient
 - Nightmare
 - Twilight Garden 240
 - 161

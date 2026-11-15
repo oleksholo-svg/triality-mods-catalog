@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-15T00:06:35.797Z",
+ "generatedAt": "2026-11-15T02:38:43.144Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -133,6 +133,70 @@
    ]
   },
   {
+   "id": "ghost-killa",
+   "name": "Ghost Killa",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/ghost-killa.jpg?v=b8a9043f3e",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 215284224,
+       "sha256": "f8098fcf69de5f3f6140bbed78a283958efc317097021c1d81c094c7e0997ffa",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "f8098fcf69de5f3f6140bbed-dlc.rpf",
+         "size": 215284224,
+         "sha256": "f8098fcf69de5f3f6140bbed78a283958efc317097021c1d81c094c7e0997ffa"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 653502976,
+         "sha256": "4c291671bb7b8796815f0a7867df37f0825b4e17b6c4d513ac0ab56bfca0a0ad",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "4c291671bb7b8796815f0a78-dlc.rpf",
+           "size": 653502976,
+           "sha256": "4c291671bb7b8796815f0a7867df37f0825b4e17b6c4d513ac0ab56bfca0a0ad"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "filters": [
+    "black",
+    "white"
+   ]
+  },
+  {
    "id": "glow-x-ray",
    "name": "Glow X-ray",
    "category": "gunpacks",
@@ -173,6 +237,133 @@
    ],
    "filters": [
     "black"
+   ]
+  },
+  {
+   "id": "killa-pink-hologramm",
+   "name": "Killa Pink Hologramm",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/killa-pink-hologramm.jpg?v=7c44e6a3dd",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 70044672,
+       "sha256": "c369dda0275be8fa21d7c37f0dafa00decc7457470ceb1b948b7684039c4de7d",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "c369dda0275be8fa21d7c37f-dlc.rpf",
+         "size": 70044672,
+         "sha256": "c369dda0275be8fa21d7c37f0dafa00decc7457470ceb1b948b7684039c4de7d"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 790746112,
+         "sha256": "616f19edc39fd5621913e2e8d6f8e188448ecf12006f5e087af4512d0d5c7c56",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "616f19edc39fd5621913e2e8-dlc.rpf",
+           "size": 790746112,
+           "sha256": "616f19edc39fd5621913e2e8d6f8e188448ecf12006f5e087af4512d0d5c7c56"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "filters": [
+    "black",
+    "pink"
+   ]
+  },
+  {
+   "id": "killa-silence-gradient",
+   "name": "Killa Silence Gradient",
+   "category": "gunpacks",
+   "publisher": "veybertic601",
+   "description": "",
+   "tags": [],
+   "editions": [
+    "legacy",
+    "enhanced"
+   ],
+   "preview": "previews/killa-silence-gradient.jpg?v=d91cf6f505",
+   "video": null,
+   "audio": [],
+   "variants": [
+    {
+     "id": "default",
+     "name": null,
+     "preview": null,
+     "video": null,
+     "audio": [],
+     "files": [
+      {
+       "target": "update/x64/dlcpacks/patchday18ng/dlc.rpf",
+       "size": 68957184,
+       "sha256": "4b195ec1d901319ab9d53df985dd5a566fe116c673b869ccf74117e9c2072a40",
+       "mustExist": true,
+       "parts": [
+        {
+         "name": "4b195ec1d901319ab9d53df9-dlc.rpf",
+         "size": 68957184,
+         "sha256": "4b195ec1d901319ab9d53df985dd5a566fe116c673b869ccf74117e9c2072a40"
+        }
+       ]
+      }
+     ],
+     "options": [
+      {
+       "id": "revolver",
+       "name": "Револьвер",
+       "files": [
+        {
+         "target": "update/x64/dlcpacks/mpapartment/dlc.rpf",
+         "size": 670873088,
+         "sha256": "1d0d4fc2a9aec66ee3b4a1c5815eda7e4b625e9dafa6718f5cd0529f63eddfc3",
+         "mustExist": true,
+         "parts": [
+          {
+           "name": "1d0d4fc2a9aec66ee3b4a1c5-dlc.rpf",
+           "size": 670873088,
+           "sha256": "1d0d4fc2a9aec66ee3b4a1c5815eda7e4b625e9dafa6718f5cd0529f63eddfc3"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "filters": [
+    "pink"
    ]
   },
   {
