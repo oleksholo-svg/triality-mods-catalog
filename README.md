@@ -2,7 +2,7 @@
 
 Этот репозиторий заполняется автоматически командой `npm run publish-mods`. Вручную здесь ничего менять не нужно.
 
-Модов: 256. Обновлено: 2026-11-15T16:45:48.831Z.
+Модов: 256. Обновлено: 2026-11-16T01:49:00.462Z.
 
 ## sounds
 
@@ -18,28 +18,6 @@
 
 ## gunpacks
 
-- Black Deftones 240
-- Black Sandpaper 240
-- Bones Killa
-- Classic Killa
-- Ghost Killa
-- Ghost v2 Killa
-- Glow X-ray
-- Godmode Killa
-- Killa Archangel
-- Killa Liquid Black
-- Killa Pink Hologramm
-- Killa Silence Gradient
-- Killa White Liquid
-- Lanaykin
-- Lighthouse Killa
-- Marble Killa
-- Nightmare
-- Spider Man v2 240
-- Surface Hardening
-- Twilight Garden 240
-- Untitled Killa
-- Valentines Day Killa
 - 161
 - Black Liquid Skulls 240
 - by Vegas
@@ -73,33 +51,54 @@
 - Usa
 - White by Vayronmods
 - White Liquid Skulls 240
+- Black Deftones 240
+- Black Sandpaper 240
+- Bones Killa
+- Classic Killa
+- Ghost Killa
+- Ghost v2 Killa
+- Glow X-ray
+- Godmode Killa
+- Killa Archangel
+- Killa Liquid Black
+- Killa Pink Hologramm
+- Killa Silence Gradient
+- Killa White Liquid
+- Lanaykin
+- Lighthouse Killa
+- Marble Killa
+- Nightmare
+- Spider Man v2 240
+- Surface Hardening
+- Twilight Garden 240
+- Untitled Killa
+- Valentines Day Killa
 
 ## redux
 
-- Fps Boost Ever 240 v25
-- Gloomy v2
-- Halloween v27 240
-- The Saddest v3
-- Type London by Sinkies
 - Anteiku v2
-- Ayato traur
-- Bakugan redux v2
-- Blink x skye
-- Bublik aura
-- Bublik competitive v2
-- Bublik dark
-- Bublik fps v2
-- Bublik vanila v2
+- Ayato Traur
+- Bakugan v2
+- Blink x Skye
+- Bublik Aura
+- Bublik Competitive v2
+- Bublik Dark
+- Bublik Fps v2
+- Bublik Vanila v2
 - Dissentry
 - Dissentry v2
 - Glek
 - Godmode
 - Monochrome v2
-- Nate. unholly fps boost
+- Nate. Unholly Fps Boost
+- Fps Boost Ever 240 v25
+- Gloomy v2
+- Halloween v27 240
+- The Saddest v3
+- Type London by Sinkies
 
 ## settings
 
-- Maximillian Triality
 - Angel Absolute
 - Ava Absolute
 - Boston Cortez
@@ -161,3 +160,120 @@
 - Yukee -3000MB fps
 - Yukee на графику
 - Yukiko Vex
+- Maximillian Triality
+
+## crosshairs
+
+- Белый 1
+- Белый 2
+- Белый 3
+- Белый 4
+- Белый 5
+- Белый 6
+- Белый 7
+- Белый 8
+- Белый 9
+- Бирюзовый 1
+- Бирюзовый 2
+- Бирюзовый 3
+- Бирюзовый 4
+- Бирюзовый 5
+- Бирюзовый 6
+- Бирюзовый 7
+- Бирюзовый 8
+- Чёрный 1
+- Чёрный 2
+- Чёрный 3
+- Чёрный 4
+- Чёрный 5
+- Чёрный 6
+- Чёрный 7
+- Чёрный 8
+
+## originals
+
+- common
+- mpairraces
+- mpapartment
+- mpassault
+- mpbiker
+- mpchristmas2
+- mpchristmas2017
+- mpchristmas2018
+- mpexecutive
+- mpg9ec
+- mpgunrunning
+- mphalloween
+- mpheist
+- mpheist3
+- mpimportexport
+- mpjanuary2016
+- mplowrider
+- mplowrider2
+- mpluxe
+- mpluxe2
+- mppatchesng
+- mpreplay
+- mpsmuggler
+- mpspecialraces
+- mpstunt
+- mpsum
+- mpsum2
+- mpvalentines2
+- mpvinewood
+- mpxmas_604490
+- patchday10ng
+- patchday11ng
+- patchday12ng
+- patchday13ng
+- patchday14ng
+- patchday15ng
+- patchday16ng
+- patchday17ng
+- patchday18ng
+- patchday19ng
+- patchday1ng
+- patchday20ng
+- patchday21ng
+- patchday22ng
+- patchday23ng
+- patchday24ng
+- patchday25ng
+- patchday26ng
+- patchday27g9ecng
+- patchday27ng
+- patchday28g9ecng
+- patchday2bng
+- patchday2ng
+- patchday3ng
+- patchday4ng
+- patchday5ng
+- patchday6ng
+- patchday7ng
+- patchday8ng
+- patchday9ng
+- patchdayg9ecng
+- update
+- x64a
+- x64b
+- x64c
+- x64d
+- x64e
+- x64f
+- x64g
+- x64h
+- x64i
+- x64j
+- x64k
+- x64l
+- x64m
+- x64n
+- x64o
+- x64p
+- x64q
+- x64r
+- x64s
+- x64t
+- x64u
+- x64v
+- x64w
