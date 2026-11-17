@@ -1,10 +1,10 @@
 {
-  "version": "0.1.34",
-  "name": "TrialityMods-Setup-0.1.34.exe",
-  "size": 136872739,
-  "sha256": "cae38567d22ca8aa0ba8849dda9393baaa34d0883eb740310da79da68c1f9e83",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.34.exe",
-  "notes": "Добавлен белорусский язык\nИнтерфейс и документы полностью переведены на белорусский\nЯзык можно выбрать при первом запуске и в настройках\nДабаўлена беларуская мова\nІнтэрфейс і дакументы цалкам перакладзены на беларускую\nМову можна выбраць пры першым запуску і ў наладах",
-  "date": "2026-11-14T22:51:04.678Z",
+  "version": "0.1.35",
+  "name": "TrialityMods-Setup-0.1.35.exe",
+  "size": 137085805,
+  "sha256": "bbc087e69b6b8a9ecab17940221c7b4fcea0854f1fee7c17b789db93291411eb",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.35.exe",
+  "notes": "3D-осмотр ганпаков: крути каждый ствол пака прямо в программе\nУбран раздел «Оригинальные файлы»",
+  "date": "2026-11-17T00:04:46.732Z",
   "kind": "setup"
 }
