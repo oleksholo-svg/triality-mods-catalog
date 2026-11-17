@@ -1,10 +1,10 @@
 {
-  "version": "0.1.35",
-  "name": "TrialityMods-Setup-0.1.35.exe",
-  "size": 137085805,
-  "sha256": "bbc087e69b6b8a9ecab17940221c7b4fcea0854f1fee7c17b789db93291411eb",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.35.exe",
-  "notes": "3D-осмотр ганпаков: крути каждый ствол пака прямо в программе\nУбран раздел «Оригинальные файлы»",
-  "date": "2026-11-17T00:04:46.732Z",
+  "version": "0.1.36",
+  "name": "TrialityMods-Setup-0.1.36.exe",
+  "size": 137108578,
+  "sha256": "ceb6cbc405a6eade90da85e6edffe9331748f0164b39cf92e1c8fc0c648793ff",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.36.exe",
+  "notes": "3D-осмотр: окно почти во весь экран, ствол крупнее\n3D-модели ближе к игре: рельеф, блики, магазины на стволах",
+  "date": "2026-11-17T01:16:40.829Z",
   "kind": "setup"
 }
