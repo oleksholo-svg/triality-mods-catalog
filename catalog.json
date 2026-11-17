@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-17T00:01:12.969Z",
+ "generatedAt": "2026-11-17T01:12:46.391Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://mods.trialityfamq.com/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -805,48 +805,48 @@
    "models3d": [
     {
      "name": "Assault Rifle",
-     "file": "d1150a3c81332aaf8ded99c5-w_ar_assaultrifle.glb",
+     "file": "d52e7df17428f2ea12ed114b-w_ar_assaultrifle.glb",
      "size": 328868
     },
     {
      "name": "Carbine Rifle",
-     "file": "8a12a7d3fcfb86f9ede62e36-w_ar_carbinerifle.glb",
+     "file": "557d1da3d1b0b3e9f9ccc7cf-w_ar_carbinerifle.glb",
      "size": 395460
     },
     {
      "name": "Heavy Rifle",
-     "file": "a502505f9924d6aec873bce2-w_ar_heavyrifleh.glb",
+     "file": "b5921f96842abf1980f054b2-w_ar_heavyrifleh.glb",
      "size": 513108
     },
     {
      "name": "Special Carbine",
-     "file": "49fcd033975bb4b5e5364e7a-w_ar_specialcarbine.glb",
+     "file": "f45104aa2e5756fdbecdfd63-w_ar_specialcarbine.glb",
      "size": 623456
     },
     {
      "name": "Special Carbine Mk II",
-     "file": "e24ca5e5b3f6a27bb344b975-w_ar_specialcarbinemk2.glb",
+     "file": "e051de1036c03097991cc8e5-w_ar_specialcarbinemk2.glb",
      "size": 428152
     },
     {
      "name": "Combat MG Mk II",
-     "file": "f3193d9486ac1d6957561d68-w_mg_combatmgmk2.glb",
-     "size": 539268
+     "file": "a7e9a40686f50a911c02607a-w_mg_combatmgmk2.glb",
+     "size": 539264
     },
     {
      "name": "Mini SMG",
-     "file": "6fbf982b16ce268ae61ba5b8-w_sb_minismg.glb",
+     "file": "a16fa6db361d861681eebe19-w_sb_minismg.glb",
      "size": 325440
     },
     {
      "name": "Assault Shotgun",
-     "file": "8b07df6676ea84f911547e00-w_sg_assaultshotgun.glb",
-     "size": 326948
+     "file": "b9b73e6aec9b1b607d9ac953-w_sg_assaultshotgun.glb",
+     "size": 326944
     },
     {
      "name": "Heavy Shotgun",
-     "file": "cfd45155340a28191db3d9c3-w_sg_heavyshotgun.glb",
-     "size": 375596
+     "file": "652f169578de7bf10341ead4-w_sg_heavyshotgun.glb",
+     "size": 376708
     }
    ],
    "filters": [
@@ -915,28 +915,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "98ccc9248156b859d80d10f1-w_ar_carbinerifle.glb",
-     "size": 3160280
+     "file": "2ed6e27d99e194716092ae7d-w_ar_carbinerifle.glb",
+     "size": 3138084
     },
     {
      "name": "Special Carbine",
-     "file": "979ef1ef64e4c98acd5302c1-w_ar_specialcarbine.glb",
-     "size": 2631288
+     "file": "fc35f960eb1183f08807c230-w_ar_specialcarbine.glb",
+     "size": 3368192
     },
     {
      "name": "Heavy Revolver",
-     "file": "e60f11e668b71c13d3512560-w_pi_revolver.glb",
-     "size": 1827876
+     "file": "95129e7cace8594f31c29509-w_pi_revolver.glb",
+     "size": 2157428
     },
     {
      "name": "Mini SMG",
-     "file": "d7a02481efc8447cef6836c3-w_sb_minismg.glb",
-     "size": 2032228
+     "file": "4ac30b0cf01cd2f10bdf623e-w_sb_minismg.glb",
+     "size": 2589616
     },
     {
      "name": "Assault Shotgun",
-     "file": "a472e2b9f2bc4020c407d0f1-w_sg_assaultshotgun.glb",
-     "size": 3718900
+     "file": "7a7b97ce89c011dc82d91f12-w_sg_assaultshotgun.glb",
+     "size": 4547304
     }
    ],
    "filters": [
@@ -986,18 +986,18 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "66ec83c150350c3248234855-w_ar_carbinerifle.glb",
-     "size": 1125016
+     "file": "e9fcc0c096ccb4d957726377-w_ar_carbinerifle.glb",
+     "size": 1120356
     },
     {
      "name": "Special Carbine",
-     "file": "2e5b9e930efee7607a7a48f0-w_ar_specialcarbine.glb",
-     "size": 717928
+     "file": "abb465bbe404f34e78f56b89-w_ar_specialcarbine.glb",
+     "size": 714200
     },
     {
      "name": "Mini SMG",
-     "file": "bc07769b5b491265de8f80ee-w_sb_minismg.glb",
-     "size": 919340
+     "file": "f7b07fc89c20a484788b190a-w_sb_minismg.glb",
+     "size": 914400
     }
    ],
    "filters": [
@@ -1046,38 +1046,38 @@
    "models3d": [
     {
      "name": "Heavy Rifle",
-     "file": "4e29f04b78fb9f3c658b9b87-w_ar_heavyrifleh.glb",
-     "size": 1429032
+     "file": "34050490e5faa3c26b642bc9-w_ar_heavyrifleh.glb",
+     "size": 1392684
     },
     {
      "name": "Special Carbine Mk II",
-     "file": "b536587d257dd2861fc0355d-w_ar_specialcarbinemk2.glb",
-     "size": 1268980
+     "file": "db62c6ada63eb8df94597530-w_ar_specialcarbinemk2.glb",
+     "size": 1718156
     },
     {
      "name": "Combat MG Mk II",
-     "file": "c52bca47512a3ee6c16c7ece-w_mg_combatmgmk2.glb",
-     "size": 1583040
+     "file": "b0c96a81d50603f4e1c69a79-w_mg_combatmgmk2.glb",
+     "size": 2192280
     },
     {
      "name": "Assault Shotgun",
-     "file": "41d3e4795215d57c7bd62ced-w_sg_assaultshotgun.glb",
-     "size": 1239164
+     "file": "e4055d826561d3f003dc0726-w_sg_assaultshotgun.glb",
+     "size": 1659816
     },
     {
      "name": "Heavy Shotgun",
-     "file": "152a4bbde94904dd2cd01f95-w_sg_heavyshotgun.glb",
-     "size": 1192736
+     "file": "8368dbb4bdd6e9f0ae6df4b6-w_sg_heavyshotgun.glb",
+     "size": 1520496
     },
     {
      "name": "Heavy Sniper Mk II",
-     "file": "350b33dc1d165baa6f961cd5-w_sr_heavysnipermk2.glb",
-     "size": 1207768
+     "file": "c90ddb52572b0bc29253e094-w_sr_heavysnipermk2.glb",
+     "size": 1464508
     },
     {
      "name": "Marksman Rifle Mk II",
-     "file": "5ee3cdd677d1ab6da0299655-w_sr_marksmanriflemk2.glb",
-     "size": 1144436
+     "file": "d678d6b189bf39f81e2c9437-w_sr_marksmanriflemk2.glb",
+     "size": 1615916
     }
    ],
    "filters": [
@@ -1146,28 +1146,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "9a7952b5b6b2b20753238f7d-w_ar_carbinerifle.glb",
-     "size": 2726472
+     "file": "5b5f2ad8c410857ec252f146-w_ar_carbinerifle.glb",
+     "size": 4926632
     },
     {
      "name": "Special Carbine",
-     "file": "91049e8e0a14a3241193f865-w_ar_specialcarbine.glb",
-     "size": 1405284
+     "file": "5a2621a98251be86ed040aa0-w_ar_specialcarbine.glb",
+     "size": 3903008
     },
     {
      "name": "Heavy Revolver",
-     "file": "68144c31f90a2705a75ba762-w_pi_revolver.glb",
-     "size": 1799468
+     "file": "f64846739e891af4a79b71b2-w_pi_revolver.glb",
+     "size": 3366036
     },
     {
      "name": "Mini SMG",
-     "file": "8d0c79007552dcf0ebd0984a-w_sb_minismg.glb",
-     "size": 1051648
+     "file": "6d130543ab48e262553ee03c-w_sb_minismg.glb",
+     "size": 3196284
     },
     {
      "name": "Assault Shotgun",
-     "file": "5f7ddb29d13c92de68897163-w_sg_assaultshotgun.glb",
-     "size": 988652
+     "file": "fe34331cc9b79f00caa88e53-w_sg_assaultshotgun.glb",
+     "size": 3314688
     }
    ],
    "filters": [
@@ -1237,48 +1237,48 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "8ebae8dba1e63b0e2d0c4536-w_ar_carbinerifle.glb",
-     "size": 687036
+     "file": "f29b8a263e10392ddd0a77c6-w_ar_carbinerifle.glb",
+     "size": 747912
     },
     {
      "name": "Heavy Rifle",
-     "file": "c02695bdd2d91f615c3af562-w_ar_heavyrifleh.glb",
-     "size": 913432
+     "file": "8b22fa091e864dd501d3255b-w_ar_heavyrifleh.glb",
+     "size": 905892
     },
     {
      "name": "Special Carbine",
-     "file": "fd2134a1a0599d1cb6253ba9-w_ar_specialcarbine.glb",
-     "size": 815824
+     "file": "f687d11235917f9cc6519129-w_ar_specialcarbine.glb",
+     "size": 817572
     },
     {
      "name": "Special Carbine Mk II",
-     "file": "0cc51f388fbf0cdefb6afbc5-w_ar_specialcarbinemk2.glb",
-     "size": 619560
+     "file": "ce9dae499583c7967faeb4fd-w_ar_specialcarbinemk2.glb",
+     "size": 703508
     },
     {
      "name": "Combat MG Mk II",
-     "file": "dac0c64c1089fd59792ba79d-w_mg_combatmgmk2.glb",
-     "size": 798852
+     "file": "e645ce09515f93f4af4d8b0a-w_mg_combatmgmk2.glb",
+     "size": 874372
     },
     {
      "name": "Heavy Revolver",
-     "file": "4f9e1e71895c81b906984b7e-w_pi_revolver.glb",
-     "size": 325004
+     "file": "8f2122e6ac2cf38d5d0f675d-w_pi_revolver.glb",
+     "size": 322232
     },
     {
      "name": "Mini SMG",
-     "file": "5f392463b288de2f5bf2dfc6-w_sb_minismg.glb",
-     "size": 390136
+     "file": "675d034eb497abbcbc0a6188-w_sb_minismg.glb",
+     "size": 433856
     },
     {
      "name": "Assault Shotgun",
-     "file": "98393ed31c995115d4d59578-w_sg_assaultshotgun.glb",
-     "size": 340616
+     "file": "010f2cfe991cf42d0ab1287b-w_sg_assaultshotgun.glb",
+     "size": 386724
     },
     {
      "name": "Heavy Shotgun",
-     "file": "3a28d4335ee5b409af112882-w_sg_heavyshotgun.glb",
-     "size": 561516
+     "file": "60b5a3ad69cee2ec9608cc84-w_sg_heavyshotgun.glb",
+     "size": 609268
     }
    ],
    "filters": [
@@ -1327,23 +1327,23 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "a76d7e7330a14b915f3a2caa-w_ar_carbinerifle.glb",
-     "size": 8011780
+     "file": "d5d8b5e1f0a5335b68ac4f62-w_ar_carbinerifle.glb",
+     "size": 7481996
     },
     {
      "name": "Special Carbine",
-     "file": "54138c47ffa478f3420d89ee-w_ar_specialcarbine.glb",
-     "size": 8506520
+     "file": "ff32424c84e125c4d98149ca-w_ar_specialcarbine.glb",
+     "size": 7931180
     },
     {
      "name": "Mini SMG",
-     "file": "bc2b5dcb7201345b907c7703-w_sb_minismg.glb",
-     "size": 7670764
+     "file": "157701c43c50d6fae2b78eae-w_sb_minismg.glb",
+     "size": 7154560
     },
     {
      "name": "Assault Shotgun",
-     "file": "d83bf8e3a95ad4bc4f146b7a-w_sg_assaultshotgun.glb",
-     "size": 8461764
+     "file": "a642bddf4f8fe18623820ffe-w_sg_assaultshotgun.glb",
+     "size": 7883320
     }
    ],
    "filters": [
@@ -1414,28 +1414,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "7ea67896ca9de30fb73e175f-w_ar_carbinerifle.glb",
-     "size": 2834760
+     "file": "4198f26777ef0862c836fab0-w_ar_carbinerifle.glb",
+     "size": 3896792
     },
     {
      "name": "Special Carbine",
-     "file": "05152673a7215a84adfee808-w_ar_specialcarbine.glb",
-     "size": 2519312
+     "file": "93cb4e5d188cf14e2a1f85bf-w_ar_specialcarbine.glb",
+     "size": 2998128
     },
     {
      "name": "Heavy Revolver",
-     "file": "82903e925057eb1b482dcd5a-w_pi_revolver.glb",
-     "size": 1066116
+     "file": "aee55aa8b735c07b6e689bb2-w_pi_revolver.glb",
+     "size": 1425876
     },
     {
      "name": "Mini SMG",
-     "file": "cd24bfb2baf4229d3846f129-w_sb_minismg.glb",
-     "size": 1384940
+     "file": "b55220fa4f386b3fefdd1196-w_sb_minismg.glb",
+     "size": 1816588
     },
     {
      "name": "Assault Shotgun",
-     "file": "80fad78da92947d84842a1df-w_sg_assaultshotgun.glb",
-     "size": 2067532
+     "file": "5f185c041bfbba4268079ed4-w_sg_assaultshotgun.glb",
+     "size": 2528180
     }
    ],
    "filters": [
@@ -1504,28 +1504,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "13f323a3596569cc4f9a7c9e-w_ar_carbinerifle.glb",
-     "size": 6940772
+     "file": "f4d6dd9c17da757d6c5056af-w_ar_carbinerifle.glb",
+     "size": 6903984
     },
     {
      "name": "Special Carbine",
-     "file": "e62c0829115d85782565f8e8-w_ar_specialcarbine.glb",
-     "size": 3242372
+     "file": "11fbd97fb6a837ecffe921d8-w_ar_specialcarbine.glb",
+     "size": 4017560
     },
     {
      "name": "Heavy Revolver",
-     "file": "3db7e277936ef2110d273be9-w_pi_revolver.glb",
-     "size": 2469084
+     "file": "631552e8b84b59af1e0a0bfe-w_pi_revolver.glb",
+     "size": 2778612
     },
     {
      "name": "Mini SMG",
-     "file": "75ee14944df89eeff2c0e569-w_sb_minismg.glb",
-     "size": 2016976
+     "file": "8f1575d37e698993bf61d571-w_sb_minismg.glb",
+     "size": 3066100
     },
     {
      "name": "Assault Shotgun",
-     "file": "0a95b3947f9c0c303c27b703-w_sg_assaultshotgun.glb",
-     "size": 5111808
+     "file": "1b3541fe11be7fd9f30e6299-w_sg_assaultshotgun.glb",
+     "size": 7196244
     }
    ],
    "filters": [
@@ -1608,303 +1608,303 @@
    "models3d": [
     {
      "name": "Advanced Rifle",
-     "file": "5a0ecfae05d482947a721dc1-w_ar_advancedrifle.glb",
-     "size": 677020
+     "file": "571aab8ac5812bab0d860f99-w_ar_advancedrifle.glb",
+     "size": 842684
     },
     {
      "name": "Advanced Rifle Luxe",
-     "file": "f03e08008e3794b2c46c4a6d-w_ar_advancedrifle_luxe.glb",
-     "size": 423560
+     "file": "cd0de93aaa7747519a1e0b46-w_ar_advancedrifle_luxe.glb",
+     "size": 601064
     },
     {
      "name": "Assault Rifle",
-     "file": "427c855bbae3f431f26aa4be-w_ar_assaultrifle.glb",
-     "size": 1564932
+     "file": "826184fe6a95f029687a0148-w_ar_assaultrifle.glb",
+     "size": 2383348
     },
     {
      "name": "Assault Rifle Luxe",
-     "file": "431f88fee20d29b24ffdda62-w_ar_assaultrifle_luxe.glb",
-     "size": 1253964
+     "file": "09903fffb028734ae887b954-w_ar_assaultrifle_luxe.glb",
+     "size": 2119960
     },
     {
      "name": "Bullpup Rifle",
-     "file": "33e8c0c5970f56e95848e8da-w_ar_bullpuprifle.glb",
-     "size": 792680
+     "file": "08fbb741a7fe0ba339d9ba0d-w_ar_bullpuprifle.glb",
+     "size": 1195348
     },
     {
      "name": "Bullpup Rifle Luxe",
-     "file": "2720a752862b5513db0b509f-w_ar_bullpuprifle_luxe.glb",
-     "size": 617952
+     "file": "242bcacddf7747ab07e4f805-w_ar_bullpuprifle_luxe.glb",
+     "size": 1058340
     },
     {
      "name": "Carbine Rifle",
-     "file": "7871f9d0a5b61fc1623dc1f8-w_ar_carbinerifle.glb",
-     "size": 1494116
+     "file": "6b82e2802af407d37de138e9-w_ar_carbinerifle.glb",
+     "size": 1815240
     },
     {
      "name": "Carbine Rifle Luxe",
-     "file": "6f63467110d67d973d186776-w_ar_carbinerifle_luxe.glb",
-     "size": 1164260
+     "file": "bd37f9e9fab2a8cff4aede21-w_ar_carbinerifle_luxe.glb",
+     "size": 1720736
     },
     {
      "name": "Musket",
-     "file": "24fc818c27e0a49deae5d597-w_ar_musket.glb",
-     "size": 672076
+     "file": "476975eee07f60da88a6247f-w_ar_musket.glb",
+     "size": 852032
     },
     {
      "name": "Railgun",
-     "file": "327a142c4a5c3dbbb68b7aec-w_ar_railgun.glb",
-     "size": 981628
+     "file": "087a2dc0f68a224f5e0f9879-w_ar_railgun.glb",
+     "size": 1132336
     },
     {
      "name": "Special Carbine",
-     "file": "34419f3f6fbfe07c1c35206c-w_ar_specialcarbine.glb",
-     "size": 1045488
+     "file": "c90995f4a08310b49519f890-w_ar_specialcarbine.glb",
+     "size": 1395924
     },
     {
      "name": "Special Carbine Luxe",
-     "file": "b3637d8a7b5128b50eb2b837-w_ar_specialcarbine_luxe.glb",
-     "size": 561204
+     "file": "3a19b383009571a64ca8b330-w_ar_specialcarbine_luxe.glb",
+     "size": 962412
     },
     {
      "name": "Firework Launcher",
-     "file": "6e83b9b7beb3b7e2fc7e6a7e-w_lr_firework.glb",
-     "size": 1224000
+     "file": "1121531408a76e9901a73a0d-w_lr_firework.glb",
+     "size": 1512880
     },
     {
      "name": "Grenade Launcher",
-     "file": "59b77a882a726ccee9310737-w_lr_grenadelauncher.glb",
-     "size": 812656
+     "file": "dea1a7be2635344660d557a6-w_lr_grenadelauncher.glb",
+     "size": 959608
     },
     {
      "name": "Homing Launcher",
-     "file": "bf7269d0de4410a4fd9c5e09-w_lr_homing.glb",
-     "size": 972004
+     "file": "5fcad6e3e861af3924196bb7-w_lr_homing.glb",
+     "size": 1094560
     },
     {
      "name": "RPG",
-     "file": "cbe24188da4cda3033d0bf7e-w_lr_rpg.glb",
-     "size": 1462416
+     "file": "5a76b79b80dd44c10eb60a3e-w_lr_rpg.glb",
+     "size": 1824832
     },
     {
      "name": "Combat MG",
-     "file": "7acf3865799d50af8b87f558-w_mg_combatmg.glb",
-     "size": 1542924
+     "file": "d65d0ed88e8c56d0f62e2601-w_mg_combatmg.glb",
+     "size": 2209328
     },
     {
      "name": "Combat MG Luxe",
-     "file": "f09b347ea55d18b188051470-w_mg_combatmg_luxe.glb",
-     "size": 1126684
+     "file": "a4e0601297481f31577f8bb5-w_mg_combatmg_luxe.glb",
+     "size": 1818820
     },
     {
      "name": "MG",
-     "file": "6c1b98aa7553b78251dbaa9b-w_mg_mg.glb",
-     "size": 1494564
+     "file": "34df97de5a51d84adc5fe78f-w_mg_mg.glb",
+     "size": 2013788
     },
     {
      "name": "MG Luxe",
-     "file": "91c97425f100021c9a36d7e0-w_mg_mg_luxe.glb",
-     "size": 1355708
+     "file": "95fa6b0115b47f5841e7de91-w_mg_mg_luxe.glb",
+     "size": 1981892
     },
     {
      "name": "Minigun",
-     "file": "fdeae325127511b96010c497-w_mg_minigun.glb",
-     "size": 1165448
+     "file": "5d64de939e6b88054b9e6c0b-w_mg_minigun.glb",
+     "size": 1400776
     },
     {
      "name": "AP Pistol",
-     "file": "2caf34c485ae22d161e021a8-w_pi_appistol.glb",
-     "size": 1063380
+     "file": "44527dbf7dec0a9500b26268-w_pi_appistol.glb",
+     "size": 1469996
     },
     {
      "name": "AP Pistol Luxe",
-     "file": "84a5a9ac2d510812c49e730e-w_pi_appistol_luxe.glb",
-     "size": 730564
+     "file": "bc809a2e16ebe59990df9673-w_pi_appistol_luxe.glb",
+     "size": 990988
     },
     {
      "name": "Combat Pistol",
-     "file": "11e74c8272246e74f6ce9743-w_pi_combatpistol.glb",
-     "size": 711376
+     "file": "c5a62d4043fd99756dcfaa74-w_pi_combatpistol.glb",
+     "size": 966992
     },
     {
      "name": "Combat Pistol Luxe",
-     "file": "b0ed923f8692b52a8222e4df-w_pi_combatpistol_luxe.glb",
-     "size": 534860
+     "file": "2c06137c3b62386bd2d60cc7-w_pi_combatpistol_luxe.glb",
+     "size": 835372
     },
     {
      "name": "Flare Gun",
-     "file": "db1e27ee8d73c86132f4f918-w_pi_flaregun.glb",
-     "size": 314316
+     "file": "34f126721c4c0fa1ca2c7916-w_pi_flaregun.glb",
+     "size": 491224
     },
     {
      "name": "Heavy Pistol",
-     "file": "8397924ff879959bbb87644e-w_pi_heavypistol.glb",
-     "size": 1033076
+     "file": "f8d63c84084675442bf634be-w_pi_heavypistol.glb",
+     "size": 1432288
     },
     {
      "name": "Heavy Pistol Luxe",
-     "file": "fad5cd527f5adabfa74571a6-w_pi_heavypistol_luxe.glb",
-     "size": 812660
+     "file": "b060612ddb6e8423b27587e2-w_pi_heavypistol_luxe.glb",
+     "size": 1302316
     },
     {
      "name": "Pistol",
-     "file": "9f7a664fcbc7e5fa7c7d6cb7-w_pi_pistol.glb",
-     "size": 1309016
+     "file": "644a9adc8b926b7b0f9d5aaa-w_pi_pistol.glb",
+     "size": 1776036
     },
     {
      "name": "Pistol .50",
-     "file": "00da6f351fa566fee4dfdf26-w_pi_pistol50.glb",
-     "size": 1012524
+     "file": "5d37049477a832d0c36b34f5-w_pi_pistol50.glb",
+     "size": 1294500
     },
     {
      "name": "Pistol .50 Luxe",
-     "file": "8284ae9e906e7f37e94304bc-w_pi_pistol50_luxe.glb",
-     "size": 888112
+     "file": "a1c2afefb06c5099c221b954-w_pi_pistol50_luxe.glb",
+     "size": 1118704
     },
     {
      "name": "Pistol Luxe",
-     "file": "b9ceeb776f8d40be8fb785ba-w_pi_pistol_luxe.glb",
-     "size": 1159608
+     "file": "4e62546169c7d5157dea5c37-w_pi_pistol_luxe.glb",
+     "size": 1690756
     },
     {
      "name": "Heavy Revolver",
-     "file": "b7c73008c46218493d6acdaa-w_pi_revolver.glb",
-     "size": 970344
+     "file": "5c18731022f6cf85dab3a3c4-w_pi_revolver.glb",
+     "size": 1096660
     },
     {
      "name": "Compact Grenade Launcher",
-     "file": "9583e61f84b7e024d07632fd-w_pi_singleshot.glb",
-     "size": 1087780
+     "file": "3800f054ccba9b72212719f4-w_pi_singleshot.glb",
+     "size": 1427692
     },
     {
      "name": "SNS Pistol",
-     "file": "8f88a1162ea2c7120d72b546-w_pi_sns_pistol.glb",
-     "size": 1038444
+     "file": "94706dde1b072e0b68c0b50d-w_pi_sns_pistol.glb",
+     "size": 1356628
     },
     {
      "name": "SNS Pistol Luxe",
-     "file": "51fa487ef7306439d8fae287-w_pi_sns_pistol_luxe.glb",
-     "size": 890768
+     "file": "5b001f3bae78abbc6d6aac01-w_pi_sns_pistol_luxe.glb",
+     "size": 1222984
     },
     {
      "name": "Stun Gun",
-     "file": "bd5016c42c317a9d4677b378-w_pi_stungun.glb",
-     "size": 2273448
+     "file": "bb17a834737b1562b820c3d3-w_pi_stungun.glb",
+     "size": 2416052
     },
     {
      "name": "Vintage Pistol",
-     "file": "f68c28fafec5cafc4c245de1-w_pi_vintage_pistol.glb",
-     "size": 593280
+     "file": "6172a75bb31c989814b81b3d-w_pi_vintage_pistol.glb",
+     "size": 858256
     },
     {
      "name": "Assault SMG",
-     "file": "adf26bd70bb2398b82f1a988-w_sb_assaultsmg.glb",
-     "size": 1285584
+     "file": "6668f879ea87982d07712fac-w_sb_assaultsmg.glb",
+     "size": 1584728
     },
     {
      "name": "Assault SMG Luxe",
-     "file": "34f8306882664a1951f8d448-w_sb_assaultsmg_luxe.glb",
-     "size": 997280
+     "file": "b720563f0c2b89bba708686b-w_sb_assaultsmg_luxe.glb",
+     "size": 1466536
     },
     {
      "name": "Compact SMG",
-     "file": "276124c78adc59f6d99c6c55-w_sb_compactsmg.glb",
-     "size": 1294100
+     "file": "5520da2eefe229daf914d48a-w_sb_compactsmg.glb",
+     "size": 1834680
     },
     {
      "name": "Gusenberg Sweeper",
-     "file": "e71035307d914c3567f0be84-w_sb_gusenberg.glb",
-     "size": 1003748
+     "file": "46d2742a206b0e517995dfb3-w_sb_gusenberg.glb",
+     "size": 1300100
     },
     {
      "name": "Micro SMG",
-     "file": "665bfb8cdd464c92cf37d97a-w_sb_microsmg.glb",
-     "size": 1230532
+     "file": "ef38d31b9df85eb92159e437-w_sb_microsmg.glb",
+     "size": 1497636
     },
     {
      "name": "Micro SMG Luxe",
-     "file": "b4c28b0604e209a1ca5cf7e1-w_sb_microsmg_luxe.glb",
-     "size": 613032
+     "file": "3b6f00bbcae86e1efaf137ae-w_sb_microsmg_luxe.glb",
+     "size": 834032
     },
     {
      "name": "Mini SMG",
-     "file": "9cc8663f6d747fbcf76d8c16-w_sb_minismg.glb",
-     "size": 908732
+     "file": "6c150c68e3c4b6980adcc24a-w_sb_minismg.glb",
+     "size": 1749204
     },
     {
      "name": "Combat PDW",
-     "file": "bbb1b05a9fc4ff727ee8e5ca-w_sb_pdw.glb",
-     "size": 553168
+     "file": "4da74740b29fc267ed111fa5-w_sb_pdw.glb",
+     "size": 1091220
     },
     {
      "name": "SMG",
-     "file": "8430273d2ed25ed2bc7ec299-w_sb_smg.glb",
-     "size": 1239224
+     "file": "21c40b483fae63c15ac70476-w_sb_smg.glb",
+     "size": 1622460
     },
     {
      "name": "SMG Luxe",
-     "file": "4a2c7e1196c12ed8c5efe804-w_sb_smg_luxe.glb",
-     "size": 886064
+     "file": "e0d035fbf0929c26b630f709-w_sb_smg_luxe.glb",
+     "size": 1384536
     },
     {
      "name": "Assault Shotgun",
-     "file": "109703b374994b1b85cf3239-w_sg_assaultshotgun.glb",
-     "size": 1002644
+     "file": "6a6e97af27f85cb49d81d38b-w_sg_assaultshotgun.glb",
+     "size": 1560880
     },
     {
      "name": "Bullpup Shotgun",
-     "file": "1a5359ce618d6d1cab0af9b5-w_sg_bullpupshotgun.glb",
-     "size": 804016
+     "file": "7093661aaf3e5b80ea19445a-w_sg_bullpupshotgun.glb",
+     "size": 924808
     },
     {
      "name": "Heavy Shotgun",
-     "file": "63b31d237e6e977aeb8eb8d1-w_sg_heavyshotgun.glb",
-     "size": 1231488
+     "file": "e97d0042e3861ce035cfa93c-w_sg_heavyshotgun.glb",
+     "size": 1560780
     },
     {
      "name": "Pump Shotgun",
-     "file": "85f21ad395bfae447dd9bb52-w_sg_pumpshotgun.glb",
-     "size": 1349236
+     "file": "91941173edd401a58242ca2b-w_sg_pumpshotgun.glb",
+     "size": 1944884
     },
     {
      "name": "Pump Shotgun Luxe",
-     "file": "1ec832a40cc0a56408af1038-w_sg_pumpshotgun_luxe.glb",
-     "size": 998436
+     "file": "4930b71743d7d2b91b16ba84-w_sg_pumpshotgun_luxe.glb",
+     "size": 1661180
     },
     {
      "name": "Sawed-Off Shotgun",
-     "file": "3f6ebca8e6b11129f2ad1767-w_sg_sawnoff.glb",
-     "size": 1062940
+     "file": "99b2361c27ed73748e8ace7b-w_sg_sawnoff.glb",
+     "size": 1289556
     },
     {
      "name": "Sawed-Off Shotgun Luxe",
-     "file": "c0f4ab15783f09f6d340f37f-w_sg_sawnoff_luxe.glb",
-     "size": 619656
+     "file": "e03f10b708efebc3ae5ec2d8-w_sg_sawnoff_luxe.glb",
+     "size": 932892
     },
     {
      "name": "Heavy Sniper",
-     "file": "28fc7ce39847952a436a7a3e-w_sr_heavysniper.glb",
-     "size": 635536
+     "file": "e2f4c55005f3c7aeaa1db010-w_sr_heavysniper.glb",
+     "size": 848400
     },
     {
      "name": "Marksman Rifle",
-     "file": "15d68266fe92a1baef53d406-w_sr_marksmanrifle.glb",
-     "size": 1322596
+     "file": "2b623c9b3dff0066638249e6-w_sr_marksmanrifle.glb",
+     "size": 1655480
     },
     {
      "name": "Marksman Rifle Luxe",
-     "file": "28fbc0bdbe739e697252d817-w_sr_marksmanrifle_luxe.glb",
-     "size": 940612
+     "file": "045de7bc1d0ff9c15d46923c-w_sr_marksmanrifle_luxe.glb",
+     "size": 1286588
     },
     {
      "name": "Sniper Rifle",
-     "file": "ae037ca39042f240fa53a961-w_sr_sniperrifle.glb",
-     "size": 861124
+     "file": "faf04a95d601900905d8c8e8-w_sr_sniperrifle.glb",
+     "size": 1063908
     },
     {
      "name": "Sniper Rifle Luxe",
-     "file": "991d51ce7ac2ea1daee72412-w_sr_sniperrifle_luxe.glb",
-     "size": 635344
+     "file": "eec5ef6ff7d6d75a90b29106-w_sr_sniperrifle_luxe.glb",
+     "size": 777724
     }
    ],
    "filters": [
@@ -1953,18 +1953,18 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "c2fec53577371635251adb48-w_ar_carbinerifle.glb",
-     "size": 979664
+     "file": "f4d64669d8e4e9261f861af9-w_ar_carbinerifle.glb",
+     "size": 1268920
     },
     {
      "name": "Special Carbine",
-     "file": "fdeba7df23e0230b246b9656-w_ar_specialcarbine.glb",
-     "size": 683228
+     "file": "b0c3ad90169b4fed61ade90a-w_ar_specialcarbine.glb",
+     "size": 955916
     },
     {
      "name": "Mini SMG",
-     "file": "8944d31359fbc2fb11f64e22-w_sb_minismg.glb",
-     "size": 912792
+     "file": "7c985006280e47873359c7f2-w_sb_minismg.glb",
+     "size": 1177660
     }
    ],
    "filters": [
@@ -2033,28 +2033,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "0053d164e85706cb89622cdc-w_ar_carbinerifle.glb",
-     "size": 1322524
+     "file": "6c23227356a82c0abd05129f-w_ar_carbinerifle.glb",
+     "size": 1310148
     },
     {
      "name": "Special Carbine",
-     "file": "66dfef66b71544777f17f3fb-w_ar_specialcarbine.glb",
-     "size": 1763792
+     "file": "31c80bbebb5480a3f0d9ebbb-w_ar_specialcarbine.glb",
+     "size": 1749104
     },
     {
      "name": "Heavy Revolver",
-     "file": "0d0b43b6e80923585db8036f-w_pi_revolver.glb",
-     "size": 879960
+     "file": "49cf7a362ddb2b20f4ba7fda-w_pi_revolver.glb",
+     "size": 857220
     },
     {
      "name": "Mini SMG",
-     "file": "8e07011d42864a4d30631153-w_sb_minismg.glb",
-     "size": 981592
+     "file": "2419a02373c3fbfad27b729d-w_sb_minismg.glb",
+     "size": 973220
     },
     {
      "name": "Assault Shotgun",
-     "file": "02a25e4f51319b6dca033f3e-w_sg_assaultshotgun.glb",
-     "size": 1482820
+     "file": "69220f550c648ce7799e41d5-w_sg_assaultshotgun.glb",
+     "size": 1465524
     }
    ],
    "filters": [
@@ -2124,43 +2124,43 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "3b2c028a2ac8550b2d77ab99-w_ar_carbinerifle.glb",
-     "size": 2300696
+     "file": "ae561f23dd948cf9220d8072-w_ar_carbinerifle.glb",
+     "size": 2364820
     },
     {
      "name": "Heavy Rifle",
-     "file": "a8e58983281c03f4ec2b8130-w_ar_heavyrifleh.glb",
-     "size": 1753716
+     "file": "4f4c818c1e1083771294cc25-w_ar_heavyrifleh.glb",
+     "size": 1752216
     },
     {
      "name": "Special Carbine",
-     "file": "307e51f90a9f99a6157f53c3-w_ar_specialcarbine.glb",
-     "size": 2569480
+     "file": "279f7659cd08dfd58820d0e7-w_ar_specialcarbine.glb",
+     "size": 3159012
     },
     {
      "name": "Combat MG Mk II",
-     "file": "0132f7bba9dd07d096316390-w_mg_combatmgmk2.glb",
-     "size": 1987972
+     "file": "47300ae9b4c13c3da3dddfc5-w_mg_combatmgmk2.glb",
+     "size": 2054332
     },
     {
      "name": "Heavy Revolver",
-     "file": "cfd6c1e9cbcdc9a183b757b8-w_pi_revolver.glb",
-     "size": 1228380
+     "file": "73bb0bcccac1d73f3df9ceb6-w_pi_revolver.glb",
+     "size": 1228140
     },
     {
      "name": "Mini SMG",
-     "file": "9fd4b85fb476e18a581750f5-w_sb_minismg.glb",
-     "size": 839180
+     "file": "eae8fae1316e1bfbd6db69c9-w_sb_minismg.glb",
+     "size": 893084
     },
     {
      "name": "Assault Shotgun",
-     "file": "d28e91732db2617dbdc4fdc9-w_sg_assaultshotgun.glb",
-     "size": 1656688
+     "file": "c4f562cf5e0ca3da377f6879-w_sg_assaultshotgun.glb",
+     "size": 1805936
     },
     {
      "name": "Heavy Shotgun",
-     "file": "0f42c9163443b907ae6b5305-w_sg_heavyshotgun.glb",
-     "size": 1656656
+     "file": "321766b870a29e469246d25f-w_sg_heavyshotgun.glb",
+     "size": 1805904
     }
    ],
    "filters": [
@@ -2210,28 +2210,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "138af942f8aefd90910ccbc7-w_ar_carbinerifle.glb",
-     "size": 2623392
+     "file": "91fccbe8422baaf8029fe03d-w_ar_carbinerifle.glb",
+     "size": 3439596
     },
     {
      "name": "Special Carbine",
-     "file": "54525e62dd8818236a410e07-w_ar_specialcarbine.glb",
-     "size": 3978688
+     "file": "0d5c9103641d11e01db80595-w_ar_specialcarbine.glb",
+     "size": 5471816
     },
     {
      "name": "Heavy Revolver",
-     "file": "f23dd772acb1475f9a15c1dd-w_pi_revolver.glb",
-     "size": 2328028
+     "file": "43a585e7f6c9211900155660-w_pi_revolver.glb",
+     "size": 3333556
     },
     {
      "name": "Mini SMG",
-     "file": "c4bc336ba6a4e37e92b91f78-w_sb_minismg.glb",
-     "size": 2490792
+     "file": "7507dfff8ca1b5d38ff6d0dd-w_sb_minismg.glb",
+     "size": 3272612
     },
     {
      "name": "Assault Shotgun",
-     "file": "4975fedea79e27476748d723-w_sg_assaultshotgun.glb",
-     "size": 3207808
+     "file": "ad61ab0159f7803c9d890229-w_sg_assaultshotgun.glb",
+     "size": 3884056
     }
    ],
    "filters": [
@@ -2280,28 +2280,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "520b2632372704d52fdc3574-w_ar_carbinerifle.glb",
-     "size": 2597684
+     "file": "563f75060d031f1c3d54dddd-w_ar_carbinerifle.glb",
+     "size": 3979904
     },
     {
      "name": "Special Carbine",
-     "file": "1767f962f1fcb5c838fa6a36-w_ar_specialcarbine.glb",
-     "size": 3039556
+     "file": "94ac80665659449842da08ff-w_ar_specialcarbine.glb",
+     "size": 3163548
     },
     {
      "name": "Heavy Revolver",
-     "file": "97aff5bbec9d2b9f0362ad96-w_pi_revolver.glb",
-     "size": 2034688
+     "file": "f38cbe457b6bc2d485bf3637-w_pi_revolver.glb",
+     "size": 2244228
     },
     {
      "name": "Mini SMG",
-     "file": "74e8e4a508c3b06fb3fca7ed-w_sb_minismg.glb",
-     "size": 2362216
+     "file": "d9bc53ad303b9b2bc9b66913-w_sb_minismg.glb",
+     "size": 2967368
     },
     {
      "name": "Assault Shotgun",
-     "file": "a29da6f61247b715953f5150-w_sg_assaultshotgun.glb",
-     "size": 2222864
+     "file": "c3f007416884a47945b93f17-w_sg_assaultshotgun.glb",
+     "size": 4330064
     }
    ],
    "filters": [
@@ -2350,28 +2350,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "aa7766a4c01e446b9e3c7aac-w_ar_carbinerifle.glb",
-     "size": 1573348
+     "file": "5e64925c271994c12dd89833-w_ar_carbinerifle.glb",
+     "size": 1972708
     },
     {
      "name": "Special Carbine",
-     "file": "e001edad87e5cd6a2f6ee3d9-w_ar_specialcarbine.glb",
-     "size": 1532472
+     "file": "b2993dd1b155aff66ce50fc6-w_ar_specialcarbine.glb",
+     "size": 1885584
     },
     {
      "name": "Heavy Revolver",
-     "file": "8338ff58bd9dfce06980a91d-w_pi_revolver.glb",
-     "size": 1193244
+     "file": "cd8a1aed13f2703c90c96026-w_pi_revolver.glb",
+     "size": 1360200
     },
     {
      "name": "Mini SMG",
-     "file": "0236315a8c93622994f688d2-w_sb_minismg.glb",
-     "size": 1638128
+     "file": "85a04eba644e9ee87f6a7d9f-w_sb_minismg.glb",
+     "size": 1718320
     },
     {
      "name": "Assault Shotgun",
-     "file": "0a9bb1a144cda7226d9fbb5c-w_sg_assaultshotgun.glb",
-     "size": 1500604
+     "file": "63d27a8fbcd4557aba9747a6-w_sg_assaultshotgun.glb",
+     "size": 1624496
     }
    ],
    "filters": [
@@ -2421,28 +2421,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "6b46162cb0342a61e810e433-w_ar_carbinerifle.glb",
-     "size": 2445592
+     "file": "12f089463112dc34ec7f32b5-w_ar_carbinerifle.glb",
+     "size": 3337544
     },
     {
      "name": "Special Carbine",
-     "file": "a06878da33f9bb7006fc9dee-w_ar_specialcarbine.glb",
-     "size": 2593300
+     "file": "2d9342ecc3169d32951163b3-w_ar_specialcarbine.glb",
+     "size": 3340756
     },
     {
      "name": "Heavy Revolver",
-     "file": "832426d3c75ef68602a064f4-w_pi_revolver.glb",
-     "size": 1589248
+     "file": "c2ae3cf2be4b0f99aeac36ab-w_pi_revolver.glb",
+     "size": 1493236
     },
     {
      "name": "Mini SMG",
-     "file": "86adb2d2692d0c51412ebcb6-w_sb_minismg.glb",
-     "size": 2664196
+     "file": "7763ae62cdf6289165cd2e35-w_sb_minismg.glb",
+     "size": 3438620
     },
     {
      "name": "Assault Shotgun",
-     "file": "1031b0dcf03e5f30678350c6-w_sg_assaultshotgun.glb",
-     "size": 2600680
+     "file": "eccbd9dab76198ae1e47df01-w_sg_assaultshotgun.glb",
+     "size": 3468844
     }
    ],
    "filters": [
@@ -2512,28 +2512,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "7cebeacdc97e8affbb4bd74c-w_ar_carbinerifle.glb",
-     "size": 1651296
+     "file": "b27d9ef56dae2d2a336f5441-w_ar_carbinerifle.glb",
+     "size": 2320056
     },
     {
      "name": "Special Carbine",
-     "file": "9df74bf26192dc810464631a-w_ar_specialcarbine.glb",
-     "size": 1914244
+     "file": "b829d49cdb5d343e0d3f6c4c-w_ar_specialcarbine.glb",
+     "size": 2614168
     },
     {
      "name": "Heavy Revolver",
-     "file": "b2c17b365872b87995689fcb-w_pi_revolver.glb",
-     "size": 4163724
+     "file": "5f62b3e146c74bd9549d666a-w_pi_revolver.glb",
+     "size": 4063136
     },
     {
      "name": "Mini SMG",
-     "file": "e11487fb39158907b1f2a2d9-w_sb_minismg.glb",
-     "size": 1421632
+     "file": "de2f287409d8d1cef7521949-w_sb_minismg.glb",
+     "size": 1744976
     },
     {
      "name": "Assault Shotgun",
-     "file": "16125e2ffb608ddca746efc1-w_sg_assaultshotgun.glb",
-     "size": 1551504
+     "file": "6c24e5adde03d64e955c50ef-w_sg_assaultshotgun.glb",
+     "size": 1747236
     }
    ],
    "filters": [
@@ -2582,62 +2582,62 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "0c8a0927b1d83338f48f64f8-w_ar_carbinerifle.glb",
-     "size": 2655896
+     "file": "11659819386ce58067a7eabd-w_ar_carbinerifle.glb",
+     "size": 3277668
     },
     {
      "name": "Heavy Rifle",
-     "file": "521704b18c1f56c638dd398f-w_ar_heavyrifleh.glb",
-     "size": 2130160
+     "file": "94ffb37cddffc4ba6a1f9ce4-w_ar_heavyrifleh.glb",
+     "size": 2754732
     },
     {
      "name": "Special Carbine",
-     "file": "778c06a1bb54a00cd01f1fa4-w_ar_specialcarbine.glb",
-     "size": 2690804
+     "file": "07286acbafe6d5245638be7d-w_ar_specialcarbine.glb",
+     "size": 3331268
     },
     {
      "name": "Special Carbine Mk II",
-     "file": "a7bdeaf8514de0436eb4f569-w_ar_specialcarbinemk2.glb",
-     "size": 2148440
+     "file": "91ae5f9cd76fb8cb0c5bfb8a-w_ar_specialcarbinemk2.glb",
+     "size": 2783316
     },
     {
      "name": "Combat MG Mk II",
-     "file": "3bf979ce1ec7980ad706a1fb-w_mg_combatmgmk2.glb",
-     "size": 2217020
+     "file": "1d5fcaf6e00453e210544cf1-w_mg_combatmgmk2.glb",
+     "size": 2845708
     },
     {
      "name": "Mini SMG",
-     "file": "c293765dbe9b9a94a91c6a46-w_sb_minismg.glb",
-     "size": 1656828
+     "file": "9de45173de4f83a8ed76e927-w_sb_minismg.glb",
+     "size": 2243096
     },
     {
      "name": "Assault Shotgun",
-     "file": "2a3675e184aa4252bcb28a5d-w_sg_assaultshotgun.glb",
-     "size": 1420652
+     "file": "cd0557998567c9a1bbb5f7f9-w_sg_assaultshotgun.glb",
+     "size": 1807684
     },
     {
      "name": "Heavy Shotgun",
-     "file": "a5abb35f5f1b81b5a9531741-w_sg_heavyshotgun.glb",
-     "size": 2312148
+     "file": "9b9e109377673dbd6c80db4a-w_sg_heavyshotgun.glb",
+     "size": 2853928
     },
     {
      "name": "Heavy Sniper",
-     "file": "924e0888c2688d7a5f20234c-w_sr_heavysniper.glb",
-     "size": 57276
+     "file": "1d17b2c28b279b2ec896bdc1-w_sr_heavysniper.glb",
+     "size": 67496
     },
     {
      "name": "Heavy Sniper Mk II",
-     "file": "a25e90add999f2d5f7ff61e6-w_sr_heavysnipermk2.glb",
-     "size": 214976
+     "file": "4f370e06502662115cc95bcf-w_sr_heavysnipermk2.glb",
+     "size": 216084
     },
     {
      "name": "Marksman Rifle Mk II",
-     "file": "b497c65b010c371a94923bd4-w_sr_marksmanriflemk2.glb",
-     "size": 316956
+     "file": "50cc0c75107844f1d98c0510-w_sr_marksmanriflemk2.glb",
+     "size": 342824
     },
     {
      "name": "Precision Rifle",
-     "file": "20d573a59a37bd8e50a5faf1-w_sr_precisionrifle_reh.glb",
+     "file": "858a46ed2062f02a5f4c4b1e-w_sr_precisionrifle_reh.glb",
      "size": 403164
     }
    ],
@@ -2707,28 +2707,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "94f1ea0345e1904f79a8d1a2-w_ar_carbinerifle.glb",
-     "size": 15616628
+     "file": "41d4d9e31312cd841e7b29bd-w_ar_carbinerifle.glb",
+     "size": 14978860
     },
     {
      "name": "Special Carbine",
-     "file": "9604bd0e85293cfd6184053d-w_ar_specialcarbine.glb",
-     "size": 15247828
+     "file": "1066044d9868aafdaa9e8b83-w_ar_specialcarbine.glb",
+     "size": 14610352
     },
     {
      "name": "Heavy Revolver",
-     "file": "4a4ade6d627c14b237b017fd-w_pi_revolver.glb",
-     "size": 967916
+     "file": "a1ca9ad82572f284b41d81a3-w_pi_revolver.glb",
+     "size": 967524
     },
     {
      "name": "Mini SMG",
-     "file": "74df75e016728d50bbe1dec0-w_sb_minismg.glb",
-     "size": 14501768
+     "file": "e2df905ae279ea7601f02562-w_sb_minismg.glb",
+     "size": 13863996
     },
     {
      "name": "Assault Shotgun",
-     "file": "42c86d38afb1cc9fad437f15-w_sg_assaultshotgun.glb",
-     "size": 14528840
+     "file": "37ecd8f31ff0602a1bb57279-w_sg_assaultshotgun.glb",
+     "size": 13891080
     }
    ],
    "filters": [
@@ -2797,22 +2797,22 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "3e7f89e0ba55cc57e98fe243-w_ar_carbinerifle.glb",
-     "size": 790424
+     "file": "36c34caa2335f5d41fecb5ef-w_ar_carbinerifle.glb",
+     "size": 790420
     },
     {
      "name": "Special Carbine",
-     "file": "cbec994d8a592565b3837290-w_ar_specialcarbine.glb",
+     "file": "6ecf5ac97d69a3bcf314f916-w_ar_specialcarbine.glb",
      "size": 238472
     },
     {
      "name": "Heavy Revolver",
-     "file": "f1d863fdcf51510c23bbd468-w_pi_revolver.glb",
-     "size": 1387828
+     "file": "6d453e65fd8b7e9a6d022b07-w_pi_revolver.glb",
+     "size": 1727352
     },
     {
      "name": "Mini SMG",
-     "file": "4fed83295e55535b8e80124f-w_sb_minismg.glb",
+     "file": "78a9b2d1e50ce612588c0fbc-w_sb_minismg.glb",
      "size": 208432
     }
    ],
@@ -2883,28 +2883,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "de1f2fabcd532f8df15a1e40-w_ar_carbinerifle.glb",
-     "size": 3503388
+     "file": "8b80dbc5caf180b0d67b3f1f-w_ar_carbinerifle.glb",
+     "size": 3439852
     },
     {
      "name": "Special Carbine",
-     "file": "f81c9c814bcdee5d95fc581d-w_ar_specialcarbine.glb",
-     "size": 3405780
+     "file": "7ec982d97088532c320f8e05-w_ar_specialcarbine.glb",
+     "size": 4428164
     },
     {
      "name": "Heavy Revolver",
-     "file": "366c694ede4e00d4c92b1104-w_pi_revolver.glb",
-     "size": 1367996
+     "file": "c3cdcfd98c6978ed07e224ce-w_pi_revolver.glb",
+     "size": 1352708
     },
     {
      "name": "Mini SMG",
-     "file": "f104d8fa9524f807964bc2f7-w_sb_minismg.glb",
-     "size": 2475796
+     "file": "8109796b34cbaa0f7479f183-w_sb_minismg.glb",
+     "size": 3387044
     },
     {
      "name": "Assault Shotgun",
-     "file": "d8a8601f15c8b7bdb9c3d671-w_sg_assaultshotgun.glb",
-     "size": 3410152
+     "file": "aa575901f2916468e3c212c5-w_sg_assaultshotgun.glb",
+     "size": 4413676
     }
    ],
    "filters": [
@@ -2974,28 +2974,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "7a64254b9e4f12e30eed4bdb-w_ar_carbinerifle.glb",
-     "size": 2796068
+     "file": "3570008d46e01444d02d8a55-w_ar_carbinerifle.glb",
+     "size": 3991276
     },
     {
      "name": "Special Carbine",
-     "file": "c2d0edb9cbd8c6f64fe5eaf9-w_ar_specialcarbine.glb",
-     "size": 2994460
+     "file": "3375cdd2018dcaba6fa26bd5-w_ar_specialcarbine.glb",
+     "size": 4386256
     },
     {
      "name": "Heavy Revolver",
-     "file": "dac24a53fb8c54ad628a7fff-w_pi_revolver.glb",
-     "size": 2765472
+     "file": "ee44c81c54520a0ffad6bfaf-w_pi_revolver.glb",
+     "size": 3404380
     },
     {
      "name": "Mini SMG",
-     "file": "abb5b4e790b129777074f672-w_sb_minismg.glb",
-     "size": 2926208
+     "file": "412286ce3386652c5804a81e-w_sb_minismg.glb",
+     "size": 4041628
     },
     {
      "name": "Assault Shotgun",
-     "file": "2823da2cf698fa8a5a506d2b-w_sg_assaultshotgun.glb",
-     "size": 2986384
+     "file": "5e1c7b945d77827d21d2a69c-w_sg_assaultshotgun.glb",
+     "size": 4185008
     }
    ],
    "filters": [
@@ -3044,23 +3044,23 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "16b993761d241d63301e173e-w_ar_carbinerifle.glb",
-     "size": 1563868
+     "file": "925142b1e0d96aa967e17517-w_ar_carbinerifle.glb",
+     "size": 1846192
     },
     {
      "name": "Special Carbine",
-     "file": "6bcb9027778b9aaf1a31fdc9-w_ar_specialcarbine.glb",
-     "size": 1089856
+     "file": "0c4ae1d0b9a129ae938e37ed-w_ar_specialcarbine.glb",
+     "size": 1768968
     },
     {
      "name": "Mini SMG",
-     "file": "bc3d663f58763ba0c8941cc8-w_sb_minismg.glb",
-     "size": 1105768
+     "file": "ee057647845307f42d6702d6-w_sb_minismg.glb",
+     "size": 1750444
     },
     {
      "name": "Assault Shotgun",
-     "file": "5b71dd0297f5ab34209ec11e-w_sg_assaultshotgun.glb",
-     "size": 1077136
+     "file": "7a17f411c3db5f6df8e6cf5c-w_sg_assaultshotgun.glb",
+     "size": 1695528
     }
    ],
    "filters": [
@@ -3129,43 +3129,43 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "4053870d638c6ca571099ab2-w_ar_carbinerifle.glb",
-     "size": 3794332
+     "file": "7526bf087a209733416ab9a4-w_ar_carbinerifle.glb",
+     "size": 5743448
     },
     {
      "name": "Heavy Rifle",
-     "file": "4ca1c2a94a838062380f3bab-w_ar_heavyrifleh.glb",
-     "size": 4164616
+     "file": "6bf739a84224d96b67b1fdcb-w_ar_heavyrifleh.glb",
+     "size": 4375268
     },
     {
      "name": "Special Carbine",
-     "file": "23ef85719a042b442176ed70-w_ar_specialcarbine.glb",
-     "size": 2100756
+     "file": "4b70e08095a3b2f2d1827b63-w_ar_specialcarbine.glb",
+     "size": 4266796
     },
     {
      "name": "Combat MG Mk II",
-     "file": "84db12727d4e67ad8ea1416f-w_mg_combatmgmk2.glb",
-     "size": 4270320
+     "file": "64576a5e9f58c3bfbb49d5ee-w_mg_combatmgmk2.glb",
+     "size": 6888904
     },
     {
      "name": "Heavy Revolver",
-     "file": "e5f4884c31dac75ec9e29c8b-w_pi_revolver.glb",
-     "size": 3745028
+     "file": "5882a2945dbeb94a809f5dd5-w_pi_revolver.glb",
+     "size": 3931028
     },
     {
      "name": "Mini SMG",
-     "file": "9c324d315bd05d5e8f60922e-w_sb_minismg.glb",
-     "size": 5857924
+     "file": "4c8db19ebe792337ae91321e-w_sb_minismg.glb",
+     "size": 7854488
     },
     {
      "name": "Assault Shotgun",
-     "file": "f1f43171c3fd4a9ea7015e3f-w_sg_assaultshotgun.glb",
-     "size": 2900300
+     "file": "1b9ccd3ed1f55e7062b6d84c-w_sg_assaultshotgun.glb",
+     "size": 5854508
     },
     {
      "name": "Heavy Shotgun",
-     "file": "b67c34806d93bf9db19c2771-w_sg_heavyshotgun.glb",
-     "size": 4171884
+     "file": "7f43549f3b5df37f24c29243-w_sg_heavyshotgun.glb",
+     "size": 7110652
     }
    ],
    "filters": [
@@ -3234,28 +3234,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "fec00df70827370f805894c0-w_ar_carbinerifle.glb",
-     "size": 6072092
+     "file": "b6d8731b8d088304f516fafb-w_ar_carbinerifle.glb",
+     "size": 9291640
     },
     {
      "name": "Special Carbine",
-     "file": "3e59ba4a88ace6962eb19679-w_ar_specialcarbine.glb",
-     "size": 6588200
+     "file": "bcf2690e56503b0e26ce6a24-w_ar_specialcarbine.glb",
+     "size": 9653900
     },
     {
      "name": "Heavy Revolver",
-     "file": "41e2c35f55410e76c4f93074-w_pi_revolver.glb",
-     "size": 4035604
+     "file": "311d60572aa85fb84713c189-w_pi_revolver.glb",
+     "size": 3693052
     },
     {
      "name": "Mini SMG",
-     "file": "8ffe532c702b41950b71ae74-w_sb_minismg.glb",
-     "size": 4932336
+     "file": "bcab34e90b419ad203c4feca-w_sb_minismg.glb",
+     "size": 9048032
     },
     {
      "name": "Assault Shotgun",
-     "file": "08b234c812d3ad88bdd284c3-w_sg_assaultshotgun.glb",
-     "size": 6313708
+     "file": "3ff8197b4e81402a354bd868-w_sg_assaultshotgun.glb",
+     "size": 9325708
     }
    ],
    "filters": [
@@ -3304,23 +3304,23 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "425ca92c9f6a62af3639177d-w_ar_carbinerifle.glb",
-     "size": 656556
+     "file": "03dfca8d3919b5be5974175a-w_ar_carbinerifle.glb",
+     "size": 2011344
     },
     {
      "name": "Special Carbine",
-     "file": "18b876aa0b8b8522e0095844-w_ar_specialcarbine.glb",
-     "size": 531076
+     "file": "10a6f87535133f56d08c5fad-w_ar_specialcarbine.glb",
+     "size": 1718776
     },
     {
      "name": "Mini SMG",
-     "file": "eafea4276b2999bc2e1e5e4d-w_sb_minismg.glb",
-     "size": 758676
+     "file": "8515f680adb7b364958a6c8e-w_sb_minismg.glb",
+     "size": 2990416
     },
     {
      "name": "Assault Shotgun",
-     "file": "9ff2fe3ee560994f2d4c2f1e-w_sg_assaultshotgun.glb",
-     "size": 868252
+     "file": "b57f343f621725b2cbcff1b9-w_sg_assaultshotgun.glb",
+     "size": 2489144
     }
    ],
    "filters": [
@@ -3389,48 +3389,48 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "97cacd02129907ffbbdffc0e-w_ar_carbinerifle.glb",
-     "size": 4596200
+     "file": "511f9db2c9c9100216c84380-w_ar_carbinerifle.glb",
+     "size": 8660240
     },
     {
      "name": "Heavy Rifle",
-     "file": "cd928cfba746f123db54afbf-w_ar_heavyrifleh.glb",
-     "size": 4393428
+     "file": "2bc1307543873ec163d4735a-w_ar_heavyrifleh.glb",
+     "size": 5132768
     },
     {
      "name": "Special Carbine",
-     "file": "c03a545bf8b87cc4c867268d-w_ar_specialcarbine.glb",
-     "size": 5463824
+     "file": "de786f5e835a48782f752d21-w_ar_specialcarbine.glb",
+     "size": 9666344
     },
     {
      "name": "Combat MG Mk II",
-     "file": "257e731f045049e0a82b2bfa-w_mg_combatmgmk2.glb",
-     "size": 4395544
+     "file": "5e1522951644547d04cba7bd-w_mg_combatmgmk2.glb",
+     "size": 6592320
     },
     {
      "name": "Heavy Revolver",
-     "file": "95b8878e638a9d37b0ab22bb-w_pi_revolver.glb",
-     "size": 2421560
+     "file": "6aff6c7e287a627a951b9bc6-w_pi_revolver.glb",
+     "size": 3113416
     },
     {
      "name": "Mini SMG",
-     "file": "ba988ecd1016cfc59d961a35-w_sb_minismg.glb",
-     "size": 4084660
+     "file": "2be7ea5d3c1f2017e6c84411-w_sb_minismg.glb",
+     "size": 6244628
     },
     {
      "name": "Assault Shotgun",
-     "file": "c356f6a764706bf962f50698-w_sg_assaultshotgun.glb",
-     "size": 4984716
+     "file": "886ce7e7b3e7dedf5b7675df-w_sg_assaultshotgun.glb",
+     "size": 8998220
     },
     {
      "name": "Heavy Shotgun",
-     "file": "00792d73a9625ce63c7ac76b-w_sg_heavyshotgun.glb",
-     "size": 4187416
+     "file": "146ca109e6291fe911f676ef-w_sg_heavyshotgun.glb",
+     "size": 7857712
     },
     {
      "name": "Heavy Sniper",
-     "file": "31eb5fb94d93757b977d8963-w_sr_heavysniper.glb",
-     "size": 5530344
+     "file": "ec835d298e787af6eada9809-w_sr_heavysniper.glb",
+     "size": 7598156
     }
    ],
    "filters": [
@@ -3500,28 +3500,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "a7b0d1f2c7438df97af7ac04-w_ar_carbinerifle.glb",
-     "size": 8243116
+     "file": "ca09b9466ad08dc630d17ad2-w_ar_carbinerifle.glb",
+     "size": 8646108
     },
     {
      "name": "Special Carbine",
-     "file": "17772ffb24a488eb771df828-w_ar_specialcarbine.glb",
-     "size": 3585992
+     "file": "5585737111ba23962e0494f2-w_ar_specialcarbine.glb",
+     "size": 4201436
     },
     {
      "name": "Heavy Revolver",
-     "file": "795c8caec9f14b8e63352b57-w_pi_revolver.glb",
-     "size": 6384900
+     "file": "f4f565b677458b5c10948d49-w_pi_revolver.glb",
+     "size": 6290420
     },
     {
      "name": "Mini SMG",
-     "file": "5bcaa74de660084798c5ed43-w_sb_minismg.glb",
-     "size": 2245356
+     "file": "a1ce60cb3a6c8e4738574e7d-w_sb_minismg.glb",
+     "size": 2574092
     },
     {
      "name": "Assault Shotgun",
-     "file": "fe53309cb107544b0b80d391-w_sg_assaultshotgun.glb",
-     "size": 5787616
+     "file": "0a2e0fe8bd9d2328f2c5a554-w_sg_assaultshotgun.glb",
+     "size": 6273304
     }
    ],
    "filters": [
@@ -3571,28 +3571,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "e3fa2817f7c70167facb43fe-w_ar_carbinerifle.glb",
-     "size": 6112172
+     "file": "54416edc113fcf58401d1152-w_ar_carbinerifle.glb",
+     "size": 6010692
     },
     {
      "name": "Special Carbine",
-     "file": "886f8c58c16f1d031c77633e-w_ar_specialcarbine.glb",
-     "size": 5645088
+     "file": "93769dcdcb66b4aef76ab9c0-w_ar_specialcarbine.glb",
+     "size": 5552348
     },
     {
      "name": "Heavy Revolver",
-     "file": "96cb334a5447e4345ab919bb-w_pi_revolver.glb",
-     "size": 621336
+     "file": "c26bab20b723b6a6cc226b6f-w_pi_revolver.glb",
+     "size": 614616
     },
     {
      "name": "Mini SMG",
-     "file": "e3881bb7bb7a5e7b76fee565-w_sb_minismg.glb",
-     "size": 1313328
+     "file": "3d1d01b1b211bc8e14b7d8b4-w_sb_minismg.glb",
+     "size": 1294612
     },
     {
      "name": "Assault Shotgun",
-     "file": "b189294f2971f6473d5a8439-w_sg_assaultshotgun.glb",
-     "size": 2204124
+     "file": "4d74c433067dff4b61e6f772-w_sg_assaultshotgun.glb",
+     "size": 2168484
     }
    ],
    "filters": [
@@ -3641,52 +3641,52 @@
    "models3d": [
     {
      "name": "Heavy Rifle",
-     "file": "3c31103173f3ee375b0ecb67-w_ar_heavyrifleh.glb",
-     "size": 5872832
+     "file": "791a10db02cfdd0bbe4fc331-w_ar_heavyrifleh.glb",
+     "size": 5872972
     },
     {
      "name": "Musket",
-     "file": "cf040e4209d4c9c4c9b84485-w_ar_musket.glb",
+     "file": "74cdf01b86ef869db968920a-w_ar_musket.glb",
      "size": 139764
     },
     {
      "name": "Special Carbine Mk II",
-     "file": "50e61a8f98db20370aaf9d2d-w_ar_specialcarbinemk2.glb",
-     "size": 6716360
+     "file": "3c166dd7497cc7fd423b434d-w_ar_specialcarbinemk2.glb",
+     "size": 6717616
     },
     {
      "name": "Combat MG Mk II",
-     "file": "2cf1ea8ecd0c1a034f683f6e-w_mg_combatmgmk2.glb",
-     "size": 5436272
+     "file": "14a11dd5aab92cf34ba693b5-w_mg_combatmgmk2.glb",
+     "size": 5437444
     },
     {
      "name": "Assault Shotgun",
-     "file": "cb6791d7a4d0bbf5c99d21e4-w_sg_assaultshotgun.glb",
-     "size": 5076896
+     "file": "6d1c731d15e2b458ec464839-w_sg_assaultshotgun.glb",
+     "size": 5078084
     },
     {
      "name": "Heavy Shotgun",
-     "file": "18110be1a2e48e65ff2ee58c-w_sg_heavyshotgun.glb",
-     "size": 4601964
+     "file": "6e57959ecb10ba83e90c74ee-w_sg_heavyshotgun.glb",
+     "size": 4603144
     },
     {
      "name": "Heavy Sniper",
-     "file": "024a22bf7c5143690b273b85-w_sr_heavysniper.glb",
-     "size": 68476
+     "file": "a5dba34f3cf5362e9dbde3a2-w_sr_heavysniper.glb",
+     "size": 69584
     },
     {
      "name": "Heavy Sniper Mk II",
-     "file": "7f8ce449cb62ad011328afd7-w_sr_heavysnipermk2.glb",
-     "size": 333256
+     "file": "8ef4cba0ee393a55f06fafe0-w_sr_heavysnipermk2.glb",
+     "size": 334368
     },
     {
      "name": "Marksman Rifle Mk II",
-     "file": "daa513d65b2c664cdaf47eac-w_sr_marksmanriflemk2.glb",
-     "size": 409676
+     "file": "3880f44ed9c7105ebc140998-w_sr_marksmanriflemk2.glb",
+     "size": 410784
     },
     {
      "name": "Precision Rifle",
-     "file": "eba4792b9c7d2a6c3c4c050a-w_sr_precisionrifle_reh.glb",
+     "file": "f17db8e051333627d535aadc-w_sr_precisionrifle_reh.glb",
      "size": 736844
     }
    ],
@@ -3756,23 +3756,23 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "b83c810d57114d5f0fd6a1f1-w_ar_carbinerifle.glb",
-     "size": 870484
+     "file": "dfd2c1d66ffb8d0166afdc43-w_ar_carbinerifle.glb",
+     "size": 8224756
     },
     {
      "name": "Special Carbine",
-     "file": "be98e021506343729885efaf-w_ar_specialcarbine.glb",
-     "size": 411764
+     "file": "f24e494ae26ee5218716c681-w_ar_specialcarbine.glb",
+     "size": 395260
     },
     {
      "name": "Heavy Revolver",
-     "file": "f6679e3077bb00bc2428f437-w_pi_revolver.glb",
-     "size": 158792
+     "file": "e30587aed3be0f9ca1431d46-w_pi_revolver.glb",
+     "size": 159208
     },
     {
      "name": "Mini SMG",
-     "file": "8d928bd69fdd36ede6f5d364-w_sb_minismg.glb",
-     "size": 103828
+     "file": "d54811ed656e9490460b3c19-w_sb_minismg.glb",
+     "size": 7262300
     }
    ],
    "filters": [
@@ -3841,28 +3841,28 @@
    "models3d": [
     {
      "name": "Carbine Rifle",
-     "file": "83a564055ac9f9f1bcf34adc-w_ar_carbinerifle.glb",
-     "size": 2851704
+     "file": "10867d72d9124b9231546bda-w_ar_carbinerifle.glb",
+     "size": 2839260
     },
     {
      "name": "Special Carbine",
-     "file": "a2298167ad8924cc718d7eed-w_ar_specialcarbine.glb",
-     "size": 2397472
+     "file": "36844fe044c214f4e1bcfd7c-w_ar_specialcarbine.glb",
+     "size": 3078672
     },
     {
      "name": "Heavy Revolver",
-     "file": "892d159356d3ab592926f08d-w_pi_revolver.glb",
-     "size": 1659920
+     "file": "651ad45f5a6d62150e46e081-w_pi_revolver.glb",
+     "size": 1980988
     },
     {
      "name": "Mini SMG",
-     "file": "11df980f3132dc5c26b11433-w_sb_minismg.glb",
-     "size": 1723856
+     "file": "7fdaf57a6a786bd9bf287094-w_sb_minismg.glb",
+     "size": 2232420
     },
     {
      "name": "Assault Shotgun",
-     "file": "da8147819ae01fee49fd350b-w_sg_assaultshotgun.glb",
-     "size": 3482056
+     "file": "a3b7d16e1297558b92245c74-w_sg_assaultshotgun.glb",
+     "size": 4281236
     }
    ],
    "filters": [
