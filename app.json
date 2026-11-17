@@ -1,10 +1,10 @@
 {
-  "version": "0.1.37",
-  "name": "TrialityMods-Setup-0.1.37.exe",
-  "size": 137109401,
-  "sha256": "875798b1896f8cb554064ec67628b1a227504dd6f915cae3649b9f3ff29521c3",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.37.exe",
-  "notes": "3D-осмотр грузится в разы быстрее, стволы переключаются мгновенно\nПлавное вращение мышкой\nПодсказка о возможных отличиях цвета",
-  "date": "2026-11-17T01:52:24.245Z",
+  "version": "0.1.38",
+  "name": "TrialityMods-Setup-0.1.38.exe",
+  "size": 137104773,
+  "sha256": "09d452cc40839e41e3637168f49302ce47c414a3e4937ec885c63f499ea34ebe",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.38.exe",
+  "notes": "3D-осмотр: ствол целиком в окне под любым углом",
+  "date": "2026-11-17T02:03:57.023Z",
   "kind": "setup"
 }
