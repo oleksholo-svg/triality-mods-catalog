@@ -1,10 +1,10 @@
 {
-  "version": "0.1.40",
-  "name": "TrialityMods-Setup-0.1.40.exe",
-  "size": 167893036,
-  "sha256": "7a1cd11e065d0c50f8cf33b9f2de2d1ed06248730f9e169892fe78eeb2e83b12",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.40.exe",
-  "notes": "Если Cloudflare у провайдера не работает, моды и 3D-модели сами скачиваются с GitHub\nЗависшая загрузка больше не висит вечно: через 20–30 секунд программа берёт запасной адрес и докачивает с того же места\n3D-модели сохраняются на компьютере и потом открываются сразу",
-  "date": "2026-11-19T15:20:56.478Z",
+  "version": "0.1.41",
+  "name": "TrialityMods-Setup-0.1.41.exe",
+  "size": 168054610,
+  "sha256": "0d692aa180be7a9a155e642c35c2bc03bf2a456192a217987e161f046933c555",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.41.exe",
+  "notes": "Новый интерфейс: разделы сверху, живой фон из жидкого металла",
+  "date": "2026-11-19T18:54:21.768Z",
   "kind": "setup"
 }
