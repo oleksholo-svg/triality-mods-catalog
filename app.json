@@ -1,10 +1,10 @@
 {
-  "version": "0.1.39",
-  "name": "TrialityMods-Setup-0.1.39.exe",
-  "size": 167892791,
-  "sha256": "0172afa9e7c28adac6d5afe7a27363a7cbdcadb779da2456b8dff7af8f65deba",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.39.exe",
-  "notes": "Свой ганпак: каждый ствол — из любого пака каталога\nСетапы: сохраняй набор модов и переключайся одной кнопкой, делись кодом с другом\nУстановка с телефона через Telegram-бота (Настройки → Телефон)\nСвой звук хитмаркера из любого mp3 / wav / ogg\nДиагностика: почему вылетает игра, и автопочинка модов после обновления GTA\nИзбранное и сортировка в каталоге\n3D-осмотр подсказывает, что делать, если модель не грузится",
-  "date": "2026-11-19T14:51:35.398Z",
+  "version": "0.1.40",
+  "name": "TrialityMods-Setup-0.1.40.exe",
+  "size": 167893036,
+  "sha256": "7a1cd11e065d0c50f8cf33b9f2de2d1ed06248730f9e169892fe78eeb2e83b12",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.40.exe",
+  "notes": "Если Cloudflare у провайдера не работает, моды и 3D-модели сами скачиваются с GitHub\nЗависшая загрузка больше не висит вечно: через 20–30 секунд программа берёт запасной адрес и докачивает с того же места\n3D-модели сохраняются на компьютере и потом открываются сразу",
+  "date": "2026-11-19T15:20:56.478Z",
   "kind": "setup"
 }
