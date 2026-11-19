@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-18T23:37:54.689Z",
+ "generatedAt": "2026-11-19T03:32:43.596Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://mods.trialityfamq.com/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -774,7 +774,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/161.jpg?v=6966ce14c8",
+   "preview": "previews/161.jpg?v=bb024d88a1",
    "video": null,
    "audio": [],
    "variants": [
@@ -864,7 +864,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/black-liquid-skulls-240.jpg?v=9088764ee3",
+   "preview": "previews/black-liquid-skulls-240.jpg?v=4cb51b83e2",
    "video": null,
    "audio": [],
    "variants": [
@@ -955,7 +955,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/by-vegas.jpg?v=97373c072a",
+   "preview": "previews/by-vegas.jpg?v=1c98520cea",
    "video": null,
    "audio": [],
    "variants": [
@@ -1016,7 +1016,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/charms-week.jpg?v=ae28cc4e56",
+   "preview": "previews/charms-week.jpg?v=0d199c44ed",
    "video": null,
    "audio": [],
    "variants": [
@@ -1096,7 +1096,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/crimson-skull-240.jpg?v=a8f2cf0d7b",
+   "preview": "previews/crimson-skull-240.jpg?v=7dd7189b28",
    "video": null,
    "audio": [],
    "variants": [
@@ -1172,6 +1172,7 @@
     }
    ],
    "filters": [
+    "black",
     "white",
     "blue"
    ]
@@ -1187,7 +1188,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/denim-240.jpg?v=9e8d70b85d",
+   "preview": "previews/denim-240.jpg?v=a638e6595f",
    "video": null,
    "audio": [],
    "variants": [
@@ -1297,7 +1298,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/glamour-queen.jpg?v=29918327e2",
+   "preview": "previews/glamour-queen.jpg?v=81c3c11d14",
    "video": null,
    "audio": [],
    "variants": [
@@ -1361,7 +1362,7 @@
    "editions": [
     "legacy"
    ],
-   "preview": "previews/glow.jpg?v=7ef67055b8",
+   "preview": "previews/glow.jpg?v=6f3b545cb5",
    "video": null,
    "audio": [],
    "variants": [
@@ -1440,6 +1441,7 @@
     }
    ],
    "filters": [
+    "black",
     "white",
     "blue"
    ]
@@ -1455,7 +1457,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/glow-black-sakura.jpg?v=cb3a0952b8",
+   "preview": "previews/glow-black-sakura.jpg?v=79d801ed30",
    "video": null,
    "audio": [],
    "variants": [
@@ -1546,7 +1548,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/glow-darkweb.jpg?v=a1b7b53bd4",
+   "preview": "previews/glow-darkweb.jpg?v=5989129f00",
    "video": null,
    "audio": [],
    "variants": [
@@ -1924,7 +1926,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/graff-bloody-tears-240.jpg?v=9972eef3ca",
+   "preview": "previews/graff-bloody-tears-240.jpg?v=9e809dac37",
    "video": null,
    "audio": [],
    "variants": [
@@ -1984,7 +1986,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/graffiti-play-black.jpg?v=2f3ae3c414",
+   "preview": "previews/graffiti-play-black.jpg?v=5120bfc3de",
    "video": null,
    "audio": [],
    "variants": [
@@ -2075,7 +2077,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/halloween-240.jpg?v=348a22be58",
+   "preview": "previews/halloween-240.jpg?v=b6c7397d71",
    "video": null,
    "audio": [],
    "variants": [
@@ -2181,7 +2183,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/kai-dragon.jpg?v=97f442b705",
+   "preview": "previews/kai-dragon.jpg?v=c32e342217",
    "video": null,
    "audio": [],
    "variants": [
@@ -2251,7 +2253,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/kai-dragon-v2.jpg?v=9c4102e209",
+   "preview": "previews/kai-dragon-v2.jpg?v=7a3811c3da",
    "video": null,
    "audio": [],
    "variants": [
@@ -2321,7 +2323,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/kai-gradient.jpg?v=f150f0dca3",
+   "preview": "previews/kai-gradient.jpg?v=9be94623d3",
    "video": null,
    "audio": [],
    "variants": [
@@ -2378,6 +2380,7 @@
    ],
    "filters": [
     "white",
+    "red",
     "blue"
    ]
   },
@@ -2392,7 +2395,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/kai-lipstick.jpg?v=507a290a28",
+   "preview": "previews/kai-lipstick.jpg?v=e20781fcb7",
    "video": null,
    "audio": [],
    "variants": [
@@ -2463,7 +2466,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/killa-black-eyes.jpg?v=e244ed9666",
+   "preview": "previews/killa-black-eyes.jpg?v=c85d2cfe37",
    "video": null,
    "audio": [],
    "variants": [
@@ -2658,7 +2661,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/killa-realistic.jpg?v=0da72f39ca",
+   "preview": "previews/killa-realistic.jpg?v=ea22b04353",
    "video": null,
    "audio": [],
    "variants": [
@@ -2749,7 +2752,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/killa-redglass.jpg?v=ea12548c7b",
+   "preview": "previews/killa-redglass.jpg?v=d2b7684696",
    "video": null,
    "audio": [],
    "variants": [
@@ -2835,7 +2838,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/little-240.jpg?v=5498618f81",
+   "preview": "previews/little-240.jpg?v=35120b95a5",
    "video": null,
    "audio": [],
    "variants": [
@@ -2926,7 +2929,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/nebula-killa.jpg?v=0e2183e15e",
+   "preview": "previews/nebula-killa.jpg?v=316f6b26e7",
    "video": null,
    "audio": [],
    "variants": [
@@ -3016,7 +3019,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/neon-stroke-240.jpg?v=927cf8c1d6",
+   "preview": "previews/neon-stroke-240.jpg?v=f7804d68af",
    "video": null,
    "audio": [],
    "variants": [
@@ -3082,7 +3085,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/pink-wrap-240.jpg?v=a823d490c8",
+   "preview": "previews/pink-wrap-240.jpg?v=b2ed330d40",
    "video": null,
    "audio": [],
    "variants": [
@@ -3187,7 +3190,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/silent-240.jpg?v=99bac00560",
+   "preview": "previews/silent-240.jpg?v=5c4818fd19",
    "video": null,
    "audio": [],
    "variants": [
@@ -3277,7 +3280,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/snake-240.jpg?v=9acf3445cf",
+   "preview": "previews/snake-240.jpg?v=f54f9752cc",
    "video": null,
    "audio": [],
    "variants": [
@@ -3343,7 +3346,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/spider-man-240.jpg?v=889e4a048b",
+   "preview": "previews/spider-man-240.jpg?v=744b7b5be8",
    "video": null,
    "audio": [],
    "variants": [
@@ -3454,7 +3457,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/test-spider-man-240.jpg?v=f337d6c226",
+   "preview": "previews/test-spider-man-240.jpg?v=87a9f5c7a6",
    "video": null,
    "audio": [],
    "variants": [
@@ -3545,7 +3548,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/thorsight.jpg?v=0cef829660",
+   "preview": "previews/thorsight.jpg?v=cd211cee63",
    "video": null,
    "audio": [],
    "variants": [
@@ -3616,7 +3619,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/usa.jpg?v=3d95783bed",
+   "preview": "previews/usa.jpg?v=c8cd29c609",
    "video": null,
    "audio": [],
    "variants": [
@@ -3711,7 +3714,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/white-by-vayronmods.jpg?v=81a7e84a51",
+   "preview": "previews/white-by-vayronmods.jpg?v=88d777d168",
    "video": null,
    "audio": [],
    "variants": [
@@ -3796,7 +3799,7 @@
     "legacy",
     "enhanced"
    ],
-   "preview": "previews/white-liquid-skulls-240.jpg?v=a61bf174cf",
+   "preview": "previews/white-liquid-skulls-240.jpg?v=6ec6ebf234",
    "video": null,
    "audio": [],
    "variants": [
