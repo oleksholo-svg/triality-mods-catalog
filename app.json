@@ -1,10 +1,10 @@
 {
-  "version": "0.1.41",
-  "name": "TrialityMods-Setup-0.1.41.exe",
-  "size": 168054610,
-  "sha256": "0d692aa180be7a9a155e642c35c2bc03bf2a456192a217987e161f046933c555",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.41.exe",
-  "notes": "Новый интерфейс: разделы сверху, живой фон из жидкого металла\nНовые иконки разделов\nБелая тема, чёрная стала по-настоящему чёрной\nКарточки модов наклоняются за курсором\nЗагрузка модов быстрее, подводящие серверы запоминаются",
-  "date": "2026-11-19T18:54:21.768Z",
+  "version": "0.1.42",
+  "name": "TrialityMods-Setup-0.1.42.exe",
+  "size": 168124252,
+  "sha256": "3c0563584396a2b16c2f10ad9ea12947ddc7141e4463c42649e7970dc1807878",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.42.exe",
+  "notes": "Подбор графики под нужный FPS — в разделе «Settings GTA»\nЛёгкие версии модов для слабых ПК: тяжёлые текстуры ганпаков и редуксов ужимаются до 2K (Настройки → Игра)\nРемикс в «Своём ганпаке»: модель ствола из одного пака, текстура из другого, с 3D-просмотром\nИсправлена сборка «Своего ганпака»",
+  "date": "2026-11-19T20:21:43.655Z",
   "kind": "setup"
 }
