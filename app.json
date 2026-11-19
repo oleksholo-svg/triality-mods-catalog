@@ -1,10 +1,10 @@
 {
-  "version": "0.1.42",
-  "name": "TrialityMods-Setup-0.1.42.exe",
-  "size": 168124252,
-  "sha256": "3c0563584396a2b16c2f10ad9ea12947ddc7141e4463c42649e7970dc1807878",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.42.exe",
-  "notes": "Подбор графики под нужный FPS — в разделе «Settings GTA»\nЛёгкие версии модов для слабых ПК: тяжёлые текстуры ганпаков и редуксов ужимаются до 2K (Настройки → Игра)\nРемикс в «Своём ганпаке»: модель ствола из одного пака, текстура из другого, с 3D-просмотром\nИсправлена сборка «Своего ганпака»",
-  "date": "2026-11-19T20:21:43.655Z",
+  "version": "0.1.43",
+  "name": "TrialityMods-Setup-0.1.43.exe",
+  "size": 168454318,
+  "sha256": "bc242cca7ebadd80b3fbaf492f8948a2ce4697b2aaef79a7704d12710187c000",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.43.exe",
+  "notes": "Статус в Discord: друзья видят, какой мод ты ставишь, и кнопку «Поставить себе» (Настройки → Приложение)\nЗамер FPS на 5RP: играй как обычно — после игры в «Диагностике» будет средний FPS и 1% низких",
+  "date": "2026-11-19T20:33:08.487Z",
   "kind": "setup"
 }
