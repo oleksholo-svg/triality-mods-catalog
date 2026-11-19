@@ -1,10 +1,10 @@
 {
-  "version": "0.1.38",
-  "name": "TrialityMods-Setup-0.1.38.exe",
-  "size": 137104773,
-  "sha256": "09d452cc40839e41e3637168f49302ce47c414a3e4937ec885c63f499ea34ebe",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.38.exe",
-  "notes": "3D-осмотр: ствол целиком в окне под любым углом",
-  "date": "2026-11-17T02:03:57.023Z",
+  "version": "0.1.39",
+  "name": "TrialityMods-Setup-0.1.39.exe",
+  "size": 167892791,
+  "sha256": "0172afa9e7c28adac6d5afe7a27363a7cbdcadb779da2456b8dff7af8f65deba",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.39.exe",
+  "notes": "Свой ганпак: каждый ствол — из любого пака каталога\nСетапы: сохраняй набор модов и переключайся одной кнопкой, делись кодом с другом\nУстановка с телефона через Telegram-бота (Настройки → Телефон)\nСвой звук хитмаркера из любого mp3 / wav / ogg\nДиагностика: почему вылетает игра, и автопочинка модов после обновления GTA\nИзбранное и сортировка в каталоге\n3D-осмотр подсказывает, что делать, если модель не грузится",
+  "date": "2026-11-19T14:51:35.398Z",
   "kind": "setup"
 }
