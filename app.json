@@ -1,10 +1,10 @@
 {
-  "version": "0.1.46",
-  "name": "TrialityMods-Setup-0.1.46.exe",
-  "size": 169629573,
-  "sha256": "baf9ad4d272a7ec56895e6ea83c25f6cd46d8bd77c87db28bbafd9e01e119bb2",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.46.exe",
-  "notes": "Свой ганпак: у каждого ствола фото — выбор карточками вместо списка названий\nРемикс: текстура тоже выбирается по фото",
-  "date": "2026-11-20T10:55:33.273Z",
+  "version": "0.1.47",
+  "name": "TrialityMods-Setup-0.1.47.exe",
+  "size": 169756558,
+  "sha256": "cd73973513b2d59d5c422a79d9add6df5d1628ac9174452dc7a652af0fc15570",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.47.exe",
+  "notes": "Новая вкладка «Мастерская»: Свой ганпак, Свой редукс и Конструктор прицела\nКонструктор прицела как в CS2: вид, цвет, длина, зазор, обводка, точка — с живым превью и кодами для друзей\nСвой редукс: основа, погода, свет и небо из разных редуксов — выбор по фото\nОптимизация: всё про FPS в одном месте — лёгкие версии модов, тонкая настройка графики, замер FPS",
+  "date": "2026-11-20T13:25:32.204Z",
   "kind": "setup"
 }
