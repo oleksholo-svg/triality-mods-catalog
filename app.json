@@ -1,10 +1,10 @@
 {
-  "version": "0.1.45",
-  "name": "TrialityMods-Setup-0.1.45.exe",
-  "size": 169633966,
-  "sha256": "f9c740c7c373ba1fb20f1cc8ad97d3af82c3586e1da53dfdb208138ac0b7c038",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.45.exe",
-  "notes": "Исправлено: скачивание больше 100% при плохом интернете\nОбход блокировок: видно выбранный режим и что случилось (помог, не помог, файлы удалил антивирус); обходит и запасной адрес GitHub\nПодсказки меню больше не прячутся под картинками",
-  "date": "2026-11-20T08:51:50.196Z",
+  "version": "0.1.46",
+  "name": "TrialityMods-Setup-0.1.46.exe",
+  "size": 169629573,
+  "sha256": "baf9ad4d272a7ec56895e6ea83c25f6cd46d8bd77c87db28bbafd9e01e119bb2",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.46.exe",
+  "notes": "Свой ганпак: у каждого ствола фото — выбор карточками вместо списка названий\nРемикс: текстура тоже выбирается по фото",
+  "date": "2026-11-20T10:55:33.273Z",
   "kind": "setup"
 }
