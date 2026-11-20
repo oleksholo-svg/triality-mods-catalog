@@ -1,10 +1,10 @@
 {
-  "version": "0.1.43",
-  "name": "TrialityMods-Setup-0.1.43.exe",
-  "size": 168454318,
-  "sha256": "bc242cca7ebadd80b3fbaf492f8948a2ce4697b2aaef79a7704d12710187c000",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.43.exe",
-  "notes": "Статус в Discord: друзья видят, какой мод ты ставишь, и кнопку «Поставить себе» (Настройки → Приложение)\nЗамер FPS на 5RP: играй как обычно — после игры в «Диагностике» будет средний FPS и 1% низких",
-  "date": "2026-11-19T20:33:08.487Z",
+  "version": "0.1.44",
+  "name": "TrialityMods-Setup-0.1.44.exe",
+  "size": 169620580,
+  "sha256": "b9235a938b6557810efb9e17ac512d85ad5d8db16ac296a82f6c07f7511ac1b9",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.44.exe",
+  "notes": "Новый раздел «Оптимизация»: проверка ПК и твики Windows в один клик, всё можно вернуть как было\nТонкая настройка графики в «Settings GTA»: каждая настройка отдельно, с подсказкой по FPS\nОбход блокировок Cloudflare (zapret) для тех, у кого не качаются моды: Настройки → Приложение\nУбран «Подобрать под FPS»\nКнопка в статусе Discord ведёт на сайт\nМеню больше не обрезается, когда окно не на весь экран",
+  "date": "2026-11-20T08:07:23.086Z",
   "kind": "setup"
 }
