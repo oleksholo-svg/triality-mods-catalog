@@ -1,10 +1,10 @@
 {
-  "version": "0.1.44",
-  "name": "TrialityMods-Setup-0.1.44.exe",
-  "size": 169620580,
-  "sha256": "b9235a938b6557810efb9e17ac512d85ad5d8db16ac296a82f6c07f7511ac1b9",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.44.exe",
-  "notes": "Новый раздел «Оптимизация»: проверка ПК и твики Windows в один клик, всё можно вернуть как было\nТонкая настройка графики в «Settings GTA»: каждая настройка отдельно, с подсказкой по FPS\nОбход блокировок Cloudflare (zapret) для тех, у кого не качаются моды: Настройки → Приложение\nУбран «Подобрать под FPS»\nКнопка в статусе Discord ведёт на сайт\nМеню больше не обрезается, когда окно не на весь экран",
-  "date": "2026-11-20T08:07:23.086Z",
+  "version": "0.1.45",
+  "name": "TrialityMods-Setup-0.1.45.exe",
+  "size": 169633966,
+  "sha256": "f9c740c7c373ba1fb20f1cc8ad97d3af82c3586e1da53dfdb208138ac0b7c038",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.45.exe",
+  "notes": "Исправлено: скачивание больше 100% при плохом интернете\nОбход блокировок: видно выбранный режим и что случилось (помог, не помог, файлы удалил антивирус); обходит и запасной адрес GitHub\nПодсказки меню больше не прячутся под картинками",
+  "date": "2026-11-20T08:51:50.196Z",
   "kind": "setup"
 }
