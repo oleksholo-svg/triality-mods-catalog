@@ -1,10 +1,10 @@
 {
-  "version": "0.1.50",
-  "name": "TrialityMods-Setup-0.1.50.exe",
-  "size": 169930124,
-  "sha256": "91e93c0c4e986fb8d750f50c1c4560ac90dd66e1cc452d28fb58ffb3b7f48e98",
-  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.50.exe",
-  "notes": "",
-  "date": "2026-11-22T11:42:25.902Z",
+  "version": "0.1.51",
+  "name": "TrialityMods-Setup-0.1.51.exe",
+  "size": 170240946,
+  "sha256": "e96deee0607855bd2cf04a85230355d83fc6c09fb6dbaf7063e680a6687a90b8",
+  "url": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/app/TrialityMods-Setup-0.1.51.exe",
+  "notes": "Редуксы и ганпаки качаются в разы меньше\nКонструктор прицела: цвет на человеке, «Т», круглая точка и другое\nАнимированный фон на всё окно\nБыстрее сохранение оригиналов и ужатие текстур",
+  "date": "2026-11-25T23:49:49.233Z",
   "kind": "setup"
 }
