@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generatedAt": "2026-11-20T10:47:02.364Z",
+ "generatedAt": "2026-11-25T20:29:30.242Z",
  "rawBase": "https://raw.githubusercontent.com/oleksholo-svg/triality-mods-catalog/main/",
  "assetBase": "https://mods.trialityfamq.com/mods/",
  "assetRoot": "https://github.com/oleksholo-svg/triality-mods-catalog/releases/download/",
@@ -923,6 +923,23 @@
            "size": 658765824,
            "sha256": "a94ee07f42a165be68d76d1e4e6f2535d661a518eb34a14f55ce7196e197e00d"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 6798945,
+           "sha256": "996447ac79d8e41938f86a2aa912734ff6c3e31f26008040ea49b61ef1440067",
+           "parts": [
+            {
+             "name": "996447ac79d8e41938f86a2a-dlc.rpf.tmdelta",
+             "size": 6798945,
+             "sha256": "996447ac79d8e41938f86a2aa912734ff6c3e31f26008040ea49b61ef1440067"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -1185,6 +1202,23 @@
            "size": 795200512,
            "sha256": "5995d609bd56e83bb5feb715585f3f6372538bbab0b1715ed2181e249b15a920"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 10011855,
+           "sha256": "61d55d3d4c190b4bc51306c5ea853883f89d9494377771d217b17b9975ae92d4",
+           "parts": [
+            {
+             "name": "61d55d3d4c190b4bc51306c5-dlc.rpf.tmdelta",
+             "size": 10011855,
+             "sha256": "61d55d3d4c190b4bc51306c5ea853883f89d9494377771d217b17b9975ae92d4"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -1286,6 +1320,23 @@
            "name": "5961b0c7ff5404cd62bde8ba-dlc.rpf",
            "size": 643176960,
            "sha256": "5961b0c7ff5404cd62bde8baac2810c4c2e6d72d6909bd1618fb40b1e6d7b21c"
+          }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 8327033,
+           "sha256": "b6b2d88928cec0f16703f9acdf1a910c2c70012c9772941a5f4ea0e6165367fa",
+           "parts": [
+            {
+             "name": "b6b2d88928cec0f16703f9ac-dlc.rpf.tmdelta",
+             "size": 8327033,
+             "sha256": "b6b2d88928cec0f16703f9acdf1a910c2c70012c9772941a5f4ea0e6165367fa"
+            }
+           ]
           }
          ]
         }
@@ -1592,6 +1643,23 @@
            "size": 693161984,
            "sha256": "962d70c274d81472dd3553217a1df2ffbd289cdf924fded0b7151388c9f07ad4"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 41568814,
+           "sha256": "3362e361183e1e1a471042c62fca16eb55656cd271c69a603ca9cb15268af671",
+           "parts": [
+            {
+             "name": "3362e361183e1e1a471042c6-dlc.rpf.tmdelta",
+             "size": 41568814,
+             "sha256": "3362e361183e1e1a471042c62fca16eb55656cd271c69a603ca9cb15268af671"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -1687,6 +1755,23 @@
          "size": 390499840,
          "sha256": "cac064bb59d8b321e50dbce25521fc1345649d28aef936e508d5414e4d0ce88b"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 365328384,
+          "sha256": "726ae224efc973b7607cc827ad96f8ae086fcc44e18ceca00576ea1637203bd0"
+         },
+         "size": 25220431,
+         "sha256": "81c3a03ba7c0571d3adcd4c9749e0eef3883d797d24b4fb036a554aeac62c2fd",
+         "parts": [
+          {
+           "name": "81c3a03ba7c0571d3adcd4c9-dlc.rpf.tmdelta",
+           "size": 25220431,
+           "sha256": "81c3a03ba7c0571d3adcd4c9749e0eef3883d797d24b4fb036a554aeac62c2fd"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -1705,6 +1790,23 @@
            "name": "766b48aecba7e0f4a30dd729-dlc.rpf",
            "size": 728642560,
            "sha256": "766b48aecba7e0f4a30dd72956416dfa9ed90f7ae67424c70321ef6cde93ffe3"
+          }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 11236452,
+           "sha256": "ec2b51ffed2ebfe3fb6e34a27783eaf855a845371a1b4123b74a3f147618d959",
+           "parts": [
+            {
+             "name": "ec2b51ffed2ebfe3fb6e34a2-dlc.rpf.tmdelta",
+             "size": 11236452,
+             "sha256": "ec2b51ffed2ebfe3fb6e34a27783eaf855a845371a1b4123b74a3f147618d959"
+            }
+           ]
           }
          ]
         }
@@ -2257,6 +2359,23 @@
            "size": 913810944,
            "sha256": "e5e472fcbcdcbc8d0f40e80806688e4233b796d2348c9c704df449363357038c"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 75978376,
+           "sha256": "47cac363b328b9720cc203287b75294f4f064b1be79ea9e8b16288f6afcedb78",
+           "parts": [
+            {
+             "name": "47cac363b328b9720cc20328-dlc.rpf.tmdelta",
+             "size": 75978376,
+             "sha256": "47cac363b328b9720cc203287b75294f4f064b1be79ea9e8b16288f6afcedb78"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -2357,6 +2476,23 @@
            "name": "6d258fc90f1dcf26b28f11c3-dlc.rpf",
            "size": 639763456,
            "sha256": "6d258fc90f1dcf26b28f11c3a9a2df65419f9dd8c26566b3d5c14cef59e06b11"
+          }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 3061382,
+           "sha256": "92d26020b272cbb7cf44eb24c7fe78c9f93df9f91c8bfba2a46a7a952fe21c22",
+           "parts": [
+            {
+             "name": "92d26020b272cbb7cf44eb24-dlc.rpf.tmdelta",
+             "size": 3061382,
+             "sha256": "92d26020b272cbb7cf44eb24c7fe78c9f93df9f91c8bfba2a46a7a952fe21c22"
+            }
+           ]
           }
          ]
         }
@@ -2803,6 +2939,23 @@
            "size": 732461056,
            "sha256": "c522073737977dfabcb75d7d42b1ad6d06113c6a044b0fe52c6385348eb5dd97"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 13061917,
+           "sha256": "7f147e0aaa4ef45df062a8ac4ca6c78cf4d9df6898899b378b37530e7b3f0305",
+           "parts": [
+            {
+             "name": "7f147e0aaa4ef45df062a8ac-dlc.rpf.tmdelta",
+             "size": 13061917,
+             "sha256": "7f147e0aaa4ef45df062a8ac4ca6c78cf4d9df6898899b378b37530e7b3f0305"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -3032,6 +3185,23 @@
            "size": 955561984,
            "sha256": "3ee4eee70b6820e79e54124aa3a5b79249b935dde8f0229e35aab65d62586255"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 44490699,
+           "sha256": "3aa0641f3a37715b8d98599f23b2b583ed38775563c14b2ca4eb152738966b57",
+           "parts": [
+            {
+             "name": "3aa0641f3a37715b8d98599f-dlc.rpf.tmdelta",
+             "size": 44490699,
+             "sha256": "3aa0641f3a37715b8d98599f23b2b583ed38775563c14b2ca4eb152738966b57"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -3133,6 +3303,23 @@
            "size": 639088128,
            "sha256": "bdbd452c80d4d29c02eae8044eb9e57fab5f8ea4c3fe61260abdf0bc231408ac"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 2193535,
+           "sha256": "8c4ccff62a7a9d05ce4223f4f911d8095862876af1296ea6f83652eef964cc28",
+           "parts": [
+            {
+             "name": "8c4ccff62a7a9d05ce4223f4-dlc.rpf.tmdelta",
+             "size": 2193535,
+             "sha256": "8c4ccff62a7a9d05ce4223f4f911d8095862876af1296ea6f83652eef964cc28"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -3226,6 +3413,23 @@
            "name": "43044f0d7abcf6f54e88e919-dlc.rpf",
            "size": 955561984,
            "sha256": "43044f0d7abcf6f54e88e91998e56a15ce7a577efccb8a5e8611e7ec9c0c5e8c"
+          }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 5479761,
+           "sha256": "1b2b37dcc32ec0cf597773d0754a4f2b656b3ff1bd87808d03111315a2cf4df9",
+           "parts": [
+            {
+             "name": "1b2b37dcc32ec0cf597773d0-dlc.rpf.tmdelta",
+             "size": 5479761,
+             "sha256": "1b2b37dcc32ec0cf597773d0754a4f2b656b3ff1bd87808d03111315a2cf4df9"
+            }
+           ]
           }
          ]
         }
@@ -3327,6 +3531,23 @@
            "name": "46879c6d9b21351af3d094e3-dlc.rpf",
            "size": 697996288,
            "sha256": "46879c6d9b21351af3d094e3815c15db18774bf23f36e9f1ba89f37bd1589d8c"
+          }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 10323985,
+           "sha256": "88c16d333c9e35d5918c26228647b051a270d877457ddb94a86e2acc5b5217da",
+           "parts": [
+            {
+             "name": "88c16d333c9e35d5918c2622-dlc.rpf.tmdelta",
+             "size": 10323985,
+             "sha256": "88c16d333c9e35d5918c26228647b051a270d877457ddb94a86e2acc5b5217da"
+            }
+           ]
           }
          ]
         }
@@ -3502,6 +3723,23 @@
            "size": 694060544,
            "sha256": "bf6f22838a68ad180dbbbcf1cbd8d160e6f25edab731130c5678356235d916a5"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 42842421,
+           "sha256": "3858a3d8e4d148f5c0955b8848f0d62d7e979cdcf16fded57f3d5a0ded57a895",
+           "parts": [
+            {
+             "name": "3858a3d8e4d148f5c0955b88-dlc.rpf.tmdelta",
+             "size": 42842421,
+             "sha256": "3858a3d8e4d148f5c0955b8848f0d62d7e979cdcf16fded57f3d5a0ded57a895"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -3622,6 +3860,23 @@
            "name": "3f9e926eb07fc4e9a1032e27-dlc.rpf",
            "size": 795813376,
            "sha256": "3f9e926eb07fc4e9a1032e2793a136dd5cbe1dec8e8f632bb4c1ab14b0a585dc"
+          }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 11235782,
+           "sha256": "ca202dcdf764aef3cbd1180aae5792a44f5303360e4b2117acdc4c2ef3aa71a8",
+           "parts": [
+            {
+             "name": "ca202dcdf764aef3cbd1180a-dlc.rpf.tmdelta",
+             "size": 11235782,
+             "sha256": "ca202dcdf764aef3cbd1180aae5792a44f5303360e4b2117acdc4c2ef3aa71a8"
+            }
+           ]
           }
          ]
         }
@@ -3797,6 +4052,23 @@
            "size": 795161088,
            "sha256": "b639a03956e188e2b41a5f111f046109f2fed9041f9ddb69096afda5e2a73557"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 9933121,
+           "sha256": "3009fef9949dde5fdc8c32d44397825aae81d08f2395e7388233542d98665b42",
+           "parts": [
+            {
+             "name": "3009fef9949dde5fdc8c32d4-dlc.rpf.tmdelta",
+             "size": 9933121,
+             "sha256": "3009fef9949dde5fdc8c32d44397825aae81d08f2395e7388233542d98665b42"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -3925,6 +4197,23 @@
            "name": "94879d27effba114319e4cf9-dlc.rpf",
            "size": 795688960,
            "sha256": "94879d27effba114319e4cf939e0de0f4968e0ae0d607cdee3a2bccae159685a"
+          }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 10982232,
+           "sha256": "498c4a9ae1113c956b3e28c20be81469b7ca2835a8b4316cb9bf35e3fb1e6b61",
+           "parts": [
+            {
+             "name": "498c4a9ae1113c956b3e28c2-dlc.rpf.tmdelta",
+             "size": 10982232,
+             "sha256": "498c4a9ae1113c956b3e28c20be81469b7ca2835a8b4316cb9bf35e3fb1e6b61"
+            }
+           ]
           }
          ]
         }
@@ -4223,6 +4512,23 @@
            "size": 673225216,
            "sha256": "ee2539599fdfbdf66e06680737f8cde27b8f3c1011de51e279a83f8d234ef777"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 5203328,
+           "sha256": "464726a84bf2b07433811e267533190c35d12a69b97a4336659cffc4f4f3059d",
+           "parts": [
+            {
+             "name": "464726a84bf2b07433811e26-dlc.rpf.tmdelta",
+             "size": 5203328,
+             "sha256": "464726a84bf2b07433811e267533190c35d12a69b97a4336659cffc4f4f3059d"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -4316,6 +4622,23 @@
            "size": 658595328,
            "sha256": "2465d98ef48ce41a8cc17010317704d531dc4996b3763920c9df54d93ebb5009"
           }
+         ],
+         "deltas": [
+          {
+           "base": {
+            "size": 636985344,
+            "sha256": "7f22e78cb658713de3b64e0f287fb2af129aa5fc9f156d6c10fcfa3c19f7bcc8"
+           },
+           "size": 6466620,
+           "sha256": "45f4ba8eeb1f9de424977beecaa9370f9e019b11d22ddee75088d0994f1972b8",
+           "parts": [
+            {
+             "name": "45f4ba8eeb1f9de424977bee-dlc.rpf.tmdelta",
+             "size": 6466620,
+             "sha256": "45f4ba8eeb1f9de424977beecaa9370f9e019b11d22ddee75088d0994f1972b8"
+            }
+           ]
+          }
          ]
         }
        ]
@@ -4403,6 +4726,23 @@
          "size": 82057728,
          "sha256": "27eef100bf5fef22f169e996f277276f959818967a92c7ed7ea0e5f6d1f49b6f"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 358013831,
+         "sha256": "c19130db37c144d84b3a6186df804dde55be330d0a2cfd9d14a14140f65f9590",
+         "parts": [
+          {
+           "name": "c19130db37c144d84b3a6186-update.rpf.tmdelta",
+           "size": 358013831,
+           "sha256": "c19130db37c144d84b3a6186df804dde55be330d0a2cfd9d14a14140f65f9590"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4449,6 +4789,23 @@
          "size": 1043397120,
          "sha256": "391860091e799347640023ab07237f6e5af1eec800c5b25f6c622c3bed22f40e"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 712641081,
+         "sha256": "f75f76ab6064e679c5550e58d04acf997173631fa6bd76477fcc820caa7ec7c3",
+         "parts": [
+          {
+           "name": "f75f76ab6064e679c5550e58-update.rpf.tmdelta",
+           "size": 712641081,
+           "sha256": "f75f76ab6064e679c5550e58d04acf997173631fa6bd76477fcc820caa7ec7c3"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4489,6 +4846,23 @@
          "name": "24c4ed27097813a0eb28d63e-update.rpf",
          "size": 1918949376,
          "sha256": "24c4ed27097813a0eb28d63eb90244e953a0c69bd435fc2220f518a121cfb692"
+        }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 107805693,
+         "sha256": "028eb68218b5926a6a43efd016951d41469d01a7f3fe38161c881595cc4f4d6f",
+         "parts": [
+          {
+           "name": "028eb68218b5926a6a43efd0-update.rpf.tmdelta",
+           "size": 107805693,
+           "sha256": "028eb68218b5926a6a43efd016951d41469d01a7f3fe38161c881595cc4f4d6f"
+          }
+         ]
         }
        ]
       }
@@ -4536,6 +4910,23 @@
          "size": 417616896,
          "sha256": "4ed6bbd58438e2e58c9bb05bd1d6887a69051a5679a45d17c33ead2bd20504c1"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 218447553,
+         "sha256": "f9885ef063f042be747455a22241347461b4e3341f24ec8010cf648a1dead65a",
+         "parts": [
+          {
+           "name": "f9885ef063f042be747455a2-update.rpf.tmdelta",
+           "size": 218447553,
+           "sha256": "f9885ef063f042be747455a22241347461b4e3341f24ec8010cf648a1dead65a"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4577,6 +4968,23 @@
          "size": 1712264192,
          "sha256": "af3245ce77f6cf479986ed8c0499fc113c0c9bbc763ede61410d2c9a64fbba32"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 371225891,
+         "sha256": "d95137568f56601a9d1c302c629a8f645e32eb1adb7d7203da4ef544279cd6af",
+         "parts": [
+          {
+           "name": "d95137568f56601a9d1c302c-update.rpf.tmdelta",
+           "size": 371225891,
+           "sha256": "d95137568f56601a9d1c302c629a8f645e32eb1adb7d7203da4ef544279cd6af"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4617,6 +5025,23 @@
          "name": "fdae66c2d42f16f9cd1fdb1d-update.rpf",
          "size": 1866510336,
          "sha256": "fdae66c2d42f16f9cd1fdb1da7d398f67d8444aa91c2963ec153aedf1b889be9"
+        }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 320189176,
+         "sha256": "5c5efa55f6a9f4cd06fb301b62c45ff1a36c75f02f69b2675809bc5b02f9b8eb",
+         "parts": [
+          {
+           "name": "5c5efa55f6a9f4cd06fb301b-update.rpf.tmdelta",
+           "size": 320189176,
+           "sha256": "5c5efa55f6a9f4cd06fb301b62c45ff1a36c75f02f69b2675809bc5b02f9b8eb"
+          }
+         ]
         }
        ]
       }
@@ -4664,6 +5089,23 @@
          "size": 459554816,
          "sha256": "647761472669abad9886ca80972fbcade51712d89d7191bf6965fdcea1b38872"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 251971536,
+         "sha256": "8bb520cce78b83a510d2bf302ebafa49302ceec9545e7c69dc63b7699c1c2237",
+         "parts": [
+          {
+           "name": "8bb520cce78b83a510d2bf30-update.rpf.tmdelta",
+           "size": 251971536,
+           "sha256": "8bb520cce78b83a510d2bf302ebafa49302ceec9545e7c69dc63b7699c1c2237"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4704,6 +5146,23 @@
          "name": "6b84e6c9824ea85e3d87a2e5-update.rpf",
          "size": 1245995520,
          "sha256": "6b84e6c9824ea85e3d87a2e51ee718de750ebce9341a6eb7dda835df3d95aa5c"
+        }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 196975570,
+         "sha256": "d0e54e14f20fcb4e144a968a9186c83d9efd8ad1ee97c3fc14f89defbf0b6363",
+         "parts": [
+          {
+           "name": "d0e54e14f20fcb4e144a968a-update.rpf.tmdelta",
+           "size": 196975570,
+           "sha256": "d0e54e14f20fcb4e144a968a9186c83d9efd8ad1ee97c3fc14f89defbf0b6363"
+          }
+         ]
         }
        ]
       }
@@ -4748,6 +5207,23 @@
          "size": 1493868032,
          "sha256": "e350a535726cb055075e113dc2d623f805950d1dfa689a9d1bd053b2300ec34b"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 185727177,
+         "sha256": "922d8a0067d89528bfcaf8211207313615c69a96d957b97fcdf45fa3efec5e9b",
+         "parts": [
+          {
+           "name": "922d8a0067d89528bfcaf821-update.rpf.tmdelta",
+           "size": 185727177,
+           "sha256": "922d8a0067d89528bfcaf8211207313615c69a96d957b97fcdf45fa3efec5e9b"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4789,6 +5265,23 @@
          "size": 1332538880,
          "sha256": "7c2dd688175988bebe6a2608e8751e782f1dbd54b432cf6172dff0cb08ee88d4"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 137191715,
+         "sha256": "fe64114d3d9f7644d1f2f1eeeb522e11b58128ff76d7b90db7fcd0b2a0738262",
+         "parts": [
+          {
+           "name": "fe64114d3d9f7644d1f2f1ee-update.rpf.tmdelta",
+           "size": 137191715,
+           "sha256": "fe64114d3d9f7644d1f2f1eeeb522e11b58128ff76d7b90db7fcd0b2a0738262"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4829,6 +5322,23 @@
          "name": "c24c637d68f54759f87bde41-update.rpf",
          "size": 856879104,
          "sha256": "c24c637d68f54759f87bde41ec9565f3824f639c978772b4d5350fb2e30daa33"
+        }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 61645711,
+         "sha256": "9fe9b3da48eb42cf801b364a2dff898e750d1ff40fc977bc707f6c03facd72f6",
+         "parts": [
+          {
+           "name": "9fe9b3da48eb42cf801b364a-update.rpf.tmdelta",
+           "size": 61645711,
+           "sha256": "9fe9b3da48eb42cf801b364a2dff898e750d1ff40fc977bc707f6c03facd72f6"
+          }
+         ]
         }
        ]
       }
@@ -4881,6 +5391,23 @@
          "size": 293434368,
          "sha256": "08ab2b110da3c3a40c77527de49bcc75241b8c1ec654aab81da4c7076bf443ac"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 773885089,
+         "sha256": "7c8bb8cc3736398b7c3b50232acf9b23740dd6b9d0c186902e52aa570e4b4b77",
+         "parts": [
+          {
+           "name": "7c8bb8cc3736398b7c3b5023-update.rpf.tmdelta",
+           "size": 773885089,
+           "sha256": "7c8bb8cc3736398b7c3b50232acf9b23740dd6b9d0c186902e52aa570e4b4b77"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4922,6 +5449,23 @@
          "size": 1564772352,
          "sha256": "e2a00c1cd776f5f650c89ee8c7c590dbec14ef034c881ae32a91fd0dd2ab01e3"
         }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 131646508,
+         "sha256": "ed8cf375a5bbae5f3a37fbc1a1008a3dd1d0c80318d026ddab2ae73e2bcc4996",
+         "parts": [
+          {
+           "name": "ed8cf375a5bbae5f3a37fbc1-update.rpf.tmdelta",
+           "size": 131646508,
+           "sha256": "ed8cf375a5bbae5f3a37fbc1a1008a3dd1d0c80318d026ddab2ae73e2bcc4996"
+          }
+         ]
+        }
        ]
       }
      ],
@@ -4962,6 +5506,23 @@
          "name": "35f9afb9a2358c414dd7f427-update.rpf",
          "size": 1481894400,
          "sha256": "35f9afb9a2358c414dd7f42771d02ab813c467ecf0440b3c0158721df4141832"
+        }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 190979787,
+         "sha256": "015d4c94419c99b8371eec3b063e56501fa2fc535e9af2addb8cab5ce4541e19",
+         "parts": [
+          {
+           "name": "015d4c94419c99b8371eec3b-update.rpf.tmdelta",
+           "size": 190979787,
+           "sha256": "015d4c94419c99b8371eec3b063e56501fa2fc535e9af2addb8cab5ce4541e19"
+          }
+         ]
         }
        ]
       }
@@ -5008,6 +5569,23 @@
          "name": "3d878000fc608378c876ad44-update.rpf.p02of02",
          "size": 1045043712,
          "sha256": "321613360f358fb761c5c81eac3c6ae3be083a0baf5ab4a62b139d4bda8f4268"
+        }
+       ],
+       "deltas": [
+        {
+         "base": {
+          "size": 2014193664,
+          "sha256": "913a335314b4c3c616397782e4175d6a3cf217219750cb9b457b4a781a73ddc0"
+         },
+         "size": 712565428,
+         "sha256": "cba18e7f71ccbee7c4a24226b524ca911b017139ecef98ec6cda67a2945b61a1",
+         "parts": [
+          {
+           "name": "cba18e7f71ccbee7c4a24226-update.rpf.tmdelta",
+           "size": 712565428,
+           "sha256": "cba18e7f71ccbee7c4a24226b524ca911b017139ecef98ec6cda67a2945b61a1"
+          }
+         ]
         }
        ]
       }
